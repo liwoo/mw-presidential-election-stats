@@ -1,0 +1,11 @@
+{
+  "year": "2025",
+  "disrict": "CT",
+  "demographics": [
+    {
+      "constituencyCode": "01",
+      "registeredMale": "0",
+      "registeredFemale": "0"
+    }
+  ]
+}
