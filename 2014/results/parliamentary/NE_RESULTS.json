@@ -1,0 +1,135 @@
+{
+  "districtCode": "NE",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "167",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHIPUN",
+          "partyCode": "IND",
+          "votes": 1514
+        },
+        {
+          "candidateCode": "CHIYEM",
+          "partyCode": "DPP",
+          "votes": 8014
+        },
+        {
+          "candidateCode": "COMMSY",
+          "partyCode": "IND",
+          "votes": 3012
+        },
+        {
+          "candidateCode": "KALIAT",
+          "partyCode": "IND",
+          "votes": 1562
+        },
+        {
+          "candidateCode": "KATHUM",
+          "partyCode": "IND",
+          "votes": 5152
+        },
+        {
+          "candidateCode": "LIWOND",
+          "partyCode": "IND",
+          "votes": 390
+        },
+        {
+          "candidateCode": "NSIKIT",
+          "partyCode": "IND",
+          "votes": 2177
+        },
+        {
+          "candidateCode": "NTHUTH",
+          "partyCode": "PP",
+          "votes": 645
+        },
+        {
+          "candidateCode": "SUPPLY",
+          "partyCode": "IND",
+          "votes": 556
+        }
+      ]
+    },
+    {
+      "code": "168",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "BAMUSI",
+          "partyCode": "IND",
+          "votes": 1417
+        },
+        {
+          "candidateCode": "DAFTER",
+          "partyCode": "UDF",
+          "votes": 1745
+        },
+        {
+          "candidateCode": "MJOJOX",
+          "partyCode": "PP",
+          "votes": 1376
+        },
+        {
+          "candidateCode": "MZAONA",
+          "partyCode": "NASAF",
+          "votes": 322
+        },
+        {
+          "candidateCode": "NAMAKH",
+          "partyCode": "MCP",
+          "votes": 386
+        },
+        {
+          "candidateCode": "NAWENA",
+          "partyCode": "IND",
+          "votes": 3913
+        },
+        {
+          "candidateCode": "THOMXX",
+          "partyCode": "DPP",
+          "votes": 20879
+        }
+      ]
+    },
+    {
+      "code": "169",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "JOSWAH",
+          "partyCode": "DPP",
+          "votes": 10982
+        },
+        {
+          "candidateCode": "MPANGA",
+          "partyCode": "IND",
+          "votes": 23553
+        },
+        {
+          "candidateCode": "MAKUPE",
+          "partyCode": "UDF",
+          "votes": 933
+        },
+        {
+          "candidateCode": "MWETAX",
+          "partyCode": "PP",
+          "votes": 782
+        },
+        {
+          "candidateCode": "NYADAN",
+          "partyCode": "IND",
+          "votes": 3882
+        },
+        {
+          "candidateCode": "SALIMA",
+          "partyCode": "MCP",
+          "votes": 219
+        }
+      ]
+    }
+  ]
+}

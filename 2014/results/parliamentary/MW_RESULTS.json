@@ -1,0 +1,79 @@
+{
+  "districtCode": "MW",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "178",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "KHAMIS",
+          "partyCode": "PP",
+          "votes": 2712
+        },
+        {
+          "candidateCode": "LUKAXX",
+          "partyCode": "DPP",
+          "votes": 5206
+        },
+        {
+          "candidateCode": "MUKOTA",
+          "partyCode": "UDF",
+          "votes": 638
+        },
+        {
+          "candidateCode": "MUSOWA",
+          "partyCode": "IND",
+          "votes": 12983
+        }
+      ]
+    },
+    {
+      "code": "179",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHAPON",
+          "partyCode": "DPP",
+          "votes": 7944
+        },
+        {
+          "candidateCode": "KADEWE",
+          "partyCode": "IND",
+          "votes": 4846
+        },
+        {
+          "candidateCode": "MACHIN",
+          "partyCode": "IND",
+          "votes": 1936
+        },
+        {
+          "candidateCode": "MACLLO",
+          "partyCode": "UIP",
+          "votes": 1140
+        },
+        {
+          "candidateCode": "MISOMA",
+          "partyCode": "MCP",
+          "votes": 111
+        },
+        {
+          "candidateCode": "MONGOR",
+          "partyCode": "PPM",
+          "votes": 50
+        },
+        {
+          "candidateCode": "SAMIKW",
+          "partyCode": "UDF",
+          "votes": 593
+        },
+        {
+          "candidateCode": "THUMPW",
+          "partyCode": "PP",
+          "votes": 1891
+        }
+      ]
+    }
+  ]
+}

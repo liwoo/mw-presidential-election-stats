@@ -1,0 +1,58 @@
+{
+  "districtCode": "LK",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "038",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHAIMA",
+          "partyCode": "IND",
+          "votes": 1699
+        },
+        {
+          "candidateCode": "CHIMBA",
+          "partyCode": "MCP",
+          "votes": 8827
+        },
+        {
+          "candidateCode": "KAPOND",
+          "partyCode": "UDF",
+          "votes": 671
+        },
+        {
+          "candidateCode": "MAKWIN",
+          "partyCode": "PP",
+          "votes": 4361
+        },
+        {
+          "candidateCode": "MINOFU",
+          "partyCode": "DPP",
+          "votes": 1494
+        },
+        {
+          "candidateCode": "MTAMBA",
+          "partyCode": "IND",
+          "votes": 4684
+        },
+        {
+          "candidateCode": "NKHOMA",
+          "partyCode": "IND",
+          "votes": 1963
+        },
+        {
+          "candidateCode": "SAINIX",
+          "partyCode": "IND",
+          "votes": 2418
+        },
+        {
+          "candidateCode": "TONGOZ",
+          "partyCode": "IND",
+          "votes": 5904
+        }
+      ]
+    }
+  ]
+}

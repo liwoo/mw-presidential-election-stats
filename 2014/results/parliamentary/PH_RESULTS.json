@@ -1,0 +1,197 @@
+{
+  "districtCode": "PH",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "180",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ADINIX",
+          "partyCode": "NASAF",
+          "votes": 1422
+        },
+        {
+          "candidateCode": "KALIAT",
+          "partyCode": "DPP",
+          "votes": 14208
+        },
+        {
+          "candidateCode": "KALOND",
+          "partyCode": "IND",
+          "votes": 1575
+        },
+        {
+          "candidateCode": "MATHAN",
+          "partyCode": "PP",
+          "votes": 3105
+        },
+        {
+          "candidateCode": "NAMAON",
+          "partyCode": "MCP",
+          "votes": 2871
+        },
+        {
+          "candidateCode": "NOWAXX",
+          "partyCode": "IND",
+          "votes": 355
+        },
+        {
+          "candidateCode": "SAPUWA",
+          "partyCode": "UDF",
+          "votes": 1995
+        },
+        {
+          "candidateCode": "TIWALE",
+          "partyCode": "PPM",
+          "votes": 894
+        },
+        {
+          "candidateCode": "WACHEP",
+          "partyCode": "UIP",
+          "votes": 1816
+        }
+      ]
+    },
+    {
+      "code": "181",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "KALIAT",
+          "partyCode": "DPP",
+          "votes": 13645
+        },
+        {
+          "candidateCode": "KOLOVE",
+          "partyCode": "PP",
+          "votes": 5432
+        },
+        {
+          "candidateCode": "NANTHA",
+          "partyCode": "UDF",
+          "votes": 972
+        },
+        {
+          "candidateCode": "SAINIX",
+          "partyCode": "IND",
+          "votes": 2141
+        }
+      ]
+    },
+    {
+      "code": "182",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "AUFIXX",
+          "partyCode": "PP",
+          "votes": 733
+        },
+        {
+          "candidateCode": "GAMAXX",
+          "partyCode": "PP",
+          "votes": 1643
+        },
+        {
+          "candidateCode": "KALIAT",
+          "partyCode": "IND",
+          "votes": 2249
+        },
+        {
+          "candidateCode": "MULIMB",
+          "partyCode": "UDF",
+          "votes": 469
+        },
+        {
+          "candidateCode": "NAMACH",
+          "partyCode": "DPP",
+          "votes": 3164
+        },
+        {
+          "candidateCode": "NEDIEX",
+          "partyCode": "IND",
+          "votes": 2307
+        },
+        {
+          "candidateCode": "TAMBAL",
+          "partyCode": "IND",
+          "votes": 7216
+        }
+      ]
+    },
+    {
+      "code": "183",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "KARIMX",
+          "partyCode": "PP",
+          "votes": 9811
+        },
+        {
+          "candidateCode": "BLACKX",
+          "partyCode": "PPM",
+          "votes": 302
+        },
+        {
+          "candidateCode": "BONDOX",
+          "partyCode": "IND",
+          "votes": 726
+        },
+        {
+          "candidateCode": "KUBVUN",
+          "partyCode": "UDF",
+          "votes": 412
+        },
+        {
+          "candidateCode": "LUYAXX",
+          "partyCode": "IND",
+          "votes": 1172
+        },
+        {
+          "candidateCode": "MALUNG",
+          "partyCode": "DPP",
+          "votes": 5136
+        },
+        {
+          "candidateCode": "NGALUX",
+          "partyCode": "IND",
+          "votes": 2983
+        }
+      ]
+    },
+    {
+      "code": "184",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "KHULEY",
+          "partyCode": "PP",
+          "votes": 4330
+        },
+        {
+          "candidateCode": "MALOLA",
+          "partyCode": "DPP",
+          "votes": 14804
+        },
+        {
+          "candidateCode": "MΙΑXXX",
+          "partyCode": "IND",
+          "votes": 5452
+        },
+        {
+          "candidateCode": "MODAXX",
+          "partyCode": "MCP",
+          "votes": 256
+        },
+        {
+          "candidateCode": "PHIRIX",
+          "partyCode": "UDF",
+          "votes": 1013
+        }
+      ]
+    }
+  ]
+}

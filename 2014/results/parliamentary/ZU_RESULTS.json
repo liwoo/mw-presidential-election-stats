@@ -1,0 +1,130 @@
+{
+  "districtCode": "ZU",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "035",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "BANDAX",
+          "partyCode": "IND",
+          "votes": 3638
+        },
+        {
+          "candidateCode": "CHIPET",
+          "partyCode": "IND",
+          "votes": 649
+        },
+        {
+          "candidateCode": "CHIZIW",
+          "partyCode": "IND",
+          "votes": 1048
+        },
+        {
+          "candidateCode": "GAMBAT",
+          "partyCode": "DPP",
+          "votes": 3639
+        },
+        {
+          "candidateCode": "KADENG",
+          "partyCode": "UDF",
+          "votes": 259
+        },
+        {
+          "candidateCode": "KANYAN",
+          "partyCode": "PP",
+          "votes": 3954
+        },
+        {
+          "candidateCode": "NKHOMA",
+          "partyCode": "MCP",
+          "votes": 7689
+        },
+        {
+          "candidateCode": "SITHOL",
+          "partyCode": "IND",
+          "votes": 8455
+        }
+      ]
+    },
+    {
+      "code": "036",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "BANDAX",
+          "partyCode": "IND",
+          "votes": 1015
+        },
+        {
+          "candidateCode": "CHALIW",
+          "partyCode": "UDF",
+          "votes": 723
+        },
+        {
+          "candidateCode": "GULULE",
+          "partyCode": "IND",
+          "votes": 5765
+        },
+        {
+          "candidateCode": "JANDAL",
+          "partyCode": "PP",
+          "votes": 5595
+        },
+        {
+          "candidateCode": "JEREXX",
+          "partyCode": "DPP",
+          "votes": 4071
+        },
+        {
+          "candidateCode": "MAJORX",
+          "partyCode": "MCP",
+          "votes": 14926
+        },
+        {
+          "candidateCode": "MAKAKA",
+          "partyCode": "IND",
+          "votes": 5396
+        }
+      ]
+    },
+    {
+      "code": "037",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHIZOM",
+          "partyCode": "UDF",
+          "votes": 587
+        },
+        {
+          "candidateCode": "LANGAX",
+          "partyCode": "IND",
+          "votes": 2694
+        },
+        {
+          "candidateCode": "MTEGHA",
+          "partyCode": "DPP",
+          "votes": 5611
+        },
+        {
+          "candidateCode": "MTONGA",
+          "partyCode": "MCP",
+          "votes": 10238
+        },
+        {
+          "candidateCode": "NEWAXX",
+          "partyCode": "PP",
+          "votes": 5570
+        },
+        {
+          "candidateCode": "RITCHE",
+          "partyCode": "AFORD",
+          "votes": 670
+        }
+      ]
+    }
+  ]
+}
