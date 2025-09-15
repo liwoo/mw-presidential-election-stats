@@ -37,6 +37,7 @@ BA (Balaka), BL (Blantyre), CK (Chikwawa), CR (Chiradzulu), CT (Chitipa), DE (De
 - **LAZCHA** (Lazarus Chakwera) - MCP
 - **ATUMUL** (Atupele Muluzi) - UDF
 - **JOYBAN** (Joyce Banda) - PP
+- **SAUCHI** (Saulos Klaus Chilima) - UTM
 
 ### **2020 Fresh Presidential Election**
 **Main Candidates**:

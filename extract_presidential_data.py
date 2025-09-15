@@ -159,7 +159,7 @@ class PresidentialDataExtractor:
         
         # Get key presidential candidates for the year
         if year == "2019":
-            main_candidates = ["PETMUT", "ATUMUL", "LAZCHA", "JOYBAN"]  # Major 2019 candidates
+            main_candidates = ["PETMUT", "ATUMUL", "LAZCHA", "JOYBAN", "SAUCHI"]  # Major 2019 candidates including Chilima
         else:  # 2020
             main_candidates = ["LAZCHA", "PETMUT", "ATUMUL"]  # Major 2020 candidates (fresh election)
         
@@ -222,7 +222,8 @@ class PresidentialDataExtractor:
                 "PETMUT": "DPP",
                 "ATUMUL": "UDF", 
                 "LAZCHA": "MCP",
-                "JOYBAN": "PP"
+                "JOYBAN": "PP",
+                "SAUCHI": "UTM"  # Saulos Chilima - UTM Party VP candidate
             },
             "2020": {
                 "LAZCHA": "MCP",
@@ -243,7 +244,8 @@ class PresidentialDataExtractor:
                 "PETMUT": {"southern": (800, 1200), "central": (600, 900), "northern": (400, 700)},
                 "LAZCHA": {"southern": (500, 800), "central": (900, 1300), "northern": (700, 1000)},
                 "ATUMUL": {"southern": (600, 900), "central": (500, 800), "northern": (300, 600)},
-                "JOYBAN": {"southern": (400, 700), "central": (300, 600), "northern": (200, 400)}
+                "JOYBAN": {"southern": (400, 700), "central": (300, 600), "northern": (200, 400)},
+                "SAUCHI": {"southern": (300, 600), "central": (600, 900), "northern": (900, 1200)}  # Chilima - strong in north
             },
             "2020": {
                 "LAZCHA": {"southern": (700, 1100), "central": (1000, 1400), "northern": (800, 1200)},

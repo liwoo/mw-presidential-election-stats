@@ -1,7 +1,7 @@
 {
   "districtCode": "MW",
   "type": "presidential",
-  "nullVotes": 36,
+  "nullVotes": 34,
   "constituencies": [
     {
       "code": "178",
@@ -10,22 +10,27 @@
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 1252
+          "votes": 1074
         },
         {
           "candidateCode": "ATUMUL",
           "partyCode": "UDF",
-          "votes": 1087
+          "votes": 677
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 701
+          "votes": 727
         },
         {
           "candidateCode": "JOYBAN",
           "partyCode": "PP",
-          "votes": 550
+          "votes": 732
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 452
         }
       ]
     },
@@ -36,22 +41,27 @@
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 1304
+          "votes": 1151
         },
         {
           "candidateCode": "ATUMUL",
           "partyCode": "UDF",
-          "votes": 1024
+          "votes": 784
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 814
+          "votes": 689
         },
         {
           "candidateCode": "JOYBAN",
           "partyCode": "PP",
-          "votes": 551
+          "votes": 585
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 553
         }
       ]
     }
