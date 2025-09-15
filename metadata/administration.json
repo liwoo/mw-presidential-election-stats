@@ -1,0 +1,15 @@
+{
+  "districts": [
+    {
+      "code": "CT",
+      "name": "Chitipa",
+      "region": "Southern",
+      "constituencies": [
+        {
+          "code": "153",
+          "name": "Chitipa East"
+        }
+      ]
+    }
+  ]
+}

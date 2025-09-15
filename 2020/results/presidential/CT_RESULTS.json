@@ -1,0 +1,33 @@
+{
+  "districtCode": "CT",
+  "type": "presidential",
+  "nullVotes": 12,
+  "constituencies": [
+    {
+      "code": "153",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 24
+        },
+        {
+          "candidateCode": "IDRNGU",
+          "partyCode": "DPP",
+          "votes": 29
+        },
+        {
+          "candidateCode": "JUDNGW",
+          "partyCode": "IND",
+          "votes": 56
+        },
+        {
+          "candidateCode": "CHAROK",
+          "partyCode": "IND",
+          "votes": 44
+        }
+      ]
+    }
+  ]
+}
