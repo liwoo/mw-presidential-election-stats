@@ -1,0 +1,215 @@
+{
+  "districtCode": "NU",
+  "type": "presidential",
+  "nullVotes": 42,
+  "constituencies": [
+    {
+      "code": "124",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 995
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 759
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 698
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 527
+        }
+      ]
+    },
+    {
+      "code": "125",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1043
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 678
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 822
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 623
+        }
+      ]
+    },
+    {
+      "code": "126",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1098
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 742
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 724
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 465
+        }
+      ]
+    },
+    {
+      "code": "127",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1074
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 854
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 752
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 487
+        }
+      ]
+    },
+    {
+      "code": "128",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 999
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 779
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 746
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 625
+        }
+      ]
+    },
+    {
+      "code": "129",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 996
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 671
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 831
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 527
+        }
+      ]
+    },
+    {
+      "code": "130",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 947
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 718
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 658
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 517
+        }
+      ]
+    },
+    {
+      "code": "131",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1091
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 806
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 646
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 470
+        }
+      ]
+    }
+  ]
+}

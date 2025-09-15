@@ -1,0 +1,73 @@
+{
+  "districtCode": "NU",
+  "type": "presidential",
+  "nullVotes": 2009,
+  "constituencies": [
+    {
+      "code": "000",
+      "isLegacy": true,
+      "candidates": [
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 18484
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 15884
+        },
+        {
+          "candidateCode": "KAMCHI",
+          "partyCode": "PETRA",
+          "votes": 993
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 440
+        },
+        {
+          "candidateCode": "FRIJUM",
+          "partyCode": "NLP",
+          "votes": 445
+        },
+        {
+          "candidateCode": "AARKAT",
+          "partyCode": "CCP",
+          "votes": 238
+        },
+        {
+          "candidateCode": "AARKAT",
+          "partyCode": "PPM",
+          "votes": 573
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 16326
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 123703
+        },
+        {
+          "candidateCode": "GEONNE",
+          "partyCode": "MAFUNDE",
+          "votes": 890
+        },
+        {
+          "candidateCode": "JAMNYO",
+          "partyCode": "NASAF",
+          "votes": 278
+        },
+        {
+          "candidateCode": "ABUSIN",
+          "partyCode": "UIP",
+          "votes": 518
+        }
+      ]
+    }
+  ]
+}

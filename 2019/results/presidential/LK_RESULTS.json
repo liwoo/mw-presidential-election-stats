@@ -1,0 +1,33 @@
+{
+  "districtCode": "LK",
+  "type": "presidential",
+  "nullVotes": 33,
+  "constituencies": [
+    {
+      "code": "038",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 488
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 427
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 945
+        },
+        {
+          "candidateCode": "JOYBAN",
+          "partyCode": "PP",
+          "votes": 322
+        }
+      ]
+    }
+  ]
+}
