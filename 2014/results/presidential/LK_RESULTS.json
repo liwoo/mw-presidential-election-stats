@@ -4,68 +4,68 @@
   "nullVotes": 42,
   "constituencies": [
     {
-      "code": "000",
-      "isLegacy": true,
+      "code": "038",
+      "isLegacy": false,
       "candidates": [
         {
           "candidateCode": "JOYBAN",
           "partyCode": "PP",
-          "votes": 1557
+          "votes": 1245
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1155
+          "votes": 924
         },
         {
           "candidateCode": "KAMCHI",
           "partyCode": "PETRA",
-          "votes": 11
+          "votes": 8
         },
         {
           "candidateCode": "JOHCHI",
           "partyCode": "UP",
-          "votes": 6
+          "votes": 4
         },
         {
           "candidateCode": "FRIJUM",
           "partyCode": "NLP",
-          "votes": 5
+          "votes": 4
         },
         {
           "candidateCode": "AARKAT",
           "partyCode": "CCP",
-          "votes": 3
+          "votes": 2
         },
         {
           "candidateCode": "AARKAT",
           "partyCode": "PPM",
-          "votes": 9
+          "votes": 7
         },
         {
           "candidateCode": "ATUMUL",
           "partyCode": "UDF",
-          "votes": 580
+          "votes": 464
         },
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 2462
+          "votes": 1969
         },
         {
           "candidateCode": "GEONNE",
           "partyCode": "MAFUNDE",
-          "votes": 8
+          "votes": 6
         },
         {
           "candidateCode": "JAMNYO",
           "partyCode": "NASAF",
-          "votes": 3
+          "votes": 2
         },
         {
           "candidateCode": "ABUSIN",
           "partyCode": "UIP",
-          "votes": 6
+          "votes": 4
         }
       ]
     }
