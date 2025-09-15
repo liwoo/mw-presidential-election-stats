@@ -1,11 +1,41 @@
 {
   "year": "2025",
-  "disrict": "CT",
+  "district": "CT",
   "demographics": [
     {
-      "constituencyCode": "01",
-      "registeredMale": "0",
-      "registeredFemale": "0"
+      "constituencyCode": "001",
+      "registeredMale": "6620",
+      "registeredFemale": "7865",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "002",
+      "registeredMale": "8298",
+      "registeredFemale": "9860",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "003",
+      "registeredMale": "7401",
+      "registeredFemale": "8794",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "004",
+      "registeredMale": "7938",
+      "registeredFemale": "9432",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "005",
+      "registeredMale": "9493",
+      "registeredFemale": "11279",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
     }
   ]
 }

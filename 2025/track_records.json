@@ -1,0 +1,19 @@
+{
+  "year": "2025",
+  "trackRecords": {
+    "JOYBAN": [
+      {
+        "year": 2019,
+        "position": 3,
+        "totalVotes": 1000,
+        "percentage": 25
+      },
+      {
+        "year": 2014,
+        "position": 2,
+        "totalVotes": 1000,
+        "percentage": 25
+      }
+    ]
+  }
+}

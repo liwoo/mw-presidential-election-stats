@@ -1,0 +1,41 @@
+{
+  "year": "2025",
+  "district": "CR",
+  "demographics": [
+    {
+      "constituencyCode": "185",
+      "registeredMale": "10973",
+      "registeredFemale": "17677",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "186",
+      "registeredMale": "11922",
+      "registeredFemale": "19205",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "187",
+      "registeredMale": "11498",
+      "registeredFemale": "18523",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "188",
+      "registeredMale": "10782",
+      "registeredFemale": "17370",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "189",
+      "registeredMale": "11079",
+      "registeredFemale": "17849",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    }
+  ]
+}

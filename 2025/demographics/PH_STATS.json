@@ -1,0 +1,41 @@
+{
+  "year": "2025",
+  "district": "PH",
+  "demographics": [
+    {
+      "constituencyCode": "180",
+      "registeredMale": "12044",
+      "registeredFemale": "18758",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "181",
+      "registeredMale": "16591",
+      "registeredFemale": "25842",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "182",
+      "registeredMale": "14775",
+      "registeredFemale": "23013",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "183",
+      "registeredMale": "11144",
+      "registeredFemale": "17358",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "184",
+      "registeredMale": "12152",
+      "registeredFemale": "18928",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    }
+  ]
+}

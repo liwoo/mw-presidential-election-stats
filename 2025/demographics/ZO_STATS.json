@@ -1,0 +1,83 @@
+{
+  "year": "2025",
+  "district": "ZO",
+  "demographics": [
+    {
+      "constituencyCode": "158",
+      "registeredMale": "13879",
+      "registeredFemale": "21437",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "159",
+      "registeredMale": "11742",
+      "registeredFemale": "18135",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "160",
+      "registeredMale": "12828",
+      "registeredFemale": "19812",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "161",
+      "registeredMale": "15301",
+      "registeredFemale": "23633",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "162",
+      "registeredMale": "11655",
+      "registeredFemale": "18002",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "163",
+      "registeredMale": "12697",
+      "registeredFemale": "19610",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "164",
+      "registeredMale": "14292",
+      "registeredFemale": "22074",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "165",
+      "registeredMale": "11019",
+      "registeredFemale": "17019",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "166",
+      "registeredMale": "10333",
+      "registeredFemale": "15960",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "176",
+      "registeredMale": "11884",
+      "registeredFemale": "18355",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "177",
+      "registeredMale": "10615",
+      "registeredFemale": "16396",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    }
+  ]
+}

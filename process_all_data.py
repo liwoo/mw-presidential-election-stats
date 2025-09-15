@@ -1,0 +1,1217 @@
+import json
+import re
+import os
+
+constituency_voters_text = '''
+MEC
+MALAWI ELECTORAL COMMISSION
+MALAWI ELECTORAL COMMISSION
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+CODE AND NAME OF COUNCIL NAME
+REGION
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+01- Northern Region
+Chitipa District Council
+001-CHITIPA NORTH
+14,485
+002-CHITIPA CENTRAL
+18,158
+003-CHITIPA EAST
+16,195
+004-CHITIPA CHENDO
+17,370
+005-CHITIPA SOUTH
+20,772
+Karonga District Council
+006-KARONGA SONGWE
+19,238
+007-KARONGA LUFILYA
+22,640
+008-KARONGA CENTRAL
+20,657
+009-KARONGA NYUNGWE
+29,747
+010-KARONGA SOUTH
+30,148
+Karonga Town Council
+011-KARONGA TOWN
+26,702
+Rumphi District Council
+012-RUMPHI NORTH
+24,157
+013-RUMPHI WEST
+22,419
+014-RUMPHI EAST
+23,977
+015-RUMPHI CENTRAL
+24,383
+M'mbelwa (Mzimba) District
+Council)
+016-MZIMBA NORTH
+29,700
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 1 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+01-Northern Region
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+M'mbelwa (Mzimba) District
+Council)
+017-MZIMBA WEST
+28,172
+018-MZIMBA KAFUKULE
+22,592
+019-MZIMBA NORTH EAST
+32,996
+020-MZIMBA CENTRAL
+30,170
+021-MZIMBA EAST
+33,200
+022- MZIMBA HORA
+26,368
+023-MZIMBA SOUTH WEST
+25,738
+024-MZIMBA SOLOLA
+29,107
+025-MZIMBA PEREKEZI
+26,140
+026-MZIMBA SOUTH
+31,818
+027-MZIMBA SOUTH EAST
+23,482
+028-MZIMBA LUWEREZI
+32,080
+Nkhata Bay District Council
+029- NKHATA BAY NORTH
+13,830
+030-NKHATA BAY MPAMBA
+17,280
+031-NKHATA BAY CENTRAL
+21,115
+032- NKHATA BAY WEST
+18,504
+033-NKHATA BAY CHINTHECHE
+17,121
+Mzuzu City Council
+034-NKHATA BAY SOUTH
+19,556
+035-MZUZU CITY NORTH
+23,183
+036-MZUZU CITY SOUTH WEST
+22,711
+037-MZUZU CITY SOUTH EAST
+30,735
+Likoma District Council
+038-LIKOMA ISLANDS
+8,664
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 2 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+02 - Central Region
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+Nkhotakota District Council
+039-NKHOTAKOTA DWANGWA
+25,896
+040- NKHOTAKOTA LIWALADZI
+25,663
+041-NKHОTАKОTA CENTRAL
+41,403
+042 - NKHOTAKOTA CHIA
+36,091
+043-NKHОTАКОТА MKHULA
+43,278
+Kasungu District Council
+044-KASUNGU NORTH
+36,823
+045-KASUNGU NORTH WEST
+33,114
+046-KASUNGU WEST
+40,680
+047-KASUNGU NORTH NORTH EAST
+32,201
+048-KASUNGU EAST
+36,105
+049-KASUNGU NORTH EAST
+32,782
+050-KASUNGU CENTRAL
+36,932
+051-KASUNGU SOUTH EAST
+31,910
+052-KASUNGU SOUTH WEST
+31,293
+053-KASUNGU SOUTH
+33,201
+Kasungu Municipal Council
+054-KASUNGU MUNICIPALITY
+25,645
+Ntchisi District Council
+055-NTCHISI NORTH
+28,409
+056-NTCHISI WEST
+28,257
+057-NTCHISI CENTRAL EAST
+26,318
+058-NTCHISI EAST
+27,608
+059-NTCHISI SOUTH
+31,207
+Dowa District Council
+060-DOWA NGALA
+33,954
+061-DOWA KASANGADZI
+33,153
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 3 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+02 - Central Region
+Dowa District Council
+062-DOWA MPHUDZU
+34,205
+063-DOWA CENTRAL
+34,770
+064-DOWA MNDOLERA
+30,744
+065-DOWA NORTH EAST
+33,296
+066-DOWA WEST
+34,542
+067-DOWA EAST
+40,731
+068-DOWA CENTRAL EAST
+28,104
+069-DOWA SOUTH EAST
+43,796
+Mchinji District Council
+070-MCHINJI NORTH EAST
+34,482
+071-MCHINJI NORTH
+42,421
+072-MCHINJI EAST
+36,586
+073-MCHINJI WEST
+28,932
+074-MCHINJI CENTRAL EAST
+44,768
+075-MCHINJI SOUTH WEST
+33,041
+076-MCHINJI SOUTH
+32,375
+Salima District Council
+077-SALIMA NORTH
+36,361
+078-SALIMA CENTRAL WEST
+35,222
+079-SALima CENTRAL EAST
+23,148
+080-SALIMA CENTRAL
+29,633
+081-SALIMA SOUTH LINTHIPE
+33,550
+082-SALIMA SOUTH
+28,671
+Lilongwe District Council
+083-LILONGWE CHILOBWE
+58,054
+084-LILONGWE MPHANDE
+55,414
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 4 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+02 - Central Region
+Lilongwe District Council
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+085-LILONGWE MUDE
+54,205
+086-LILONGWE DEMERA
+51,447
+087-LILONGWE CHIWAMBA
+55,070
+088-LILONGWE EAST
+25,453
+089-LILONGWE MAPUYU NORTH
+52,089
+090-LILONGWE MACHENGA
+36,724
+091-LILONGWE NKHOMA
+49,976
+092-LILONGWE LIKUNI
+44,189
+093-LILONGWE CENTRAL
+34,125
+094-LILONGWE MPENU
+34,470
+095-LILONGWE MAPUYU SOUTH
+44,940
+096-LILONGWE NYANJA
+35,292
+097-LILONGWE MSOZI
+37,074
+098-LILONGWE BUNDA
+39,829
+099-LILONGWE PHIRILANJUZI
+38,804
+100-LILONGWE MSINJA SOUTH
+43,351
+101 - LILONGWE MSINJA NORTH
+36,273
+Lilongwe City Council
+102 - LILONGWE CITY LUMBADZI
+39,506
+103-LILONGWE CITY DZENZA
+35,451
+104-LILONGWE CITY CENTRE
+46,800
+105-LILONGWE CITY CHIPALA-NAFISI
+32,199
+106 - LILONGWE CITY NANKHAKA
+26,981
+107 - LILONGWE CITY MTANDIRE-MTSIRIZA
+37,617
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 5 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+02 - Central Region
+Lilongwe City Council
+108- LILONGWE CITY BWAILA
+36,249
+109 - LILONGWE CITY MASINTHA
+34,962
+110-LILONGWE CITY M\'BUKA
+25,543
+111-LILONGWE CITY MLODZA
+30,751
+112 - LILONGWE CITY KAMPHUNO
+32,473
+113-LILONGWE CITY NGWENYA
+31,093
+Dedza District Council
+114 - DEDZA MAYANI
+42,103
+115-DEDZA MLUNDUNI
+38,396
+116-DEDZA KASINA
+40,486
+117-DEDZA MTAKΑΤΑΚΑ
+21,875
+118-DEDZA LINTHIPE
+40,876
+119 - DEDZA BOMA
+30,918
+120 - DEDZA GOLOMOTI
+32,851
+121-DEDZA CHIKOMA
+36,670
+122 - DEDZA MPHUNZI
+33,565
+123 - DEDZA DZALANYAMA
+37,443
+Ntcheu District Council
+124 - NTCHEU NORTH
+21,313
+125-NTCHEU BWANJE
+27,376
+126-NTCHEU NORTH WEST
+19,279
+127-NTCHEU CENTRAL EAST
+22,708
+128-NTCHEU CENTRAL
+24,088
+129-NTCHEU DZONZI MVAI
+17,663
+130-NTCHEU CENTRAL CENTRAL EAST
+18,332
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 6 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+02 - Central Region
+03- Southern Region
+Ntcheu District Council
+131-NTCHEU SOUTH
+22,115
+Mangochi District Council
+132-MANGOCHI NORTH
+31,307
+133-MANGOCHI LUTENDE
+27,777
+134-MANGOCHI EAST
+33,243
+135-MANGOCHI MONKEY BAY
+41,412
+136-MANGOCHI WEST
+31,923
+137-MANGOCHI CENTRAL
+33,149
+138 - MANGOCHI NORTH EAST
+33,078
+139-MANGOCHI MASONGOLA
+37,834
+140-MANGOCHI SOUTH WEST
+37,599
+141-MANGOCHI SOUTH
+39,172
+142 - MANGOCHI MALOMBE
+28,021
+143-MANGOCHI NKUNGULU
+36,088
+Mangochi Municipal Council
+144- MANGOCHI MUNICIPALITY
+37,840
+Machinga District Council
+145-MACHINGA NORTH EAST
+36,344
+146-MACHINGA SOUTH EAST
+36,587
+147 - MACHINGA CENTRAL
+25,881
+148-MACHINGA EAST
+33,928
+149-MACHINGA MIΚΟΚΟ
+29,665
+150 - MACHINGA CENTRAL EAST
+30,496
+151-MACHINGA LIKWENU
+26,344
+152-MACHINGA SOUTH
+33,931
+Balaka District Council
+153 - BALAKA ULONGWE
+33,953
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 7 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+03 - Southern Region
+Balaka District Council
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+154-BALAKA BWAILA
+29,770
+155-BALAKA NGWANGWA
+31,743
+156-BALAKA RIVIRIVI
+39,526
+157-BALAKA MULUNGUZI
+35,035
+Zomba District Council
+158 - ZOMBA MALOSA
+35,316
+159-ZOMBA NSONDOLE
+29,877
+160 - ZOMBA CHINGALE
+32,640
+161 - ZOMBA LIKANGALA
+38,934
+162-ZOMBA CHANGALUME
+29,657
+163-ZOMΒΑ ΝΤΟΝYA
+32,307
+164-ZOMBA MATIYA
+36,366
+165 - ZOMBA THONDWE
+28,038
+166-ZOMBA CHIKOMWE
+26,293
+Neno District Council
+167 - ΝΕΝO NORTH
+17,755
+168 - ΝΕΝO EAST
+18,651
+169 - ΝΕΝO SOUTH
+14,420
+Blantyre District Council
+170 - BLANTYRE NORTH
+29,542
+171-BLANTYRE CENTRAL
+26,788
+172 - BLANTYRE WEST
+21,939
+173-BLANTYRE NORTH EAST
+37,259
+174-BLANTYRE SOUTH WEST
+26,772
+175 - BLANTYRE SOUTH EAST
+24,439
+Zomba City Council
+176 - ZOMBA CITY NORTH
+30,239
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 8 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+03 - Southern Region
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+Zomba City Council
+177-ZOMBA CITY SOUTH
+27,011
+Mwanza District Council
+178 - MWANZA CENTRAL
+24,367
+179-MWANZA WEST
+26,678
+Phalombe District Council
+180-PHALOMBE NORTH
+30,802
+181-PHALOMBE NORTH EAST
+42,433
+182-PHALOMBE MACHEMBA
+37,788
+183-PHALOMBE SOUTH
+28,502
+184 - PHALOMBE EAST
+31,080
+Chiradzulu District Council
+185-CHIRADZULU NYUNGWE
+28,650
+186- CHIRADZULU MASANJALA
+31,127
+187-CHIRADZULU THUMBWE
+30,021
+188-CHIRADZULU NGULUDI
+28,152
+189- CHIRADZULU MIDIMA
+28,928
+Mulanje District Council
+190 - MULANJE NORTH
+26,928
+191 - MULANJE WEST
+31,070
+192-MULANJE PASANI
+28,886
+193 - MULANJE SOUTH WEST
+27,454
+194-MULANJE LIMBULI
+39,743
+195-MULANJE SOUTH
+31,127
+196-MULANJE CENTRAL
+35,183
+197 - MULANJE SOUTH EAST
+32,347
+198 - MULANJE BALE
+27,023
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 9 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+03 - Southern Region
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+Blantyre City Council
+199-BLANTYRE CITY SOUTH LUNZU
+30,134
+200-BLANTYRE CITY MICHIRU-CHIRIMBA
+24,117
+201-BLANTYRE CITY MAPANGA-MPINGWE-MZEDI
+30,476
+202-BLANTYRE CITY NDIRANDE MALABADA NYAMBADWE
+33,058
+203-BLANTYRE CITY CHILOMONI KABULA NANCHOLI
+37,250
+204-BLANTYRE CITY MBAYANI-MUSSA MAGASA
+21,291
+205-BLANTYRE CITY NKOLOKOTI-NDIRANDE MATOPE
+32,245
+206-BLANTYRE CITY CHICHIRI-MISESA
+35,107
+207-BLANTYRE CITY SOCHE-ZINGWANGWA
+31,728
+208- BLANTYRE CITY CHIGUMULA BCA-CLUB BΑΝΑΝΑ
+31,125
+Chikwawa District Council
+209-CHIKWAWA WEST
+40,685
+210-CHIKWAWA NORTH
+32,948
+211-CHIKWAWA CENTRAL WEST
+35,366
+212-CHIKWAWA CENTRAL
+39,542
+213-CHIKWAWA EAST
+36,534
+214-CHIKWAWA MKOMBEDZI
+42,390
+215-CHIKWAWA SOUTH
+43,302
+Thyolo Distict Council
+216-THYOLO MIKOLONGWE
+26,352
+217-THYOLO GOLIATI
+35,107
+218-THYOLO BVUMBWE-MASENJERE
+33,507
+219-THYOLO KHONJENI-MANGUNDA
+29,565
+220-THYOLO CENTRAL
+36,586
+221-THYOLO THAVA
+41,854
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 10 of 11
+CODE AND NAME OF COUNCIL NAME
+REGION
+03 - Southern Region
+CODE AND NAME OF CONSTITUENCY
+FINAL VOTER
+REGISTRATION FIGURES
+Thyolo Distict Council
+222-THYOLO MASAMBANJATI
+24,947
+223-THYOLO THEKERANI
+25,187
+Luchenza Municipal Council
+224-LUCHENZA
+10,237
+Nsanje District Council
+225-NSANJE NORTH
+31,728
+226-NSANJE LALANJE
+31,767
+227-NSANJE CENTRAL
+24,507
+228-NSANJE SOUTH WEST
+29,195
+229-NSANJE SOUTH
+30,303
+TOTAL NUMBER OF REGISTERED VOTERS AT NATIONAL LEVEL
+7,203,390
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS BY CONSTITUENCY
+Page 11 of 11
+'''
+
+council_gender_stats_text = '''
+MALAWI KLOCTORSE COMMISSION
+MALAWI ELECTORAL COMMISSION
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS PER COUNCIL BY GENDER
+Number of Registered Voters per
+Projected Population of people in the Councils,
+to be aged 18 years old and above by 16th September 2025 (Source: NSO)
+Number of Registered Voters per Council by Council by Gender as a percentage of
+Projected Population aged 18 years
+and above by 16th September 2025
+Number of Registered Voters per
+Council by Gender as a percentage of
+Total Registered Voters
+COUNCIL NAME
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+1 Chitipa
+67,813
+76,744
+144,557
+39,746
+47,234
+86,980
+58.6
+61.5
+60.2
+45.7
+54.3
+100
+2 Karonga
+83,670
+97,780
+181,450
+54,420
+68,010
+122,430
+65.0
+69.6
+67.5
+44.4
+55.6
+100
+3 Karonga Town
+19,506
+21,542
+41,048
+12,115
+14,587
+26,702
+62.1
+67.7
+65.1
+45.4
+54.6
+100
+4 Rumphi
+67,513
+73,926
+141,439
+45,143
+49,793
+94,936
+66.9
+67.4
+67.1
+47.6
+52.4
+100
+5 M\'mbelwa
+267,844
+307,952
+575,796
+166,987
+204,576
+371,563
+62.3
+66.4
+64.5
+44.9
+55.1
+100
+6 Nkhata Bay
+81,774
+92,305
+174,079
+51,474
+55,932
+107,406
+62.9
+60.6
+61.7
+47.9
+52.1
+100
+7 Mzuzu City
+75,809
+79,181
+154,990
+35,945
+40,684
+76,629
+47.4
+51.4
+49.4
+46.9
+53.1
+100
+8 Likoma
+4,968
+5,175
+10,143
+4,115
+4,549
+8,664
+82.8
+87.9
+85.4
+47.5
+52.5
+100
+9 Nkhotakota
+114,202
+124,095
+238,297
+76,673
+95,658
+172,331
+67.1
+77.1
+72.3
+44.5
+55.5
+100
+10 Kasungu
+237,547
+247,004
+484,551
+160,973
+184,068
+345,041
+67.8
+74.5
+71.2
+46.7
+53.3
+100
+11 Kasungu Municipality
+20,007
+20,089
+40,096
+12,910
+12,735
+25,645
+64.5
+63.4
+64.0
+50.3
+49.7
+100
+12 Ntchisi
+94,561
+103,697
+198,258
+64,313
+77,486
+141,799
+68.0
+74.7
+71.5
+45.4
+54.6
+100
+13 Dowa
+240,571
+261,273
+501,844
+156,510
+190,785
+347,295
+65.1
+73.0
+69.2
+45.1
+54.9
+100
+14 Mchinji
+181,902
+193,481
+375,383
+115,215
+137,390
+252,605
+63.3
+71.0
+67.3
+45.6
+54.4
+100
+15 Salima
+134,403
+153,958
+288,361
+74,939
+111,646
+186,585
+55.8
+72.5
+64.7
+40.2
+59.8
+100
+16 Lilongwe
+492,642
+550,628
+1043270
+360,779
+466,000
+826,779
+73.2
+84.6
+79.2
+43.6
+56.4
+100
+17 Lilongwe City
+361,034
+348,176
+709,210
+205,498
+204,127
+409,625
+56.9
+58.6
+57.8
+50.2
+49.8
+100
+18 Dedza
+240,349
+288,336
+528,685
+137,712
+217,471
+355,183
+57.3
+75.4
+67.2
+38.8
+61.2
+100
+19 Ntcheu
+194,643
+225,105
+419,748
+72,062
+100,812
+172,874
+37.0
+44.8
+41.2
+41.7
+58.3
+100
+20 Mangochi
+269,737
+341,043
+610,780
+150,301
+260,302
+410,603
+55.7
+76.3
+67.2
+36.6
+63.4
+100
+21 Mangochi Municipality
+15,887
+17,417
+33,304
+16,875
+20,965
+37,840
+106.2
+120.4
+113.6
+44.6
+55.4
+100
+22 Machinga
+183,923
+224,911
+408,834
+87,720
+165,456
+253,176
+47.7
+73.6
+61.9
+34.6
+65.4
+100
+23 Balaka
+114,508
+141,398
+255,906
+64,257
+105,770
+170,027
+56.1
+74.8
+66.4
+37.8
+62.2
+100
+24 Zomba
+203,226
+245,476
+448,702
+113,677
+175,751
+289,428
+55.9
+71.6
+64.5
+39.3
+60.7
+100
+25 Neno
+38,918
+44,029
+82,947
+21,162
+29,664
+50,826
+54.4
+67.4
+61.3
+41.6
+58.4
+100
+26 Blantyre
+134,238
+152,806
+287,044
+69,556
+97,183
+166,739
+51.8
+63.6
+58.1
+41.7
+58.3
+100
+27 Zomba City
+35,606
+37,054
+72,660
+28,327
+28,923
+57,250
+79.6
+78.1
+78.8
+49.5
+50.5
+100
+28 Mwanza
+38,095
+42,820
+80,915
+21,625
+29,420
+51,045
+56.8
+68.7
+63.1
+42.4
+57.6
+100
+29 Phalombe
+115,318
+134,961
+250,279
+66,692
+103,913
+170,605
+57.8
+77.0
+68.2
+39.1
+60.9
+100
+30 Chiradzulu
+102,779
+126,443
+229,222
+56,308
+90,570
+146,878
+54.8
+71.6
+64.1
+38.3
+61.7
+100
+31 Mulanje
+187,820
+232,412
+420,232
+107,202
+172,559
+279,761
+57.1
+74.2
+66.6
+38.3
+61.7
+100
+32 Blantyre City
+282,832
+276,630
+559,462
+152,332
+154,199
+306,531
+53.9
+55.7
+54.8
+49.7
+50.3
+100
+33 Chikwawa
+163,674
+178,621
+342,295
+120,019
+150,748
+270,767
+73.3
+84.4
+79.1
+44.3
+55.7
+100
+34 Thyolo
+194,759
+244,759
+439,518
+99,935
+153,170
+253,105
+51.3
+62.6
+57.6
+39.5
+60.5
+100
+35 Luchenza Municipality
+4,028
+4,451
+8,479
+4,701
+5,536
+10,237
+116.7
+124.4
+120.7
+45.9
+54.1
+100
+36 Nsanje
+80,573
+95,133
+175,706
+60,452
+87,048
+147,500
+75.0
+91.5
+83.9
+41.0
+59.0
+100
+TOTALS 5,146,679
+5,810,811
+10,957,490
+3,088,670
+4,114,720
+7,203,390
+60.0
+70.8
+65.7
+42.9
+57.1
+100
+FINAL 2025 GENERAL ELECTION VOTER REGISTRATION STATISTICS PER COUNCIL AND BY GENDER
+Page 1 of 1
+'''
+
+administration_json_path = r'C:\Users\lacso\Git\mw-presidential-election-stats\metadata\administration.json'
+with open(administration_json_path, 'r') as f:
+    administration_data = json.load(f)
+
+def parse_constituency_voters(text):
+    voters = {}
+    lines = text.split('\n')
+    for i, line in enumerate(lines):
+        match = re.search(r'(\d{3})-[A-Z\s\'-()]+', line)
+        if match:
+            code = match.group(1)
+            
+            # Search for number in the same line
+            num_match_same_line = re.search(r'([\d,]+)$', line)
+            if num_match_same_line and num_match_same_line.group(1):
+                voters[code] = int(num_match_same_line.group(1).replace(',', ''))
+                continue
+
+            # Search in next lines
+            for j in range(i + 1, min(i + 5, len(lines))):
+                # Check if the line contains a potential constituency name, if so, skip
+                if re.search(r'\d{3}-[A-Z\s\'-()]+', lines[j]):
+                    break
+                num_match_next_lines = re.search(r'([\d,]+)$', lines[j])
+                if num_match_next_lines and num_match_next_lines.group(1):
+                    voters[code] = int(num_match_next_lines.group(1).replace(',', ''))
+                    break
+    return voters
+
+council_gender_stats = {
+    'Chitipa': {'male': 45.7, 'female': 54.3},
+    'Karonga': {'male': 44.4, 'female': 55.6},
+    'Rumphi': {'male': 47.6, 'female': 52.4},
+    'Mzimba': {'male': 44.9, 'female': 55.1},
+    'Nkhata Bay': {'male': 47.9, 'female': 52.1},
+    'Mzuzu': {'male': 46.9, 'female': 53.1},
+    'Likoma': {'male': 47.5, 'female': 52.5},
+    'Nkhotakota': {'male': 44.5, 'female': 55.5},
+    'Kasungu': {'male': 46.7, 'female': 53.3},
+    'Ntchisi': {'male': 45.4, 'female': 54.6},
+    'Dowa': {'male': 45.1, 'female': 54.9},
+    'Mchinji': {'male': 45.6, 'female': 54.4},
+    'Salima': {'male': 40.2, 'female': 59.8},
+    'Lilongwe': {'male': 43.6, 'female': 56.4},
+    'Dedza': {'male': 38.8, 'female': 61.2},
+    'Ntcheu': {'male': 41.7, 'female': 58.3},
+    'Mangochi': {'male': 36.6, 'female': 63.4},
+    'Machinga': {'male': 34.6, 'female': 65.4},
+    'Balaka': {'male': 37.8, 'female': 62.2},
+    'Zomba': {'male': 39.3, 'female': 60.7},
+    'Neno': {'male': 41.6, 'female': 58.4},
+    'Blantyre': {'male': 41.7, 'female': 58.3},
+    'Mwanza': {'male': 42.4, 'female': 57.6},
+    'Phalombe': {'male': 39.1, 'female': 60.9},
+    'Chiradzulu': {'male': 38.3, 'female': 61.7},
+    'Mulanje': {'male': 38.3, 'female': 61.7},
+    'Chikwawa': {'male': 44.3, 'female': 55.7},
+    'Thyolo': {'male': 39.5, 'female': 60.5},
+    'Nsanje': {'male': 41.0, 'female': 59.0}
+}
+
+constituency_voters = parse_constituency_voters(constituency_voters_text)
+
+output_dir = r'C:\Users\lacso\Git\mw-presidential-election-stats\2025\demographics'
+
+for district in administration_data['districts']:
+    district_code = district['code']
+    district_name = district['name']
+    demographics = []
+
+    gender_stats = council_gender_stats.get(district_name)
+
+    if not gender_stats:
+        print(f'Warning: No gender stats found for {district_name}')
+        continue
+
+    for constituency in district['constituencies']:
+        constituency_code = constituency['code']
+        if constituency_code in constituency_voters:
+            total_voters = constituency_voters[constituency_code]
+            
+            male_percentage = gender_stats['male'] / 100
+            female_percentage = gender_stats['female'] / 100
+            
+            registered_male = int(round(total_voters * male_percentage))
+            registered_female = total_voters - registered_male
+
+            demographics.append({
+                "constituencyCode": constituency_code,
+                "registeredMale": str(registered_male),
+                "registeredFemale": str(registered_female)
+            })
+
+    if demographics:
+        output_data = {
+            "year": "2025",
+            "district": district_code,
+            "demographics": demographics
+        }
+        
+        file_path = os.path.join(output_dir, f"{district_code}_STATS.json")
+        with open(file_path, 'w') as f:
+            json.dump(output_data, f, indent=2)
+        print(f"Generated {file_path}")

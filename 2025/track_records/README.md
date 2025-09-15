@@ -1,0 +1,1 @@
+This directory is intended to store track records of candidates. The format and content are yet to be defined. Please provide more details on what you would like to see here.

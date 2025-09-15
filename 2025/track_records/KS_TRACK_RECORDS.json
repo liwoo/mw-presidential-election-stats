@@ -1,0 +1,81 @@
+{
+  "year": "2025",
+  "district": "KS",
+  "description": "Track records for candidates in KS district",
+  "candidates": {
+    "JOYBAN": {
+      "fullname": "Dr. Joyce Hilda Banda",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "position": 2,
+          "totalVotes": 1000,
+          "percentage": 25
+        },
+        {
+          "year": 2019,
+          "position": 3,
+          "totalVotes": 1000,
+          "percentage": 25
+        }
+      ]
+    },
+    "LAZCHA": {
+      "fullname": "Dr. Lazarus Mccarthy Chakwera",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "position": 2,
+          "totalVotes": 1455880,
+          "percentage": 27.8
+        },
+        {
+          "year": 2019,
+          "position": 2,
+          "totalVotes": 1781740,
+          "percentage": 35.4
+        },
+        {
+          "year": 2020,
+          "position": 1,
+          "totalVotes": 2604043,
+          "percentage": 59.3
+        }
+      ]
+    },
+    "ATUMUL": {
+      "fullname": "Atupele Muluzi",
+      "trackRecords": [
+        {
+          "year": 2019,
+          "position": 3,
+          "totalVotes": 476765,
+          "percentage": 10.5
+        }
+      ]
+    },
+    "PETMUT": {
+      "fullname": "Prof. Peter Mutharika",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "position": 1,
+          "totalVotes": 1904399,
+          "percentage": 36.4
+        },
+        {
+          "year": 2019,
+          "position": 1,
+          "totalVotes": 1751877,
+          "percentage": 38.6
+        },
+        {
+          "year": 2020,
+          "position": 2,
+          "totalVotes": 1781682,
+          "percentage": 39.9
+        }
+      ]
+    }
+  }
+}

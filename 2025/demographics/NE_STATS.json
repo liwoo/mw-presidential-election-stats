@@ -1,0 +1,27 @@
+{
+  "year": "2025",
+  "district": "NE",
+  "demographics": [
+    {
+      "constituencyCode": "167",
+      "registeredMale": "7386",
+      "registeredFemale": "10369",
+      "percentageMale": "41.6%",
+      "percentageFemale": "58.4%"
+    },
+    {
+      "constituencyCode": "168",
+      "registeredMale": "7759",
+      "registeredFemale": "10892",
+      "percentageMale": "41.6%",
+      "percentageFemale": "58.4%"
+    },
+    {
+      "constituencyCode": "169",
+      "registeredMale": "5999",
+      "registeredFemale": "8421",
+      "percentageMale": "41.6%",
+      "percentageFemale": "58.4%"
+    }
+  ]
+}

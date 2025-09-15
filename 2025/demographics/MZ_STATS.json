@@ -1,0 +1,97 @@
+{
+  "year": "2025",
+  "district": "MZ",
+  "demographics": [
+    {
+      "constituencyCode": "016",
+      "registeredMale": "13335",
+      "registeredFemale": "16365",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "017",
+      "registeredMale": "12649",
+      "registeredFemale": "15523",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "018",
+      "registeredMale": "10144",
+      "registeredFemale": "12448",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "019",
+      "registeredMale": "14815",
+      "registeredFemale": "18181",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "020",
+      "registeredMale": "13546",
+      "registeredFemale": "16624",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "021",
+      "registeredMale": "14907",
+      "registeredFemale": "18293",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "022",
+      "registeredMale": "11839",
+      "registeredFemale": "14529",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "023",
+      "registeredMale": "11556",
+      "registeredFemale": "14182",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "024",
+      "registeredMale": "13069",
+      "registeredFemale": "16038",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "025",
+      "registeredMale": "11737",
+      "registeredFemale": "14403",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "026",
+      "registeredMale": "14286",
+      "registeredFemale": "17532",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "027",
+      "registeredMale": "10543",
+      "registeredFemale": "12939",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    },
+    {
+      "constituencyCode": "028",
+      "registeredMale": "14404",
+      "registeredFemale": "17676",
+      "percentageMale": "44.9%",
+      "percentageFemale": "55.1%"
+    }
+  ]
+}

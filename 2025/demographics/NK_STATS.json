@@ -1,0 +1,41 @@
+{
+  "year": "2025",
+  "district": "NK",
+  "demographics": [
+    {
+      "constituencyCode": "039",
+      "registeredMale": "11524",
+      "registeredFemale": "14372",
+      "percentageMale": "44.5%",
+      "percentageFemale": "55.5%"
+    },
+    {
+      "constituencyCode": "040",
+      "registeredMale": "11420",
+      "registeredFemale": "14243",
+      "percentageMale": "44.5%",
+      "percentageFemale": "55.5%"
+    },
+    {
+      "constituencyCode": "041",
+      "registeredMale": "18424",
+      "registeredFemale": "22979",
+      "percentageMale": "44.5%",
+      "percentageFemale": "55.5%"
+    },
+    {
+      "constituencyCode": "042",
+      "registeredMale": "16060",
+      "registeredFemale": "20031",
+      "percentageMale": "44.5%",
+      "percentageFemale": "55.5%"
+    },
+    {
+      "constituencyCode": "043",
+      "registeredMale": "19259",
+      "registeredFemale": "24019",
+      "percentageMale": "44.5%",
+      "percentageFemale": "55.5%"
+    }
+  ]
+}
