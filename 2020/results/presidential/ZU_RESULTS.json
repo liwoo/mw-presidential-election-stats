@@ -1,7 +1,7 @@
 {
   "districtCode": "ZU",
   "type": "presidential",
-  "nullVotes": 19428,
+  "nullVotes": 167,
   "constituencies": [
     {
       "code": "035",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 2680
+          "votes": 2631
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 1148
+          "votes": 56
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 1473
+          "votes": 1347
         }
       ]
     },
@@ -31,17 +31,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1713
+          "votes": 1572
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 9084
+          "votes": 61
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 2094
+          "votes": 1863
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "districtCode": "LK",
   "type": "presidential",
-  "nullVotes": 2265,
+  "nullVotes": 38,
   "constituencies": [
     {
       "code": "038",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 3183
+          "votes": 3165
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 882
+          "votes": 64
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 1181
+          "votes": 1170
         }
       ]
     }

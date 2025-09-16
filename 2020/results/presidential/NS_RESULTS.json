@@ -1,7 +1,7 @@
 {
   "districtCode": "NS",
   "type": "presidential",
-  "nullVotes": 1997,
+  "nullVotes": 80,
   "constituencies": [
     {
       "code": "225",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1031
+          "votes": 1029
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 82
+          "votes": 10
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 71
+          "votes": 66
         }
       ]
     },
@@ -57,12 +57,12 @@
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 26
+          "votes": 7
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 71
+          "votes": 61
         }
       ]
     },
