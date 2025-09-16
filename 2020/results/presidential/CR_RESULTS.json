@@ -1,7 +1,7 @@
 {
   "districtCode": "CR",
   "type": "presidential",
-  "nullVotes": 6339,
+  "nullVotes": 13757,
   "constituencies": [
     {
       "code": "185",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 454
+          "votes": 843
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 5
+          "votes": 9
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 23
+          "votes": 230
         }
       ]
     },
@@ -31,17 +31,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 175
+          "votes": 1136
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 41
+          "votes": 500
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 212
+          "votes": 816
         }
       ]
     },
@@ -52,17 +52,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 303
+          "votes": 1599
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 0
+          "votes": 85
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 3
+          "votes": 333
         }
       ]
     },
@@ -73,17 +73,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 665
+          "votes": 1320
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 17
+          "votes": 22
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 13
+          "votes": 547
         }
       ]
     },
@@ -94,17 +94,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 777
+          "votes": 1569
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 1647
+          "votes": 1958
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 55
+          "votes": 539
         }
       ]
     }

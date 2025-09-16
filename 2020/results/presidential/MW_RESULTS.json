@@ -1,7 +1,7 @@
 {
   "districtCode": "MW",
   "type": "presidential",
-  "nullVotes": 10379,
+  "nullVotes": 3987,
   "constituencies": [
     {
       "code": "178",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1692
+          "votes": 1746
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 1695
+          "votes": 38
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 1771
+          "votes": 1236
         }
       ]
     },
@@ -31,17 +31,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 2329
+          "votes": 1132
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 3380
+          "votes": 1093
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 4330
+          "votes": 1381
         }
       ]
     }
