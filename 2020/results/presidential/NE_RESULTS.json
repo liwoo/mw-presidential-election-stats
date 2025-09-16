@@ -1,7 +1,7 @@
 {
   "districtCode": "NE",
   "type": "presidential",
-  "nullVotes": 118,
+  "nullVotes": 103,
   "constituencies": [
     {
       "code": "167",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 547
+          "votes": 454
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 24
+          "votes": 16
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 888
+          "votes": 803
         }
       ]
     },
@@ -31,17 +31,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 749
+          "votes": 622
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 21
+          "votes": 14
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 660
+          "votes": 597
         }
       ]
     },
@@ -52,17 +52,17 @@
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1047
+          "votes": 869
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 28
+          "votes": 19
         },
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 905
+          "votes": 819
         }
       ]
     }

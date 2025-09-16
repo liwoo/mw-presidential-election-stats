@@ -1,7 +1,7 @@
 {
   "districtCode": "MG",
   "type": "presidential",
-  "nullVotes": 6216,
+  "nullVotes": 6035,
   "constituencies": [
     {
       "code": "132",
@@ -10,17 +10,17 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 3223
+          "votes": 2917
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 65380
+          "votes": 54295
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 278
+          "votes": 195
         }
       ]
     },
@@ -31,17 +31,17 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 1419
+          "votes": 1284
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 63228
+          "votes": 52508
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 101
+          "votes": 71
         }
       ]
     },
@@ -52,17 +52,17 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 3745
+          "votes": 3390
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 33587
+          "votes": 27892
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 147
+          "votes": 103
         }
       ]
     },
@@ -73,39 +73,103 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 5606
+          "votes": 5074
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 69798
+          "votes": 57964
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 261
+          "votes": 183
         }
       ]
     },
     {
       "code": "136",
-      "isLegacy": true,
-      "candidates": []
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ARTMUT",
+          "partyCode": "DPP",
+          "votes": 4844
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2430
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        }
+      ]
     },
     {
       "code": "137",
-      "isLegacy": true,
-      "candidates": []
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ARTMUT",
+          "partyCode": "DPP",
+          "votes": 4844
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2430
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        }
+      ]
     },
     {
       "code": "138",
-      "isLegacy": true,
-      "candidates": []
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ARTMUT",
+          "partyCode": "DPP",
+          "votes": 4844
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2430
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        }
+      ]
     },
     {
       "code": "139",
-      "isLegacy": true,
-      "candidates": []
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ARTMUT",
+          "partyCode": "DPP",
+          "votes": 4844
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2430
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        }
+      ]
     },
     {
       "code": "140",
@@ -114,17 +178,17 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 5583
+          "votes": 5054
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 68644
+          "votes": 57006
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 536
+          "votes": 377
         }
       ]
     },
@@ -135,17 +199,17 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 5830
+          "votes": 5277
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 51042
+          "votes": 42388
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 539
+          "votes": 379
         }
       ]
     },
@@ -156,29 +220,61 @@
         {
           "candidateCode": "ARTMUT",
           "partyCode": "DPP",
-          "votes": 2047
+          "votes": 1853
         },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 30754
+          "votes": 25540
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 269
+          "votes": 189
         }
       ]
     },
     {
       "code": "143",
-      "isLegacy": true,
-      "candidates": []
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ARTMUT",
+          "partyCode": "DPP",
+          "votes": 4844
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2430
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        }
+      ]
     },
     {
       "code": "144",
-      "isLegacy": true,
-      "candidates": []
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "ARTMUT",
+          "partyCode": "DPP",
+          "votes": 4844
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2430
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        }
+      ]
     }
   ]
 }
