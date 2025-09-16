@@ -1,0 +1,48 @@
+{
+  "year": "2025",
+  "district": "SA",
+  "demographics": [
+    {
+      "constituencyCode": "077",
+      "registeredMale": "14617",
+      "registeredFemale": "21744",
+      "percentageMale": "40.2%",
+      "percentageFemale": "59.8%"
+    },
+    {
+      "constituencyCode": "078",
+      "registeredMale": "14159",
+      "registeredFemale": "21063",
+      "percentageMale": "40.2%",
+      "percentageFemale": "59.8%"
+    },
+    {
+      "constituencyCode": "079",
+      "registeredMale": "9305",
+      "registeredFemale": "13843",
+      "percentageMale": "40.2%",
+      "percentageFemale": "59.8%"
+    },
+    {
+      "constituencyCode": "080",
+      "registeredMale": "11912",
+      "registeredFemale": "17721",
+      "percentageMale": "40.2%",
+      "percentageFemale": "59.8%"
+    },
+    {
+      "constituencyCode": "081",
+      "registeredMale": "13487",
+      "registeredFemale": "20063",
+      "percentageMale": "40.2%",
+      "percentageFemale": "59.8%"
+    },
+    {
+      "constituencyCode": "082",
+      "registeredMale": "11526",
+      "registeredFemale": "17145",
+      "percentageMale": "40.2%",
+      "percentageFemale": "59.8%"
+    }
+  ]
+}

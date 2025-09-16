@@ -1,0 +1,216 @@
+{
+  "year": "2020",
+  "district": "LI",
+  "demographics": [
+    {
+      "constituencyCode": "084",
+      "registeredMale": "1933",
+      "registeredFemale": "2500",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "085",
+      "registeredMale": "2945",
+      "registeredFemale": "3809",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "086",
+      "registeredMale": "1946",
+      "registeredFemale": "2518",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "087",
+      "registeredMale": "3609",
+      "registeredFemale": "4669",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "088",
+      "registeredMale": "2357",
+      "registeredFemale": "3048",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "089",
+      "registeredMale": "3033",
+      "registeredFemale": "3923",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "090",
+      "registeredMale": "1842",
+      "registeredFemale": "2383",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "091",
+      "registeredMale": "2528",
+      "registeredFemale": "3270",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "092",
+      "registeredMale": "1876",
+      "registeredFemale": "2427",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "093",
+      "registeredMale": "2510",
+      "registeredFemale": "3247",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "094",
+      "registeredMale": "3062",
+      "registeredFemale": "3960",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "095",
+      "registeredMale": "3227",
+      "registeredFemale": "4175",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "096",
+      "registeredMale": "2463",
+      "registeredFemale": "3185",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "097",
+      "registeredMale": "3665",
+      "registeredFemale": "4742",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "098",
+      "registeredMale": "2554",
+      "registeredFemale": "3304",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "099",
+      "registeredMale": "2198",
+      "registeredFemale": "2843",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "100",
+      "registeredMale": "2780",
+      "registeredFemale": "3595",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "101",
+      "registeredMale": "4313",
+      "registeredFemale": "5580",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "102",
+      "registeredMale": "2412",
+      "registeredFemale": "3121",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "103",
+      "registeredMale": "2926",
+      "registeredFemale": "3785",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "104",
+      "registeredMale": "2453",
+      "registeredFemale": "3174",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "105",
+      "registeredMale": "3289",
+      "registeredFemale": "4254",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "106",
+      "registeredMale": "2183",
+      "registeredFemale": "2823",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "107",
+      "registeredMale": "2318",
+      "registeredFemale": "2998",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "108",
+      "registeredMale": "2399",
+      "registeredFemale": "3104",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "109",
+      "registeredMale": "4343",
+      "registeredFemale": "5618",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "110",
+      "registeredMale": "4297",
+      "registeredFemale": "5558",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "111",
+      "registeredMale": "2295",
+      "registeredFemale": "2968",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "112",
+      "registeredMale": "2507",
+      "registeredFemale": "3242",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    },
+    {
+      "constituencyCode": "113",
+      "registeredMale": "2825",
+      "registeredFemale": "3655",
+      "percentageMale": "43.6%",
+      "percentageFemale": "56.4%"
+    }
+  ]
+}

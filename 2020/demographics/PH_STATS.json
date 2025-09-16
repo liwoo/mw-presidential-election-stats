@@ -1,0 +1,41 @@
+{
+  "year": "2020",
+  "district": "PH",
+  "demographics": [
+    {
+      "constituencyCode": "180",
+      "registeredMale": "1607",
+      "registeredFemale": "2504",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "181",
+      "registeredMale": "1189",
+      "registeredFemale": "1851",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "182",
+      "registeredMale": "896",
+      "registeredFemale": "1396",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "183",
+      "registeredMale": "575",
+      "registeredFemale": "895",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    },
+    {
+      "constituencyCode": "184",
+      "registeredMale": "1622",
+      "registeredFemale": "2526",
+      "percentageMale": "39.1%",
+      "percentageFemale": "60.9%"
+    }
+  ]
+}

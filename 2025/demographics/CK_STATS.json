@@ -1,0 +1,55 @@
+{
+  "year": "2025",
+  "district": "CK",
+  "demographics": [
+    {
+      "constituencyCode": "209",
+      "registeredMale": "18023",
+      "registeredFemale": "22662",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    },
+    {
+      "constituencyCode": "210",
+      "registeredMale": "14596",
+      "registeredFemale": "18352",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    },
+    {
+      "constituencyCode": "211",
+      "registeredMale": "15667",
+      "registeredFemale": "19699",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    },
+    {
+      "constituencyCode": "212",
+      "registeredMale": "17517",
+      "registeredFemale": "22025",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    },
+    {
+      "constituencyCode": "213",
+      "registeredMale": "16185",
+      "registeredFemale": "20349",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    },
+    {
+      "constituencyCode": "214",
+      "registeredMale": "18779",
+      "registeredFemale": "23611",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    },
+    {
+      "constituencyCode": "215",
+      "registeredMale": "19183",
+      "registeredFemale": "24119",
+      "percentageMale": "44.3%",
+      "percentageFemale": "55.7%"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "year": "2025",
+  "district": "BA",
+  "demographics": [
+    {
+      "constituencyCode": "153",
+      "registeredMale": "12834",
+      "registeredFemale": "21119",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "154",
+      "registeredMale": "11253",
+      "registeredFemale": "18517",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "155",
+      "registeredMale": "11999",
+      "registeredFemale": "19744",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "156",
+      "registeredMale": "14941",
+      "registeredFemale": "24585",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "157",
+      "registeredMale": "13243",
+      "registeredFemale": "21792",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    }
+  ]
+}

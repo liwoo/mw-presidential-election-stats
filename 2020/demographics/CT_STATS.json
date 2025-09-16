@@ -1,0 +1,41 @@
+{
+  "year": "2020",
+  "district": "CT",
+  "demographics": [
+    {
+      "constituencyCode": "001",
+      "registeredMale": "1577",
+      "registeredFemale": "1874",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "002",
+      "registeredMale": "1950",
+      "registeredFemale": "2317",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "003",
+      "registeredMale": "2941",
+      "registeredFemale": "3495",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "004",
+      "registeredMale": "1488",
+      "registeredFemale": "1768",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    },
+    {
+      "constituencyCode": "005",
+      "registeredMale": "2331",
+      "registeredFemale": "2770",
+      "percentageMale": "45.7%",
+      "percentageFemale": "54.3%"
+    }
+  ]
+}

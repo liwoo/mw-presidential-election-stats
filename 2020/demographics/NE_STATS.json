@@ -1,0 +1,27 @@
+{
+  "year": "2020",
+  "district": "NE",
+  "demographics": [
+    {
+      "constituencyCode": "167",
+      "registeredMale": "929",
+      "registeredFemale": "1303",
+      "percentageMale": "41.6%",
+      "percentageFemale": "58.4%"
+    },
+    {
+      "constituencyCode": "168",
+      "registeredMale": "1089",
+      "registeredFemale": "1529",
+      "percentageMale": "41.6%",
+      "percentageFemale": "58.4%"
+    },
+    {
+      "constituencyCode": "169",
+      "registeredMale": "1276",
+      "registeredFemale": "1792",
+      "percentageMale": "41.6%",
+      "percentageFemale": "58.4%"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "year": "2020",
+  "district": "CR",
+  "demographics": [
+    {
+      "constituencyCode": "185",
+      "registeredMale": "737",
+      "registeredFemale": "1187",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "186",
+      "registeredMale": "1304",
+      "registeredFemale": "2101",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "187",
+      "registeredMale": "1069",
+      "registeredFemale": "1721",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "188",
+      "registeredMale": "1164",
+      "registeredFemale": "1874",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "189",
+      "registeredMale": "1200",
+      "registeredFemale": "1932",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    }
+  ]
+}

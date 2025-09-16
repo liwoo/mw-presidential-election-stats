@@ -1,0 +1,34 @@
+{
+  "year": "2025",
+  "district": "RU",
+  "demographics": [
+    {
+      "constituencyCode": "012",
+      "registeredMale": "11499",
+      "registeredFemale": "12658",
+      "percentageMale": "47.6%",
+      "percentageFemale": "52.4%"
+    },
+    {
+      "constituencyCode": "013",
+      "registeredMale": "10671",
+      "registeredFemale": "11748",
+      "percentageMale": "47.6%",
+      "percentageFemale": "52.4%"
+    },
+    {
+      "constituencyCode": "014",
+      "registeredMale": "11413",
+      "registeredFemale": "12564",
+      "percentageMale": "47.6%",
+      "percentageFemale": "52.4%"
+    },
+    {
+      "constituencyCode": "015",
+      "registeredMale": "11606",
+      "registeredFemale": "12777",
+      "percentageMale": "47.6%",
+      "percentageFemale": "52.4%"
+    }
+  ]
+}

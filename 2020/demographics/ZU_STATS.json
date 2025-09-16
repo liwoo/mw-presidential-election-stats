@@ -1,0 +1,27 @@
+{
+  "year": "2020",
+  "district": "ZU",
+  "demographics": [
+    {
+      "constituencyCode": "035",
+      "registeredMale": "3221",
+      "registeredFemale": "3647",
+      "percentageMale": "46.9%",
+      "percentageFemale": "53.1%"
+    },
+    {
+      "constituencyCode": "036",
+      "registeredMale": "3283",
+      "registeredFemale": "3716",
+      "percentageMale": "46.9%",
+      "percentageFemale": "53.1%"
+    },
+    {
+      "constituencyCode": "037",
+      "registeredMale": "2385",
+      "registeredFemale": "2701",
+      "percentageMale": "46.9%",
+      "percentageFemale": "53.1%"
+    }
+  ]
+}

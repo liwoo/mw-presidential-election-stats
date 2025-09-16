@@ -1,0 +1,76 @@
+{
+  "year": "2020",
+  "district": "DE",
+  "demographics": [
+    {
+      "constituencyCode": "114",
+      "registeredMale": "1558",
+      "registeredFemale": "2457",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "115",
+      "registeredMale": "1692",
+      "registeredFemale": "2668",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "116",
+      "registeredMale": "2290",
+      "registeredFemale": "3611",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "117",
+      "registeredMale": "2791",
+      "registeredFemale": "4403",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "118",
+      "registeredMale": "2699",
+      "registeredFemale": "4258",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "119",
+      "registeredMale": "3467",
+      "registeredFemale": "5468",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "120",
+      "registeredMale": "2505",
+      "registeredFemale": "3950",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "121",
+      "registeredMale": "2729",
+      "registeredFemale": "4305",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "122",
+      "registeredMale": "2322",
+      "registeredFemale": "3663",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    },
+    {
+      "constituencyCode": "123",
+      "registeredMale": "3220",
+      "registeredFemale": "5078",
+      "percentageMale": "38.8%",
+      "percentageFemale": "61.2%"
+    }
+  ]
+}

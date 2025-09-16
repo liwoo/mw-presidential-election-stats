@@ -1,0 +1,34 @@
+{
+  "year": "2020",
+  "district": "NS",
+  "demographics": [
+    {
+      "constituencyCode": "225",
+      "registeredMale": "730",
+      "registeredFemale": "1051",
+      "percentageMale": "41.0%",
+      "percentageFemale": "59.0%"
+    },
+    {
+      "constituencyCode": "226",
+      "registeredMale": "873",
+      "registeredFemale": "1257",
+      "percentageMale": "41.0%",
+      "percentageFemale": "59.0%"
+    },
+    {
+      "constituencyCode": "227",
+      "registeredMale": "1021",
+      "registeredFemale": "1469",
+      "percentageMale": "41.0%",
+      "percentageFemale": "59.0%"
+    },
+    {
+      "constituencyCode": "228",
+      "registeredMale": "754",
+      "registeredFemale": "1085",
+      "percentageMale": "41.0%",
+      "percentageFemale": "59.0%"
+    }
+  ]
+}

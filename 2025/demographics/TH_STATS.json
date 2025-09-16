@@ -1,0 +1,69 @@
+{
+  "year": "2025",
+  "district": "TH",
+  "demographics": [
+    {
+      "constituencyCode": "216",
+      "registeredMale": "10409",
+      "registeredFemale": "15943",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "217",
+      "registeredMale": "13867",
+      "registeredFemale": "21240",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "218",
+      "registeredMale": "13235",
+      "registeredFemale": "20272",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "219",
+      "registeredMale": "11678",
+      "registeredFemale": "17887",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "220",
+      "registeredMale": "14451",
+      "registeredFemale": "22135",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "221",
+      "registeredMale": "16532",
+      "registeredFemale": "25322",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "222",
+      "registeredMale": "9854",
+      "registeredFemale": "15093",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "223",
+      "registeredMale": "9949",
+      "registeredFemale": "15238",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    },
+    {
+      "constituencyCode": "224",
+      "registeredMale": "4044",
+      "registeredFemale": "6193",
+      "percentageMale": "39.5%",
+      "percentageFemale": "60.5%"
+    }
+  ]
+}

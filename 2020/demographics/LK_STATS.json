@@ -1,0 +1,13 @@
+{
+  "year": "2020",
+  "district": "LK",
+  "demographics": [
+    {
+      "constituencyCode": "038",
+      "registeredMale": "3518",
+      "registeredFemale": "3888",
+      "percentageMale": "47.5%",
+      "percentageFemale": "52.5%"
+    }
+  ]
+}

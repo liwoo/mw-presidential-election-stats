@@ -1,0 +1,48 @@
+{
+  "year": "2025",
+  "district": "NB",
+  "demographics": [
+    {
+      "constituencyCode": "029",
+      "registeredMale": "6625",
+      "registeredFemale": "7205",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "030",
+      "registeredMale": "8277",
+      "registeredFemale": "9003",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "031",
+      "registeredMale": "10114",
+      "registeredFemale": "11001",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "032",
+      "registeredMale": "8863",
+      "registeredFemale": "9641",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "033",
+      "registeredMale": "8201",
+      "registeredFemale": "8920",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "034",
+      "registeredMale": "9367",
+      "registeredFemale": "10189",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    }
+  ]
+}

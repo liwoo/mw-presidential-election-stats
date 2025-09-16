@@ -1,0 +1,62 @@
+{
+  "year": "2025",
+  "district": "MH",
+  "demographics": [
+    {
+      "constituencyCode": "145",
+      "registeredMale": "12575",
+      "registeredFemale": "23769",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "146",
+      "registeredMale": "12659",
+      "registeredFemale": "23928",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "147",
+      "registeredMale": "8955",
+      "registeredFemale": "16926",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "148",
+      "registeredMale": "11739",
+      "registeredFemale": "22189",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "149",
+      "registeredMale": "10264",
+      "registeredFemale": "19401",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "150",
+      "registeredMale": "10552",
+      "registeredFemale": "19944",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "151",
+      "registeredMale": "9115",
+      "registeredFemale": "17229",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    },
+    {
+      "constituencyCode": "152",
+      "registeredMale": "11740",
+      "registeredFemale": "22191",
+      "percentageMale": "34.6%",
+      "percentageFemale": "65.4%"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "year": "2025",
+  "district": "MW",
+  "demographics": [
+    {
+      "constituencyCode": "178",
+      "registeredMale": "10332",
+      "registeredFemale": "14035",
+      "percentageMale": "42.4%",
+      "percentageFemale": "57.6%"
+    },
+    {
+      "constituencyCode": "179",
+      "registeredMale": "11311",
+      "registeredFemale": "15367",
+      "percentageMale": "42.4%",
+      "percentageFemale": "57.6%"
+    }
+  ]
+}

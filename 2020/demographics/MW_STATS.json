@@ -1,0 +1,20 @@
+{
+  "year": "2020",
+  "district": "MW",
+  "demographics": [
+    {
+      "constituencyCode": "178",
+      "registeredMale": "2209",
+      "registeredFemale": "3001",
+      "percentageMale": "42.4%",
+      "percentageFemale": "57.6%"
+    },
+    {
+      "constituencyCode": "179",
+      "registeredMale": "1685",
+      "registeredFemale": "2290",
+      "percentageMale": "42.4%",
+      "percentageFemale": "57.6%"
+    }
+  ]
+}

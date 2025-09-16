@@ -1,0 +1,41 @@
+{
+  "year": "2020",
+  "district": "NI",
+  "demographics": [
+    {
+      "constituencyCode": "055",
+      "registeredMale": "3966",
+      "registeredFemale": "4770",
+      "percentageMale": "45.4%",
+      "percentageFemale": "54.6%"
+    },
+    {
+      "constituencyCode": "056",
+      "registeredMale": "2513",
+      "registeredFemale": "3023",
+      "percentageMale": "45.4%",
+      "percentageFemale": "54.6%"
+    },
+    {
+      "constituencyCode": "057",
+      "registeredMale": "4205",
+      "registeredFemale": "5058",
+      "percentageMale": "45.4%",
+      "percentageFemale": "54.6%"
+    },
+    {
+      "constituencyCode": "058",
+      "registeredMale": "2724",
+      "registeredFemale": "3276",
+      "percentageMale": "45.4%",
+      "percentageFemale": "54.6%"
+    },
+    {
+      "constituencyCode": "059",
+      "registeredMale": "3131",
+      "registeredFemale": "3766",
+      "percentageMale": "45.4%",
+      "percentageFemale": "54.6%"
+    }
+  ]
+}
