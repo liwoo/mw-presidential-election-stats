@@ -1,315 +1,341 @@
 {
   "districtCode": "DE",
   "type": "presidential",
-  "nullVotes": 28,
+  "nullVotes": 4341,
   "constituencies": [
     {
-      "code": "114",
-      "isLegacy": false,
+      "code": "DE01",
+      "name": "Dedza North",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 790
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 523
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1154
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 579
+          "votes": 15191
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 957
+          "votes": 3055
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 199
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 150
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 120
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 4059
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1399
         }
       ]
     },
     {
-      "code": "115",
-      "isLegacy": false,
+      "code": "DE02",
+      "name": "Dedza Central",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 732
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 617
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1195
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 461
+          "votes": 20794
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 978
+          "votes": 3884
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 76
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 25
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 58
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 211
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2427
         }
       ]
     },
     {
-      "code": "116",
-      "isLegacy": false,
+      "code": "DE03",
+      "name": "Dedza South West",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 864
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 625
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1081
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 542
+          "votes": 18586
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 961
+          "votes": 2030
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 47
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 31
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 24
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 117
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2554
         }
       ]
     },
     {
-      "code": "117",
-      "isLegacy": false,
+      "code": "DE04",
+      "name": "Dedza North West",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 908
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 586
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1194
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 465
+          "votes": 21515
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 881
+          "votes": 1421
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 108
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 79
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 64
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 79
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2278
         }
       ]
     },
     {
-      "code": "118",
-      "isLegacy": false,
+      "code": "DE05",
+      "name": "Dedza East",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 782
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 584
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1220
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 541
+          "votes": 14660
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 989
+          "votes": 4790
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 182
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 136
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 149
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 619
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 8361
         }
       ]
     },
     {
-      "code": "119",
-      "isLegacy": false,
+      "code": "DE06",
+      "name": "Dedza South",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 754
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 698
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1207
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 501
+          "votes": 29446
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 957
+          "votes": 6213
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 156
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 204
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 177
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 2038
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 3138
         }
       ]
     },
     {
-      "code": "120",
-      "isLegacy": false,
+      "code": "DE07",
+      "name": "Dedza West",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 804
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 624
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1184
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 451
+          "votes": 13372
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 893
+          "votes": 1477
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 153
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 160
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 138
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 83
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2095
         }
       ]
     },
     {
-      "code": "121",
-      "isLegacy": false,
+      "code": "DE08",
+      "name": "Dedza Central East",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 898
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 534
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 1043
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 454
+          "votes": 15831
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 879
-        }
-      ]
-    },
-    {
-      "code": "122",
-      "isLegacy": false,
-      "candidates": [
+          "votes": 1732
+        },
         {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 756
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 94
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 113
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 80
         },
         {
           "candidateCode": "ATUMUL",
           "partyCode": "UDF",
-          "votes": 567
+          "votes": 306
         },
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 1082
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 553
-        },
-        {
-          "candidateCode": "SAUCHI",
-          "partyCode": "UTM",
-          "votes": 982
-        }
-      ]
-    },
-    {
-      "code": "123",
-      "isLegacy": false,
-      "candidates": [
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 727
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 553
-        },
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 1182
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 479
-        },
-        {
-          "candidateCode": "SAUCHI",
-          "partyCode": "UTM",
-          "votes": 1010
+          "votes": 1026
         }
       ]
     }

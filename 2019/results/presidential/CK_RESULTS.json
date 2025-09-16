@@ -1,222 +1,257 @@
 {
   "districtCode": "CK",
   "type": "presidential",
-  "nullVotes": 28,
+  "nullVotes": 4221,
   "constituencies": [
     {
-      "code": "209",
-      "isLegacy": false,
+      "code": "CK01",
+      "name": "Chikhwawa South",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 934
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 904
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 699
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 667
+          "votes": 6819
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 691
+          "votes": 1121
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 57
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 48
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 96
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 181
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 16459
         }
       ]
     },
     {
-      "code": "210",
-      "isLegacy": false,
+      "code": "CK02",
+      "name": "Chikhwawa Mkombezi",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 834
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 864
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 686
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 735
+          "votes": 7868
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 682
+          "votes": 2372
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 124
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 176
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 217
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 455
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 24907
         }
       ]
     },
     {
-      "code": "211",
-      "isLegacy": false,
+      "code": "CK03",
+      "name": "Chikhwawa Central",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 836
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 923
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 628
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 670
+          "votes": 3580
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 607
+          "votes": 5402
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 123
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 90
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 234
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 663
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 38847
         }
       ]
     },
     {
-      "code": "212",
-      "isLegacy": false,
+      "code": "CK04",
+      "name": "Chikhwawa North",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 977
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 921
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 787
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 644
+          "votes": 1104
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 614
+          "votes": 2138
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 61
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 52
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 96
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 271
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 16152
         }
       ]
     },
     {
-      "code": "213",
-      "isLegacy": false,
+      "code": "CK05",
+      "name": "Chikhwawa East",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 964
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 880
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 771
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 668
+          "votes": 2934
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 707
+          "votes": 1424
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 139
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 93
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 161
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1593
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 19149
         }
       ]
     },
     {
-      "code": "214",
-      "isLegacy": false,
+      "code": "CK06",
+      "name": "Chikhwawa West",
+      "isLegacy": true,
       "candidates": [
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 946
-        },
-        {
-          "candidateCode": "ATUMUL",
-          "partyCode": "UDF",
-          "votes": 808
-        },
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 707
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 687
+          "votes": 3436
         },
         {
           "candidateCode": "SAUCHI",
           "partyCode": "UTM",
-          "votes": 639
-        }
-      ]
-    },
-    {
-      "code": "215",
-      "isLegacy": false,
-      "candidates": [
+          "votes": 2499
+        },
         {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 974
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 278
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 313
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 486
         },
         {
           "candidateCode": "ATUMUL",
           "partyCode": "UDF",
-          "votes": 814
+          "votes": 878
         },
         {
-          "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 667
-        },
-        {
-          "candidateCode": "JOYBAN",
-          "partyCode": "PP",
-          "votes": 654
-        },
-        {
-          "candidateCode": "SAUCHI",
-          "partyCode": "UTM",
-          "votes": 568
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 20447
         }
       ]
     }
