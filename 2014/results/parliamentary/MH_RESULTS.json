@@ -1,0 +1,349 @@
+{
+  "districtCode": "MH",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "146",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHAZAM",
+          "partyCode": "DPP",
+          "votes": 9094
+        },
+        {
+          "candidateCode": "CHISES",
+          "partyCode": "UDF",
+          "votes": 8916
+        },
+        {
+          "candidateCode": "MAJONI",
+          "partyCode": "PP",
+          "votes": 2077
+        },
+        {
+          "candidateCode": "TASAUK",
+          "partyCode": "IND",
+          "votes": 5585
+        }
+      ]
+    },
+    {
+      "code": "147",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHANIK",
+          "partyCode": "IND",
+          "votes": 408
+        },
+        {
+          "candidateCode": "CHIPON",
+          "partyCode": "MCP",
+          "votes": 346
+        },
+        {
+          "candidateCode": "CHIUMI",
+          "partyCode": "NASAF",
+          "votes": 51
+        },
+        {
+          "candidateCode": "JALANI",
+          "partyCode": "PPM",
+          "votes": 57
+        },
+        {
+          "candidateCode": "LAMBAT",
+          "partyCode": "UDF",
+          "votes": 4560
+        },
+        {
+          "candidateCode": "MIJIGA",
+          "partyCode": "PP",
+          "votes": 1710
+        },
+        {
+          "candidateCode": "MVONAX",
+          "partyCode": "CCP",
+          "votes": 886
+        },
+        {
+          "candidateCode": "MZUNGU",
+          "partyCode": "IND",
+          "votes": 564
+        },
+        {
+          "candidateCode": "NDALAM",
+          "partyCode": "DPP",
+          "votes": 4788
+        },
+        {
+          "candidateCode": "NDISAL",
+          "partyCode": "IND",
+          "votes": 1164
+        }
+      ]
+    },
+    {
+      "code": "148",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHALUL",
+          "partyCode": "IND",
+          "votes": 366
+        },
+        {
+          "candidateCode": "CHAPUL",
+          "partyCode": "IND",
+          "votes": 1069
+        },
+        {
+          "candidateCode": "CHIDYA",
+          "partyCode": "DPP",
+          "votes": 4134
+        },
+        {
+          "candidateCode": "KACHIN",
+          "partyCode": "IND",
+          "votes": 8815
+        },
+        {
+          "candidateCode": "KWENJE",
+          "partyCode": "MCP",
+          "votes": 306
+        },
+        {
+          "candidateCode": "MANKHA",
+          "partyCode": "IND",
+          "votes": 5112
+        },
+        {
+          "candidateCode": "MOYEND",
+          "partyCode": "UDF",
+          "votes": 536
+        },
+        {
+          "candidateCode": "MPONDA",
+          "partyCode": "IND",
+          "votes": 1974
+        },
+        {
+          "candidateCode": "MUNSHI",
+          "partyCode": "PP",
+          "votes": 2170
+        }
+      ]
+    },
+    {
+      "code": "149",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "GIBSON",
+          "partyCode": "MCP",
+          "votes": 625
+        },
+        {
+          "candidateCode": "GUDUZA",
+          "partyCode": "IND",
+          "votes": 1249
+        },
+        {
+          "candidateCode": "KABUNG",
+          "partyCode": "IND",
+          "votes": 190
+        },
+        {
+          "candidateCode": "KAPYEP",
+          "partyCode": "UDF",
+          "votes": 1113
+        },
+        {
+          "candidateCode": "MAKANG",
+          "partyCode": "IND",
+          "votes": 3680
+        },
+        {
+          "candidateCode": "MKANDA",
+          "partyCode": "DPP",
+          "votes": 4480
+        },
+        {
+          "candidateCode": "MPINGA",
+          "partyCode": "PP",
+          "votes": 2204
+        },
+        {
+          "candidateCode": "SANGAL",
+          "partyCode": "IND",
+          "votes": 1780
+        }
+      ]
+    },
+    {
+      "code": "150",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHIMEN",
+          "partyCode": "IND",
+          "votes": 261
+        },
+        {
+          "candidateCode": "CHIMWA",
+          "partyCode": "UDF",
+          "votes": 2013
+        },
+        {
+          "candidateCode": "HOWAHO",
+          "partyCode": "MCP",
+          "votes": 1097
+        },
+        {
+          "candidateCode": "KACHAL",
+          "partyCode": "PP",
+          "votes": 2302
+        },
+        {
+          "candidateCode": "KALUAX",
+          "partyCode": "IND",
+          "votes": 3686
+        },
+        {
+          "candidateCode": "MAKΑΤΑ",
+          "partyCode": "IND",
+          "votes": 670
+        },
+        {
+          "candidateCode": "SANGAL",
+          "partyCode": "DPP",
+          "votes": 6456
+        },
+        {
+          "candidateCode": "SOLANK",
+          "partyCode": "NLP",
+          "votes": 112
+        },
+        {
+          "candidateCode": "CHILAM",
+          "partyCode": "IND",
+          "votes": 973
+        }
+      ]
+    },
+    {
+      "code": "151",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "BANDAX",
+          "partyCode": "DPP",
+          "votes": 9025
+        },
+        {
+          "candidateCode": "CHIKAL",
+          "partyCode": "IND",
+          "votes": 2832
+        },
+        {
+          "candidateCode": "CHINEM",
+          "partyCode": "IND",
+          "votes": 4863
+        },
+        {
+          "candidateCode": "DAMBUL",
+          "partyCode": "MCP",
+          "votes": 3126
+        },
+        {
+          "candidateCode": "KAMULE",
+          "partyCode": "UP",
+          "votes": 173
+        },
+        {
+          "candidateCode": "KAUTSI",
+          "partyCode": "MAFUNDE",
+          "votes": 652
+        },
+        {
+          "candidateCode": "MAULID",
+          "partyCode": "IND",
+          "votes": 344
+        },
+        {
+          "candidateCode": "MBAWAX",
+          "partyCode": "IND",
+          "votes": 3115
+        },
+        {
+          "candidateCode": "MWAMBW",
+          "partyCode": "PP",
+          "votes": 2215
+        },
+        {
+          "candidateCode": "MZEMBE",
+          "partyCode": "IND",
+          "votes": 553
+        },
+        {
+          "candidateCode": "NGAGWE",
+          "partyCode": "IND",
+          "votes": 891
+        },
+        {
+          "candidateCode": "NGOSIX",
+          "partyCode": "IND",
+          "votes": 744
+        },
+        {
+          "candidateCode": "NGUMUY",
+          "partyCode": "IND",
+          "votes": 11244
+        },
+        {
+          "candidateCode": "OSMANX",
+          "partyCode": "UDF",
+          "votes": 5777
+        }
+      ]
+    },
+    {
+      "code": "152",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "BANDEX",
+          "partyCode": "PP",
+          "votes": 11015
+        },
+        {
+          "candidateCode": "CHIKOK",
+          "partyCode": "IND",
+          "votes": 2177
+        },
+        {
+          "candidateCode": "KAWING",
+          "partyCode": "UDF",
+          "votes": 3970
+        },
+        {
+          "candidateCode": "MASANG",
+          "partyCode": "DPP",
+          "votes": 14012
+        },
+        {
+          "candidateCode": "NQUMAY",
+          "partyCode": "MCP",
+          "votes": 1143
+        },
+        {
+          "candidateCode": "SULEMA",
+          "partyCode": "IND",
+          "votes": 399
+        }
+      ]
+    }
+  ]
+}

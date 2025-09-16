@@ -1,0 +1,210 @@
+{
+  "districtCode": "SA",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "080",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "TEMBEN",
+          "partyCode": "DPP",
+          "votes": 8856
+        },
+        {
+          "candidateCode": "PHIRIX",
+          "partyCode": "MCP",
+          "votes": 22657
+        },
+        {
+          "candidateCode": "MBELEX",
+          "partyCode": "UTM",
+          "votes": 7913
+        },
+        {
+          "candidateCode": "CHITIM",
+          "partyCode": "UDF",
+          "votes": 4694
+        },
+        {
+          "candidateCode": "LINEXX",
+          "partyCode": "IND",
+          "votes": 379
+        },
+        {
+          "candidateCode": "CHIKAN",
+          "partyCode": "TPM",
+          "votes": 265
+        },
+        {
+          "candidateCode": "MANJAX",
+          "partyCode": "MCP",
+          "votes": 1195
+        },
+        {
+          "candidateCode": "MUSSAX",
+          "partyCode": "DPP",
+          "votes": 1242
+        },
+        {
+          "candidateCode": "YASINX",
+          "partyCode": "UTM",
+          "votes": 93
+        }
+      ]
+    },
+    {
+      "code": "082",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "YASINX",
+          "partyCode": "UTM",
+          "votes": 1710
+        },
+        {
+          "candidateCode": "MANJAX",
+          "partyCode": "MCP",
+          "votes": 8247
+        },
+        {
+          "candidateCode": "MUSSAX",
+          "partyCode": "DPP",
+          "votes": 7929
+        },
+        {
+          "candidateCode": "KUFUNA",
+          "partyCode": "IND",
+          "votes": 19
+        },
+        {
+          "candidateCode": "SHAIBU",
+          "partyCode": "IND",
+          "votes": 8
+        },
+        {
+          "candidateCode": "KADAMM",
+          "partyCode": "UTM",
+          "votes": 312
+        },
+        {
+          "candidateCode": "MWAWAX",
+          "partyCode": "MCP",
+          "votes": 547
+        }
+      ]
+    },
+    {
+      "code": "077",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "MWAWAX",
+          "partyCode": "MCP",
+          "votes": 6394
+        },
+        {
+          "candidateCode": "KUFUNA",
+          "partyCode": "IND",
+          "votes": 899
+        },
+        {
+          "candidateCode": "KADAMM",
+          "partyCode": "UTM",
+          "votes": 1271
+        },
+        {
+          "candidateCode": "SHAIBU",
+          "partyCode": "IND",
+          "votes": 1600
+        },
+        {
+          "candidateCode": "KAMPUT",
+          "partyCode": "UP",
+          "votes": 160
+        },
+        {
+          "candidateCode": "CHIKAD",
+          "partyCode": "UDF",
+          "votes": 261
+        },
+        {
+          "candidateCode": "MUSSAX",
+          "partyCode": "DPP",
+          "votes": 2785
+        },
+        {
+          "candidateCode": "PHALEX",
+          "partyCode": "MCP",
+          "votes": 11796
+        },
+        {
+          "candidateCode": "KABWIL",
+          "partyCode": "UTM",
+          "votes": 6843
+        },
+        {
+          "candidateCode": "CHIRWA",
+          "partyCode": "IND",
+          "votes": 712
+        },
+        {
+          "candidateCode": "PHIRIX",
+          "partyCode": "UTM",
+          "votes": 305
+        },
+        {
+          "candidateCode": "CHIKOP",
+          "partyCode": "UDF",
+          "votes": 327
+        },
+        {
+          "candidateCode": "MAZOMB",
+          "partyCode": "MCP",
+          "votes": 12846
+        },
+        {
+          "candidateCode": "MALUWA",
+          "partyCode": "IND",
+          "votes": 11371
+        },
+        {
+          "candidateCode": "KANKHW",
+          "partyCode": "DPP",
+          "votes": 3123
+        },
+        {
+          "candidateCode": "064XXX",
+          "partyCode": "Luweledzi",
+          "votes": 150
+        },
+        {
+          "candidateCode": "TASOWA",
+          "partyCode": "UDF",
+          "votes": 24
+        },
+        {
+          "candidateCode": "CHITED",
+          "partyCode": "IND",
+          "votes": 551
+        },
+        {
+          "candidateCode": "MAJAZA",
+          "partyCode": "DPP",
+          "votes": 1912
+        },
+        {
+          "candidateCode": "CHITET",
+          "partyCode": "MCP",
+          "votes": 2247
+        },
+        {
+          "candidateCode": "065XXX",
+          "partyCode": "Kapiri",
+          "votes": 152
+        }
+      ]
+    }
+  ]
+}

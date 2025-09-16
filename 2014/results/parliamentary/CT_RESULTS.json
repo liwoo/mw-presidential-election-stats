@@ -1,0 +1,192 @@
+{
+  "districtCode": "CT",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "001",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "MALANG",
+          "partyCode": "IND",
+          "votes": 172
+        },
+        {
+          "candidateCode": "MSUKWA",
+          "partyCode": "PP",
+          "votes": 4736
+        },
+        {
+          "candidateCode": "MULWAF",
+          "partyCode": "DPP",
+          "votes": 5703
+        },
+        {
+          "candidateCode": "NACHIS",
+          "partyCode": "MCP",
+          "votes": 716
+        },
+        {
+          "candidateCode": "PWELEX",
+          "partyCode": "UDF",
+          "votes": 1048
+        }
+      ]
+    },
+    {
+      "code": "002",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHILEN",
+          "partyCode": "PP",
+          "votes": 5745
+        },
+        {
+          "candidateCode": "CHIONE",
+          "partyCode": "IND",
+          "votes": 2453
+        },
+        {
+          "candidateCode": "KALUAX",
+          "partyCode": "DPP",
+          "votes": 801
+        },
+        {
+          "candidateCode": "KANDAW",
+          "partyCode": "MCP",
+          "votes": 106
+        },
+        {
+          "candidateCode": "KAWONG",
+          "partyCode": "NASAF",
+          "votes": 60
+        },
+        {
+          "candidateCode": "MUGHOG",
+          "partyCode": "IND",
+          "votes": 2376
+        },
+        {
+          "candidateCode": "MUNTHA",
+          "partyCode": "NARC",
+          "votes": 428
+        },
+        {
+          "candidateCode": "SICHIN",
+          "partyCode": "UDF",
+          "votes": 396
+        }
+      ]
+    },
+    {
+      "code": "003",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "CHIZUM",
+          "partyCode": "IND",
+          "votes": 2900
+        },
+        {
+          "candidateCode": "MSONGO",
+          "partyCode": "PP",
+          "votes": 6986
+        },
+        {
+          "candidateCode": "MUKUMB",
+          "partyCode": "DPP",
+          "votes": 10123
+        },
+        {
+          "candidateCode": "MUSOPO",
+          "partyCode": "MCP",
+          "votes": 1928
+        },
+        {
+          "candidateCode": "CHIRWA",
+          "partyCode": "UDF",
+          "votes": 962
+        },
+        {
+          "candidateCode": "NYONDO",
+          "partyCode": "PDP",
+          "votes": 471
+        },
+        {
+          "candidateCode": "NYONDO",
+          "partyCode": "NASAF",
+          "votes": 6313
+        }
+      ]
+    },
+    {
+      "code": "004",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "KAMEME",
+          "partyCode": "UDF",
+          "votes": 711
+        },
+        {
+          "candidateCode": "MASEBO",
+          "partyCode": "DPP",
+          "votes": 6323
+        },
+        {
+          "candidateCode": "MUNTHA",
+          "partyCode": "PP",
+          "votes": 9177
+        }
+      ]
+    },
+    {
+      "code": "005",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "KAYIRA",
+          "partyCode": "IND",
+          "votes": 2098
+        },
+        {
+          "candidateCode": "KAYIRA",
+          "partyCode": "MCP",
+          "votes": 153
+        },
+        {
+          "candidateCode": "KAYIRA",
+          "partyCode": "IND",
+          "votes": 990
+        },
+        {
+          "candidateCode": "KAYIRA",
+          "partyCode": "IND",
+          "votes": 530
+        },
+        {
+          "candidateCode": "MUNKHO",
+          "partyCode": "PP",
+          "votes": 2668
+        },
+        {
+          "candidateCode": "NAMWAY",
+          "partyCode": "UDF",
+          "votes": 457
+        },
+        {
+          "candidateCode": "NG'AMB",
+          "partyCode": "DPP",
+          "votes": 566
+        },
+        {
+          "candidateCode": "NYONDO",
+          "partyCode": "NASAF",
+          "votes": 1269
+        }
+      ]
+    }
+  ]
+}

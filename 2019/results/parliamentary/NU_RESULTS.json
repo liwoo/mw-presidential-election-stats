@@ -1,0 +1,93 @@
+{
+  "districtCode": "NU",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "124",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LIPAND",
+          "partyCode": "DPP",
+          "votes": 5420
+        },
+        {
+          "candidateCode": "KANDIO",
+          "partyCode": "UTM",
+          "votes": 3110
+        },
+        {
+          "candidateCode": "ZIPHON",
+          "partyCode": "MCP",
+          "votes": 5118
+        },
+        {
+          "candidateCode": "MANJAN",
+          "partyCode": "UDF",
+          "votes": 224
+        },
+        {
+          "candidateCode": "KAMUYA",
+          "partyCode": "DPP",
+          "votes": 5248
+        },
+        {
+          "candidateCode": "MAHWAY",
+          "partyCode": "PP",
+          "votes": 355
+        },
+        {
+          "candidateCode": "KAM'BW",
+          "partyCode": "IND",
+          "votes": 1238
+        },
+        {
+          "candidateCode": "LUMBEX",
+          "partyCode": "MCP",
+          "votes": 4843
+        },
+        {
+          "candidateCode": "SALAMB",
+          "partyCode": "UTM",
+          "votes": 14405
+        },
+        {
+          "candidateCode": "CHUNGU",
+          "partyCode": "IND",
+          "votes": 1859
+        },
+        {
+          "candidateCode": "10NTCH",
+          "partyCode": "West",
+          "votes": 106
+        },
+        {
+          "candidateCode": "LEMANX",
+          "partyCode": "MCP",
+          "votes": 62
+        },
+        {
+          "candidateCode": "MATOLA",
+          "partyCode": "PP",
+          "votes": 384
+        },
+        {
+          "candidateCode": "NDALAX",
+          "partyCode": "IND",
+          "votes": 118
+        },
+        {
+          "candidateCode": "ADAMXX",
+          "partyCode": "UTM",
+          "votes": 155
+        },
+        {
+          "candidateCode": "ALLIEX",
+          "partyCode": "UDF",
+          "votes": 684
+        }
+      ]
+    }
+  ]
+}

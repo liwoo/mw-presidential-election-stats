@@ -1,0 +1,134 @@
+{
+  "districtCode": "NS",
+  "type": "parliamentary",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "228",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "VALETA",
+          "partyCode": "IND",
+          "votes": 12778
+        },
+        {
+          "candidateCode": "THETEX",
+          "partyCode": "UDF",
+          "votes": 459
+        },
+        {
+          "candidateCode": "BULUMA",
+          "partyCode": "DPP",
+          "votes": 5605
+        },
+        {
+          "candidateCode": "KATOLE",
+          "partyCode": "UDF",
+          "votes": 31
+        },
+        {
+          "candidateCode": "BANDEX",
+          "partyCode": "DePeCo",
+          "votes": 50
+        },
+        {
+          "candidateCode": "MYBECK",
+          "partyCode": "UTM",
+          "votes": 46
+        },
+        {
+          "candidateCode": "KASAIL",
+          "partyCode": "DPP",
+          "votes": 402
+        },
+        {
+          "candidateCode": "MANDEV",
+          "partyCode": "MCP",
+          "votes": 771
+        }
+      ]
+    },
+    {
+      "code": "227",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "BANDEX",
+          "partyCode": "DePeCo",
+          "votes": 198
+        },
+        {
+          "candidateCode": "KATOLE",
+          "partyCode": "UDF",
+          "votes": 215
+        },
+        {
+          "candidateCode": "MYBECK",
+          "partyCode": "UTM",
+          "votes": 674
+        },
+        {
+          "candidateCode": "KASAIL",
+          "partyCode": "DPP",
+          "votes": 8390
+        },
+        {
+          "candidateCode": "MANDEV",
+          "partyCode": "MCP",
+          "votes": 6865
+        },
+        {
+          "candidateCode": "KALASA",
+          "partyCode": "UTM",
+          "votes": 253
+        },
+        {
+          "candidateCode": "CHAOLA",
+          "partyCode": "IND",
+          "votes": 4235
+        },
+        {
+          "candidateCode": "GANDAX",
+          "partyCode": "DPP",
+          "votes": 10750
+        },
+        {
+          "candidateCode": "SITOLO",
+          "partyCode": "MCP",
+          "votes": 5245
+        },
+        {
+          "candidateCode": "NGWALI",
+          "partyCode": "IND",
+          "votes": 98
+        },
+        {
+          "candidateCode": "192XXX",
+          "partyCode": "Lalanje",
+          "votes": 459
+        },
+        {
+          "candidateCode": "JAILOS",
+          "partyCode": "UTM",
+          "votes": 404
+        },
+        {
+          "candidateCode": "BANDEX",
+          "partyCode": "IND",
+          "votes": 702
+        },
+        {
+          "candidateCode": "CHILEN",
+          "partyCode": "DPP",
+          "votes": 12027
+        },
+        {
+          "candidateCode": "CHIZUZ",
+          "partyCode": "MCP",
+          "votes": 10302
+        }
+      ]
+    }
+  ]
+}
