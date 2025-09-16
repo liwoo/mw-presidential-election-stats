@@ -1,0 +1,18 @@
+{
+  "districtCode": "LK",
+  "type": "presidential",
+  "nullVotes": 0,
+  "constituencies": [
+    {
+      "code": "038",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2981
+        }
+      ]
+    }
+  ]
+}
