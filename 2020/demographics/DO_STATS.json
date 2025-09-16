@@ -1,0 +1,76 @@
+{
+  "year": "2020",
+  "district": "DO",
+  "demographics": [
+    {
+      "constituencyCode": "060",
+      "registeredMale": "3084",
+      "registeredFemale": "3754",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "061",
+      "registeredMale": "2166",
+      "registeredFemale": "2637",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "062",
+      "registeredMale": "2928",
+      "registeredFemale": "3565",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "063",
+      "registeredMale": "1695",
+      "registeredFemale": "2064",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "064",
+      "registeredMale": "2871",
+      "registeredFemale": "3495",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "065",
+      "registeredMale": "1980",
+      "registeredFemale": "2411",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "066",
+      "registeredMale": "2040",
+      "registeredFemale": "2483",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "067",
+      "registeredMale": "2739",
+      "registeredFemale": "3335",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "068",
+      "registeredMale": "3058",
+      "registeredFemale": "3723",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    },
+    {
+      "constituencyCode": "069",
+      "registeredMale": "1557",
+      "registeredFemale": "1895",
+      "percentageMale": "45.1%",
+      "percentageFemale": "54.9%"
+    }
+  ]
+}

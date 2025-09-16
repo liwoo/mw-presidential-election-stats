@@ -1,0 +1,41 @@
+{
+  "year": "2020",
+  "district": "BA",
+  "demographics": [
+    {
+      "constituencyCode": "153",
+      "registeredMale": "1180",
+      "registeredFemale": "1942",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "154",
+      "registeredMale": "1365",
+      "registeredFemale": "2247",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "155",
+      "registeredMale": "1597",
+      "registeredFemale": "2627",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "156",
+      "registeredMale": "840",
+      "registeredFemale": "1382",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    },
+    {
+      "constituencyCode": "157",
+      "registeredMale": "441",
+      "registeredFemale": "725",
+      "percentageMale": "37.8%",
+      "percentageFemale": "62.2%"
+    }
+  ]
+}

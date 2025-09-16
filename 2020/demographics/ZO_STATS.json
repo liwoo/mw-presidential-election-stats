@@ -1,0 +1,83 @@
+{
+  "year": "2020",
+  "district": "ZO",
+  "demographics": [
+    {
+      "constituencyCode": "158",
+      "registeredMale": "700",
+      "registeredFemale": "1080",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "159",
+      "registeredMale": "910",
+      "registeredFemale": "1406",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "160",
+      "registeredMale": "2614",
+      "registeredFemale": "4038",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "161",
+      "registeredMale": "1547",
+      "registeredFemale": "2390",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "162",
+      "registeredMale": "1999",
+      "registeredFemale": "3088",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "163",
+      "registeredMale": "1656",
+      "registeredFemale": "2559",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "164",
+      "registeredMale": "1404",
+      "registeredFemale": "2168",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "165",
+      "registeredMale": "1286",
+      "registeredFemale": "1987",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "166",
+      "registeredMale": "1008",
+      "registeredFemale": "1558",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "176",
+      "registeredMale": "914",
+      "registeredFemale": "1412",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    },
+    {
+      "constituencyCode": "177",
+      "registeredMale": "876",
+      "registeredFemale": "1352",
+      "percentageMale": "39.3%",
+      "percentageFemale": "60.7%"
+    }
+  ]
+}

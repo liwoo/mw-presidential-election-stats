@@ -1,0 +1,48 @@
+{
+  "year": "2020",
+  "district": "KR",
+  "demographics": [
+    {
+      "constituencyCode": "006",
+      "registeredMale": "2515",
+      "registeredFemale": "3150",
+      "percentageMale": "44.4%",
+      "percentageFemale": "55.6%"
+    },
+    {
+      "constituencyCode": "007",
+      "registeredMale": "3304",
+      "registeredFemale": "4137",
+      "percentageMale": "44.4%",
+      "percentageFemale": "55.6%"
+    },
+    {
+      "constituencyCode": "008",
+      "registeredMale": "2980",
+      "registeredFemale": "3732",
+      "percentageMale": "44.4%",
+      "percentageFemale": "55.6%"
+    },
+    {
+      "constituencyCode": "009",
+      "registeredMale": "4161",
+      "registeredFemale": "5211",
+      "percentageMale": "44.4%",
+      "percentageFemale": "55.6%"
+    },
+    {
+      "constituencyCode": "010",
+      "registeredMale": "2661",
+      "registeredFemale": "3332",
+      "percentageMale": "44.4%",
+      "percentageFemale": "55.6%"
+    },
+    {
+      "constituencyCode": "011",
+      "registeredMale": "2876",
+      "registeredFemale": "3601",
+      "percentageMale": "44.4%",
+      "percentageFemale": "55.6%"
+    }
+  ]
+}

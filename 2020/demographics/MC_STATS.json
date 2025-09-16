@@ -1,0 +1,55 @@
+{
+  "year": "2020",
+  "district": "MC",
+  "demographics": [
+    {
+      "constituencyCode": "070",
+      "registeredMale": "3160",
+      "registeredFemale": "3770",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    },
+    {
+      "constituencyCode": "071",
+      "registeredMale": "2483",
+      "registeredFemale": "2962",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    },
+    {
+      "constituencyCode": "072",
+      "registeredMale": "3166",
+      "registeredFemale": "3777",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    },
+    {
+      "constituencyCode": "073",
+      "registeredMale": "3282",
+      "registeredFemale": "3915",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    },
+    {
+      "constituencyCode": "074",
+      "registeredMale": "2134",
+      "registeredFemale": "2546",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    },
+    {
+      "constituencyCode": "075",
+      "registeredMale": "903",
+      "registeredFemale": "1078",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    },
+    {
+      "constituencyCode": "076",
+      "registeredMale": "3300",
+      "registeredFemale": "3936",
+      "percentageMale": "45.6%",
+      "percentageFemale": "54.4%"
+    }
+  ]
+}

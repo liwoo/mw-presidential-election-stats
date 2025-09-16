@@ -1,0 +1,62 @@
+{
+  "year": "2020",
+  "district": "MU",
+  "demographics": [
+    {
+      "constituencyCode": "190",
+      "registeredMale": "597",
+      "registeredFemale": "962",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "191",
+      "registeredMale": "679",
+      "registeredFemale": "1094",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "192",
+      "registeredMale": "617",
+      "registeredFemale": "995",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "193",
+      "registeredMale": "918",
+      "registeredFemale": "1478",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "195",
+      "registeredMale": "584",
+      "registeredFemale": "941",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "196",
+      "registeredMale": "526",
+      "registeredFemale": "848",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "197",
+      "registeredMale": "981",
+      "registeredFemale": "1580",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    },
+    {
+      "constituencyCode": "198",
+      "registeredMale": "590",
+      "registeredFemale": "950",
+      "percentageMale": "38.3%",
+      "percentageFemale": "61.7%"
+    }
+  ]
+}

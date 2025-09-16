@@ -1,0 +1,48 @@
+{
+  "year": "2020",
+  "district": "NB",
+  "demographics": [
+    {
+      "constituencyCode": "029",
+      "registeredMale": "3355",
+      "registeredFemale": "3649",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "030",
+      "registeredMale": "2927",
+      "registeredFemale": "3183",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "031",
+      "registeredMale": "3529",
+      "registeredFemale": "3838",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "032",
+      "registeredMale": "4082",
+      "registeredFemale": "4439",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "033",
+      "registeredMale": "3963",
+      "registeredFemale": "4310",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    },
+    {
+      "constituencyCode": "034",
+      "registeredMale": "1743",
+      "registeredFemale": "1896",
+      "percentageMale": "47.9%",
+      "percentageFemale": "52.1%"
+    }
+  ]
+}
