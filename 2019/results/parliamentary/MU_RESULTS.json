@@ -8,7 +8,7 @@
       "isLegacy": false,
       "candidates": [
         {
-          "candidateCode": "CHAMBO",
+          "candidateCode": "CHAMWA_2",
           "partyCode": "MCP",
           "votes": 472
         },
@@ -18,7 +18,7 @@
           "votes": 1443
         },
         {
-          "candidateCode": "CHILEW",
+          "candidateCode": "CHILAM",
           "partyCode": "IND",
           "votes": 1920
         },
@@ -119,7 +119,7 @@
           "votes": 263
         },
         {
-          "candidateCode": "MANGWI",
+          "candidateCode": "MANGOM",
           "partyCode": "IND",
           "votes": 1067
         },
@@ -134,22 +134,22 @@
           "votes": 3994
         },
         {
-          "candidateCode": "CHIMBA",
+          "candidateCode": "CHIMPO",
           "partyCode": "IND",
           "votes": 3905
         },
         {
-          "candidateCode": "CHAPON",
-          "partyCode": "261Kapiri",
+          "candidateCode": "CHAPHI",
+          "partyCode": "IND",
           "votes": 412
         },
         {
           "candidateCode": "INDXXX",
-          "partyCode": "90Mapanga",
+          "partyCode": "IND",
           "votes": 411
         },
         {
-          "candidateCode": "NANTAP",
+          "candidateCode": "NANTEM",
           "partyCode": "IND",
           "votes": 1
         },
@@ -159,7 +159,7 @@
           "votes": 31
         },
         {
-          "candidateCode": "CHIWAN",
+          "candidateCode": "CHIWAL",
           "partyCode": "UTM",
           "votes": 21
         },
@@ -215,7 +215,7 @@
           "votes": 10188
         },
         {
-          "candidateCode": "NANTAP",
+          "candidateCode": "NANTEM",
           "partyCode": "IND",
           "votes": 522
         },
@@ -235,7 +235,7 @@
           "votes": 574
         },
         {
-          "candidateCode": "CHIWAN",
+          "candidateCode": "CHIWAL",
           "partyCode": "UTM",
           "votes": 787
         },
@@ -245,12 +245,12 @@
           "votes": 3079
         },
         {
-          "candidateCode": "MUSSAX",
-          "partyCode": "Under",
+          "candidateCode": "MUSSAI",
+          "partyCode": "IND",
           "votes": 5
         },
         {
-          "candidateCode": "LINKWA",
+          "candidateCode": "LINKAL",
           "partyCode": "MCP",
           "votes": 129
         },
@@ -281,7 +281,7 @@
         },
         {
           "candidateCode": "THUCHI",
-          "partyCode": "EPA",
+          "partyCode": "IND",
           "votes": 26103
         },
         {
@@ -316,7 +316,7 @@
         },
         {
           "candidateCode": "POTIFA",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 174
         },
         {
@@ -341,7 +341,7 @@
         },
         {
           "candidateCode": "DEPECO",
-          "partyCode": "0Nyakamba",
+          "partyCode": "IND",
           "votes": 442
         },
         {
@@ -370,7 +370,7 @@
           "votes": 515
         },
         {
-          "candidateCode": "THOLEX",
+          "candidateCode": "THOLUN",
           "partyCode": "UDF",
           "votes": 17
         },

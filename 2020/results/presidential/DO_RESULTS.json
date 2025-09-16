@@ -4,44 +4,28 @@
   "nullVotes": 0,
   "constituencies": [
     {
-      "code": "069",
+      "code": "060",
       "isLegacy": false,
       "candidates": [
         {
           "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 33618
+          "partyCode": "UNKNOWN",
+          "votes": 26888
         },
         {
           "candidateCode": "PETKUW",
-          "partyCode": "MMD",
-          "votes": 78
+          "partyCode": "UNKNOWN",
+          "votes": 92
         },
         {
           "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 1460
-        }
-      ]
-    },
-    {
-      "code": "065",
-      "isLegacy": false,
-      "candidates": [
+          "partyCode": "UNKNOWN",
+          "votes": 1111
+        },
         {
           "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 30144
-        },
-        {
-          "candidateCode": "PETKUW",
-          "partyCode": "MMD",
-          "votes": 124
-        },
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 861
+          "partyCode": "UNKNOWN",
+          "votes": 37071
         }
       ]
     },
@@ -51,24 +35,23 @@
       "candidates": [
         {
           "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
+          "partyCode": "UNKNOWN",
           "votes": 37071
-        }
-      ]
-    },
-    {
-      "code": "066",
-      "isLegacy": false,
-      "candidates": [
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 57941
         },
         {
           "candidateCode": "PETKUW",
-          "partyCode": "MMD",
-          "votes": 139
+          "partyCode": "UNKNOWN",
+          "votes": 109
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "UNKNOWN",
+          "votes": 1771
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 57941
         }
       ]
     },
@@ -78,18 +61,101 @@
       "candidates": [
         {
           "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 21684
+          "partyCode": "UNKNOWN",
+          "votes": 30144
         },
         {
           "candidateCode": "PETKUW",
-          "partyCode": "MMD",
-          "votes": 59
+          "partyCode": "UNKNOWN",
+          "votes": 124
         },
         {
           "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 570
+          "partyCode": "UNKNOWN",
+          "votes": 861
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 26888
+        }
+      ]
+    },
+    {
+      "code": "066",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 57941
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "UNKNOWN",
+          "votes": 139
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "UNKNOWN",
+          "votes": 855
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 21684
+        }
+      ]
+    },
+    {
+      "code": "069",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 33618
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "UNKNOWN",
+          "votes": 78
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "UNKNOWN",
+          "votes": 1460
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 30144
+        }
+      ]
+    },
+    {
+      "code": "069",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 33618
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "UNKNOWN",
+          "votes": 78
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "UNKNOWN",
+          "votes": 1460
+        },
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "UNKNOWN",
+          "votes": 30144
         }
       ]
     }

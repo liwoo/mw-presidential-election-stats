@@ -9,7 +9,7 @@
       "candidates": [
         {
           "candidateCode": "KAWING",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 213
         },
         {
@@ -70,7 +70,7 @@
       "candidates": [
         {
           "candidateCode": "041XXX",
-          "partyCode": "Belere",
+          "partyCode": "IND",
           "votes": 96
         },
         {
@@ -100,12 +100,12 @@
         },
         {
           "candidateCode": "INDXXX",
-          "partyCode": "8Chithiba",
+          "partyCode": "IND",
           "votes": 100
         },
         {
           "candidateCode": "STATIO",
-          "partyCode": "1Kasalika",
+          "partyCode": "IND",
           "votes": 103
         },
         {
@@ -176,11 +176,11 @@
         },
         {
           "candidateCode": "BANDAX",
-          "partyCode": "TPM",
+          "partyCode": "IND",
           "votes": 600
         },
         {
-          "candidateCode": "CHIMBE",
+          "candidateCode": "CHIMPO",
           "partyCode": "IND",
           "votes": 571
         },
@@ -220,7 +220,7 @@
           "votes": 9
         },
         {
-          "candidateCode": "CHANJO",
+          "candidateCode": "CHANAM",
           "partyCode": "DPP",
           "votes": 293
         },
@@ -235,7 +235,7 @@
           "votes": 267
         },
         {
-          "candidateCode": "YONAMU",
+          "candidateCode": "YONADA",
           "partyCode": "IND",
           "votes": 69
         }

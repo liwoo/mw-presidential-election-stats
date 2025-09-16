@@ -9,7 +9,7 @@
       "candidates": [
         {
           "candidateCode": "IPONJO",
-          "partyCode": "Schoool",
+          "partyCode": "IND",
           "votes": 1003
         },
         {
@@ -43,7 +43,7 @@
           "votes": 858
         },
         {
-          "candidateCode": "CHAWIN",
+          "candidateCode": "CHAWAT",
           "partyCode": "PP",
           "votes": 8
         },
@@ -54,7 +54,7 @@
         },
         {
           "candidateCode": "MUGHOG",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 22
         },
         {
@@ -68,7 +68,7 @@
           "votes": 295
         },
         {
-          "candidateCode": "CHILEN",
+          "candidateCode": "CHILAM",
           "partyCode": "DPP",
           "votes": 1016
         }
@@ -84,17 +84,17 @@
           "votes": 2098
         },
         {
-          "candidateCode": "CHILEN",
+          "candidateCode": "CHILAM",
           "partyCode": "DPP",
           "votes": 6623
         },
         {
           "candidateCode": "MUGHOG",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 424
         },
         {
-          "candidateCode": "CHAWIN",
+          "candidateCode": "CHAWAT",
           "partyCode": "PP",
           "votes": 140
         },
@@ -175,7 +175,7 @@
           "votes": 3322
         },
         {
-          "candidateCode": "MASEBO",
+          "candidateCode": "MASEDI",
           "partyCode": "DPP",
           "votes": 4818
         },

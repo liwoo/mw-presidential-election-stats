@@ -29,7 +29,7 @@
         },
         {
           "candidateCode": "BANDEX",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 50
         },
         {
@@ -38,7 +38,7 @@
           "votes": 46
         },
         {
-          "candidateCode": "KASAIL",
+          "candidateCode": "KASAMU",
           "partyCode": "DPP",
           "votes": 402
         },
@@ -55,7 +55,7 @@
       "candidates": [
         {
           "candidateCode": "BANDEX",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 198
         },
         {
@@ -69,7 +69,7 @@
           "votes": 674
         },
         {
-          "candidateCode": "KASAIL",
+          "candidateCode": "KASAMU",
           "partyCode": "DPP",
           "votes": 8390
         },
@@ -105,7 +105,7 @@
         },
         {
           "candidateCode": "192XXX",
-          "partyCode": "Lalanje",
+          "partyCode": "IND",
           "votes": 459
         },
         {
@@ -119,7 +119,7 @@
           "votes": 702
         },
         {
-          "candidateCode": "CHILEN",
+          "candidateCode": "CHILAM",
           "partyCode": "DPP",
           "votes": 12027
         },

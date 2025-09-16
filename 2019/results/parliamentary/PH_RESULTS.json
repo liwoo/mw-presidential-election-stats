@@ -38,12 +38,12 @@
           "votes": 331
         },
         {
-          "candidateCode": "MWAMVA",
+          "candidateCode": "MWAMAJ",
           "partyCode": "MCP",
           "votes": 320
         },
         {
-          "candidateCode": "CHAKWA",
+          "candidateCode": "CHAKAT",
           "partyCode": "IND",
           "votes": 5576
         },
@@ -103,9 +103,9 @@
           "votes": 685
         },
         {
-          "candidateCode": "CHILEW",
+          "candidateCode": "CHILAM",
           "partyCode": "IND",
-          "votes": 6916
+          "votes": 6984
         },
         {
           "candidateCode": "PHIRIX",
@@ -118,17 +118,12 @@
           "votes": 39
         },
         {
-          "candidateCode": "CHILEW",
-          "partyCode": "IND",
-          "votes": 68
-        },
-        {
           "candidateCode": "NANKHU",
           "partyCode": "DPP",
           "votes": 443
         },
         {
-          "candidateCode": "CHAMBO",
+          "candidateCode": "CHAMWA_2",
           "partyCode": "MCP",
           "votes": 10
         }

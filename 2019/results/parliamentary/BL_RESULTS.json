@@ -9,7 +9,7 @@
       "candidates": [
         {
           "candidateCode": "BLANTY",
-          "partyCode": "South",
+          "partyCode": "IND",
           "votes": 368
         },
         {
@@ -40,7 +40,7 @@
         {
           "candidateCode": "BANDAX",
           "partyCode": "IND",
-          "votes": 941
+          "votes": 950
         },
         {
           "candidateCode": "KONDOW",
@@ -64,17 +64,17 @@
         },
         {
           "candidateCode": "GREENX",
-          "partyCode": "Corner",
+          "partyCode": "IND",
           "votes": 367
         },
         {
           "candidateCode": "SOCHEX",
-          "partyCode": "East",
+          "partyCode": "IND",
           "votes": 365
         },
         {
           "candidateCode": "10SOCH",
-          "partyCode": "West",
+          "partyCode": "IND",
           "votes": 366
         },
         {
@@ -88,7 +88,7 @@
           "votes": 1047
         },
         {
-          "candidateCode": "CHIMWA",
+          "candidateCode": "CHIMPO",
           "partyCode": "DPP",
           "votes": 6111
         },
@@ -133,13 +133,13 @@
           "votes": 6876
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "IND",
           "votes": 12802
         },
         {
           "candidateCode": "153XXX",
-          "partyCode": "Bangwe",
+          "partyCode": "IND",
           "votes": 374
         },
         {
@@ -169,12 +169,12 @@
         },
         {
           "candidateCode": "CHISIU",
-          "partyCode": "5Namiyango",
+          "partyCode": "IND",
           "votes": 375
         },
         {
           "candidateCode": "CITYXX",
-          "partyCode": "West",
+          "partyCode": "IND",
           "votes": 155
         },
         {
@@ -200,7 +200,7 @@
         {
           "candidateCode": "JOSHIX",
           "partyCode": "MCP",
-          "votes": 877127
+          "votes": 877
         },
         {
           "candidateCode": "MASIKU",
@@ -224,13 +224,8 @@
         },
         {
           "candidateCode": "1XXXXX",
-          "partyCode": "Chilomoni",
-          "votes": 379
-        },
-        {
-          "candidateCode": "BANDAX",
           "partyCode": "IND",
-          "votes": 9
+          "votes": 379
         },
         {
           "candidateCode": "BANDAX",
@@ -248,7 +243,7 @@
           "votes": 39
         },
         {
-          "candidateCode": "CHIKAF",
+          "candidateCode": "CHIKAL",
           "partyCode": "UDF",
           "votes": 45
         },
