@@ -18,7 +18,7 @@
           "votes": 849
         },
         {
-          "candidateCode": "ADAMXX",
+          "candidateCode": "ADAMKA",
           "partyCode": "UTM",
           "votes": 728
         },
@@ -129,7 +129,7 @@
           "votes": 2408
         },
         {
-          "candidateCode": "CHIBWA",
+          "candidateCode": "CHIBAN",
           "partyCode": "PP",
           "votes": 1886
         },
@@ -154,7 +154,7 @@
           "votes": 4882
         },
         {
-          "candidateCode": "MANGOC",
+          "candidateCode": "MANGOM",
           "partyCode": "DPP",
           "votes": 4200
         },
@@ -175,11 +175,11 @@
         },
         {
           "candidateCode": "PATELX",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 297
         },
         {
-          "candidateCode": "KAISIX",
+          "candidateCode": "KAISIM",
           "partyCode": "MCP",
           "votes": 1445
         },
@@ -259,7 +259,7 @@
           "votes": 52
         },
         {
-          "candidateCode": "CHIBAY",
+          "candidateCode": "CHIBAN",
           "partyCode": "IND",
           "votes": 415
         },
@@ -305,7 +305,7 @@
           "votes": 759
         },
         {
-          "candidateCode": "CHIBAY",
+          "candidateCode": "CHIBAN",
           "partyCode": "IND",
           "votes": 2997
         },
@@ -345,7 +345,7 @@
           "votes": 353
         },
         {
-          "candidateCode": "ADAMSX",
+          "candidateCode": "ADAMKA",
           "partyCode": "IND",
           "votes": 811
         },
@@ -381,7 +381,7 @@
           "votes": 12598
         },
         {
-          "candidateCode": "ADAMSX",
+          "candidateCode": "ADAMKA",
           "partyCode": "IND",
           "votes": 7726
         },
@@ -407,7 +407,7 @@
         },
         {
           "candidateCode": "VGE/NK",
-          "partyCode": "Under",
+          "partyCode": "IND",
           "votes": 5
         },
         {
@@ -431,7 +431,7 @@
           "votes": 872
         },
         {
-          "candidateCode": "ADAMSX",
+          "candidateCode": "ADAMKA",
           "partyCode": "UDF",
           "votes": 1747
         },
@@ -452,7 +452,7 @@
           "votes": 3116
         },
         {
-          "candidateCode": "ADAMSX",
+          "candidateCode": "ADAMKA",
           "partyCode": "UDF",
           "votes": 3356
         },
@@ -482,7 +482,7 @@
           "votes": 137
         },
         {
-          "candidateCode": "CHIKUM",
+          "candidateCode": "CHIKAL",
           "partyCode": "IND",
           "votes": 1263
         },
@@ -499,7 +499,7 @@
         {
           "candidateCode": "KANYAM",
           "partyCode": "IND",
-          "votes": 3756
+          "votes": 3762
         },
         {
           "candidateCode": "PHIRIX",
@@ -522,7 +522,7 @@
           "votes": 8
         },
         {
-          "candidateCode": "CHAMVE",
+          "candidateCode": "CHAMWA_2",
           "partyCode": "IND",
           "votes": 5
         },
@@ -530,11 +530,6 @@
           "candidateCode": "BULIRA",
           "partyCode": "UDF",
           "votes": 21
-        },
-        {
-          "candidateCode": "KANYAM",
-          "partyCode": "IND",
-          "votes": 6
         },
         {
           "candidateCode": "KAZIMU",
@@ -563,8 +558,8 @@
       "isLegacy": false,
       "candidates": [
         {
-          "candidateCode": "MONKEY",
-          "partyCode": "Bay",
+          "candidateCode": "MONKAU",
+          "partyCode": "IND",
           "votes": 270
         },
         {
@@ -573,7 +568,7 @@
           "votes": 170
         },
         {
-          "candidateCode": "CHAMVE",
+          "candidateCode": "CHAMWA_2",
           "partyCode": "IND",
           "votes": 88
         },
@@ -609,7 +604,7 @@
         },
         {
           "candidateCode": "BAYXXX",
-          "partyCode": "CDSS",
+          "partyCode": "IND",
           "votes": 16190
         },
         {
@@ -786,12 +781,12 @@
         },
         {
           "candidateCode": "119XXX",
-          "partyCode": "Nkhonde",
+          "partyCode": "IND",
           "votes": 287
         },
         {
           "candidateCode": "SCHOOL",
-          "partyCode": "l",
+          "partyCode": "IND",
           "votes": 17133
         },
         {
@@ -805,7 +800,7 @@
           "votes": 59
         },
         {
-          "candidateCode": "BAKALI",
+          "candidateCode": "BAKADA",
           "partyCode": "UDF",
           "votes": 48
         },
@@ -815,7 +810,7 @@
           "votes": 80
         },
         {
-          "candidateCode": "MANGAD",
+          "candidateCode": "MANGOM",
           "partyCode": "DPP",
           "votes": 96
         },

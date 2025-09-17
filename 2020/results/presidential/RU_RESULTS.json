@@ -1,7 +1,7 @@
 {
   "districtCode": "RU",
   "type": "presidential",
-  "nullVotes": 0,
+  "nullVotes": 326,
   "constituencies": [
     {
       "code": "014",
@@ -37,6 +37,11 @@
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
           "votes": 205
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1673
         }
       ]
     },

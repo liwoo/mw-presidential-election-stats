@@ -1,7 +1,7 @@
 {
   "districtCode": "MZ",
   "type": "presidential",
-  "nullVotes": 0,
+  "nullVotes": 1753,
   "constituencies": [
     {
       "code": "020",
@@ -46,13 +46,23 @@
       ]
     },
     {
-      "code": "016",
+      "code": "019",
       "isLegacy": false,
       "candidates": [
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
           "votes": 23304
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 194
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1656
         }
       ]
     },
@@ -69,11 +79,16 @@
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
           "votes": 209
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1608
         }
       ]
     },
     {
-      "code": "023",
+      "code": "026",
       "isLegacy": false,
       "candidates": [
         {
@@ -143,6 +158,16 @@
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
           "votes": 33000
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 275
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2620
         }
       ]
     },
@@ -159,6 +184,11 @@
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
           "votes": 130
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1157
         }
       ]
     },
@@ -184,7 +214,7 @@
       ]
     },
     {
-      "code": "026",
+      "code": "027",
       "isLegacy": false,
       "candidates": [
         {

@@ -8,7 +8,7 @@
       "isLegacy": false,
       "candidates": [
         {
-          "candidateCode": "CHILUB",
+          "candidateCode": "CHILAM",
           "partyCode": "UTM",
           "votes": 5586
         },
@@ -38,7 +38,7 @@
           "votes": 476
         },
         {
-          "candidateCode": "CHIBAM",
+          "candidateCode": "CHIBAN",
           "partyCode": "PETRA",
           "votes": 5109
         },
@@ -49,7 +49,7 @@
         },
         {
           "candidateCode": "NKHATA",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 291
         },
         {
@@ -73,7 +73,7 @@
           "votes": 4001
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "AFORD",
           "votes": 1
         },
@@ -88,7 +88,7 @@
           "votes": 3
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "IND",
           "votes": 9
         },
@@ -98,7 +98,7 @@
           "votes": 18
         },
         {
-          "candidateCode": "CHUNGA",
+          "candidateCode": "CHUNJO",
           "partyCode": "UTM",
           "votes": 98
         }
@@ -119,12 +119,12 @@
           "votes": 329
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "IND",
           "votes": 2755
         },
         {
-          "candidateCode": "CHUNGA",
+          "candidateCode": "CHUNJO",
           "partyCode": "UTM",
           "votes": 6569
         },
@@ -134,7 +134,7 @@
           "votes": 2155
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "AFORD",
           "votes": 344
         },
@@ -149,7 +149,7 @@
           "votes": 386
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "IND",
           "votes": 704
         },
@@ -166,7 +166,7 @@
       "candidates": [
         {
           "candidateCode": "027XXX",
-          "partyCode": "Euthini",
+          "partyCode": "IND",
           "votes": 66
         },
         {
@@ -180,7 +180,7 @@
           "votes": 6201
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "IND",
           "votes": 9836
         },
@@ -195,7 +195,7 @@
           "votes": 76
         },
         {
-          "candidateCode": "CHIBAM",
+          "candidateCode": "CHIBAN",
           "partyCode": "MCP",
           "votes": 96
         },
@@ -222,7 +222,7 @@
       "candidates": [
         {
           "candidateCode": "028XXX",
-          "partyCode": "Bulala",
+          "partyCode": "IND",
           "votes": 68
         },
         {
@@ -231,7 +231,7 @@
           "votes": 289
         },
         {
-          "candidateCode": "CHIBAM",
+          "candidateCode": "CHIBAN",
           "partyCode": "MCP",
           "votes": 1865
         },
@@ -251,7 +251,7 @@
           "votes": 3013
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "AFORD",
           "votes": 643
         },
@@ -286,12 +286,12 @@
           "votes": 197
         },
         {
-          "candidateCode": "NYIREN",
-          "partyCode": "DePeCo",
+          "candidateCode": "NORNYI",
+          "partyCode": "PDP",
           "votes": 5
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "IND",
           "votes": 32
         },
@@ -326,12 +326,12 @@
           "votes": 98
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "FP",
           "votes": 31
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "IND",
           "votes": 85
         }
@@ -347,22 +347,22 @@
           "votes": 12479
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "FP",
           "votes": 2481
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "IND",
           "votes": 126
         },
         {
-          "candidateCode": "NYIREN",
-          "partyCode": "DePeCo",
+          "candidateCode": "NORNYI",
+          "partyCode": "PDP",
           "votes": 700
         },
         {
-          "candidateCode": "NYIREN",
+          "candidateCode": "NORNYI",
           "partyCode": "IND",
           "votes": 5789
         },
@@ -462,7 +462,7 @@
           "votes": 4464
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "UTM",
           "votes": 3724
         },
@@ -497,7 +497,7 @@
           "votes": 5501
         },
         {
-          "candidateCode": "SHABAX",
+          "candidateCode": "SHABAN",
           "partyCode": "DPP",
           "votes": 3247
         },
@@ -534,7 +534,7 @@
         {
           "candidateCode": "PHIRIX",
           "partyCode": "UDF",
-          "votes": 73
+          "votes": 344
         },
         {
           "candidateCode": "NZIMAX",
@@ -547,7 +547,7 @@
           "votes": 395
         },
         {
-          "candidateCode": "CHETEX",
+          "candidateCode": "CHETHE",
           "partyCode": "UDF",
           "votes": 141
         },
@@ -582,12 +582,7 @@
           "votes": 2173
         },
         {
-          "candidateCode": "PHIRIX",
-          "partyCode": "UDF",
-          "votes": 170
-        },
-        {
-          "candidateCode": "CHINGA",
+          "candidateCode": "CHINKH",
           "partyCode": "DPP",
           "votes": 3026
         },
@@ -597,7 +592,7 @@
           "votes": 2847
         },
         {
-          "candidateCode": "SAMBIR",
+          "candidateCode": "SAMBOK",
           "partyCode": "UTM",
           "votes": 2279
         },
@@ -617,7 +612,7 @@
           "votes": 675
         },
         {
-          "candidateCode": "CHIWAN",
+          "candidateCode": "CHIWAL",
           "partyCode": "IND",
           "votes": 366
         },
@@ -645,11 +640,6 @@
           "candidateCode": "MTHUNZ",
           "partyCode": "IND",
           "votes": 3208
-        },
-        {
-          "candidateCode": "PHIRIX",
-          "partyCode": "UDF",
-          "votes": 101
         },
         {
           "candidateCode": "CHIDZU",
@@ -703,7 +693,7 @@
         },
         {
           "candidateCode": "KAWING",
-          "partyCode": "DePeCo",
+          "partyCode": "PDP",
           "votes": 10
         }
       ]

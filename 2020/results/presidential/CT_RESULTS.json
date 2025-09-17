@@ -1,12 +1,38 @@
 {
   "districtCode": "CT",
   "type": "presidential",
-  "nullVotes": 0,
+  "nullVotes": 270,
   "constituencies": [
+    {
+      "code": "003",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 9248
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 135
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1285
+        }
+      ]
+    },
     {
       "code": "005",
       "isLegacy": false,
       "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 7414
+        },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
@@ -48,6 +74,37 @@
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
           "votes": 7969
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 256
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1877
+        }
+      ]
+    },
+    {
+      "code": "999",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 5363
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 100
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 654
         }
       ]
     }

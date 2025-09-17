@@ -158,5 +158,10 @@
     "code": "AAA",
     "name": "Anyamata, Atsikana, Azimayi",
     "abbreviation": "AAA"
+  },
+  {
+    "code": "MMD",
+    "name": "Movement for Multi-Party Democracy",
+    "abbreviation": "MMD"
   }
 ]
