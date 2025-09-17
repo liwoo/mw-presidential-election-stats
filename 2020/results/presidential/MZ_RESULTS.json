@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "020",
+      "name": "Mzimba Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "016",
+      "name": "Mzimba North",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "019",
+      "name": "Mzimba North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "017",
+      "name": "Mzimba West",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "026",
+      "name": "Mzimba South",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "022",
+      "name": "Mzimba Hora",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "028",
+      "name": "Mzimba Luwerezi",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "024",
+      "name": "Mzimba Solola",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "021",
+      "name": "Mzimba East",
       "isLegacy": false,
       "candidates": [
         {
@@ -194,6 +203,7 @@
     },
     {
       "code": "023",
+      "name": "Mzimba South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -215,6 +225,7 @@
     },
     {
       "code": "027",
+      "name": "Mzimba South East",
       "isLegacy": false,
       "candidates": [
         {

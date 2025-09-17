@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "132",
+      "name": "Mangochi North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "138",
+      "name": "Mangochi North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "142",
+      "name": "Mangochi Malombe",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "134",
+      "name": "Mangochi East",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "141",
+      "name": "Mangochi South",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "140",
+      "name": "Mangochi South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "137",
+      "name": "Mangochi Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "143",
+      "name": "Mangochi Nkungulu",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "136",
+      "name": "Mangochi West",
       "isLegacy": false,
       "candidates": [
         {
@@ -194,6 +203,7 @@
     },
     {
       "code": "135",
+      "name": "Mangochi Monkey Bay",
       "isLegacy": false,
       "candidates": [
         {
@@ -215,6 +225,7 @@
     },
     {
       "code": "133",
+      "name": "Mangochi Lutende",
       "isLegacy": false,
       "candidates": [
         {
@@ -236,6 +247,7 @@
     },
     {
       "code": "139",
+      "name": "Mangochi Masongola",
       "isLegacy": false,
       "candidates": [
         {

@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "183",
+      "name": "Phalombe South",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Phalombe Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "180",
+      "name": "Phalombe North",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "184",
+      "name": "Phalombe East",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "181",
+      "name": "Phalombe North East",
       "isLegacy": false,
       "candidates": [
         {

@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Ntcheu North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Ntcheu Bwanje North",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "999",
+      "name": "Ntcheu Bwanje South",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "128",
+      "name": "Ntcheu Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "131",
+      "name": "Ntcheu South",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "124",
+      "name": "Ntcheu North",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "999",
+      "name": "Ntcheu West",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "999",
+      "name": "Ntcheu West",
       "isLegacy": false,
       "candidates": [
         {

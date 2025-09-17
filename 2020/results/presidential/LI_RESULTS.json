@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Lilongwe Mapuyu North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe Mapuyu South",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe North",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe Msozi South",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe Msozi North",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe Kumachenga",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "094",
+      "name": "Lilongwe Mpenu",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe Mpenu Nkhoma",
       "isLegacy": false,
       "candidates": [
         {
@@ -194,6 +203,7 @@
     },
     {
       "code": "088",
+      "name": "Lilongwe East",
       "isLegacy": false,
       "candidates": [
         {
@@ -215,6 +225,7 @@
     },
     {
       "code": "093",
+      "name": "Lilongwe Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -236,6 +247,7 @@
     },
     {
       "code": "104",
+      "name": "Lilongwe City Centre",
       "isLegacy": false,
       "candidates": [
         {
@@ -257,6 +269,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe North West",
       "isLegacy": false,
       "candidates": [
         {
@@ -278,6 +291,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe City North",
       "isLegacy": false,
       "candidates": [
         {
@@ -299,6 +313,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -320,6 +335,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe City South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -341,6 +357,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe City South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -362,6 +379,7 @@
     },
     {
       "code": "101",
+      "name": "Lilongwe Msinja North",
       "isLegacy": false,
       "candidates": [
         {
@@ -383,6 +401,7 @@
     },
     {
       "code": "100",
+      "name": "Lilongwe Msinja South",
       "isLegacy": false,
       "candidates": [
         {
@@ -404,6 +423,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe South",
       "isLegacy": false,
       "candidates": [
         {
@@ -425,6 +445,7 @@
     },
     {
       "code": "999",
+      "name": "Lilongwe South",
       "isLegacy": false,
       "candidates": [
         {

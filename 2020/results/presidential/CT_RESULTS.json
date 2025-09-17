@@ -1,10 +1,11 @@
-{
+ {
   "districtCode": "CT",
   "type": "presidential",
   "nullVotes": 270,
   "constituencies": [
     {
       "code": "003",
+      "name": "Chitipa East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "005",
+      "name": "Chitipa South",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "002",
+      "name": "Chitipa Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "001",
+      "name": "Chitipa North",
       "isLegacy": false,
       "candidates": [
         {
@@ -88,8 +92,9 @@
       ]
     },
     {
-      "code": "999",
-      "isLegacy": false,
+      "code": "000",
+      "name": "Chitipa Wenya",
+      "isLegacy": true,
       "candidates": [
         {
           "candidateCode": "LAZCHA",

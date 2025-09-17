@@ -1,52 +1,55 @@
 {
   "districtCode": "CK",
   "type": "presidential",
-  "nullVotes": 2547,
+  "nullVotes": 2870,
   "constituencies": [
     {
-      "code": "999",
+      "code": "213",
+      "name": "Chikhwawa East",
+      "isLegacy":false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 2842
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 147
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 15437
+        }
+      ]
+    },
+    {
+      "code": "209",
+      "name": "Chikhwawa West",
       "isLegacy": false,
       "candidates": [
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 6293
+          "votes": 3883
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 202
+          "votes": 221
         },
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 13132
+          "votes": 11727
         }
       ]
     },
     {
-      "code": "999",
-      "isLegacy": false,
-      "candidates": [
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "MCP",
-          "votes": 9497
-        },
-        {
-          "candidateCode": "PETKUW",
-          "partyCode": "MMD",
-          "votes": 251
-        },
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "DPP",
-          "votes": 18866
-        }
-      ]
-    },
-    {
-      "code": "999",
+      "code": "212",
+      "name": "Chikhwawa Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -67,7 +70,8 @@
       ]
     },
     {
-      "code": "999",
+      "code": "210",
+      "name": "Chikhwawa North",
       "isLegacy": false,
       "candidates": [
         {
@@ -88,44 +92,46 @@
       ]
     },
     {
-      "code": "999",
+      "code": "214",
+      "name": "Chikhwawa Mkombezi",
       "isLegacy": false,
       "candidates": [
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 2842
+          "votes": 9497
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 147
+          "votes": 251
         },
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 15437
+          "votes": 18866
         }
       ]
     },
     {
-      "code": "999",
+      "code": "215",
+      "name": "Chikhwawa South",
       "isLegacy": false,
       "candidates": [
         {
           "candidateCode": "LAZCHA",
           "partyCode": "MCP",
-          "votes": 3883
+          "votes": 6293
         },
         {
           "candidateCode": "PETKUW",
           "partyCode": "MMD",
-          "votes": 221
+          "votes": 202
         },
         {
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
-          "votes": 11727
+          "votes": 13132
         }
       ]
     }

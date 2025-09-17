@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Nkhata Bay North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Nkhata Bay Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "999",
+      "name": "Nkhata Bay West",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "999",
+      "name": "Nkhata Bay North West",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "999",
+      "name": "Nkhata Bay South East",
       "isLegacy": false,
       "candidates": [
         {

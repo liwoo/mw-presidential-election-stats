@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Nsanje South",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "228",
+      "name": "Nsanje South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "227",
+      "name": "Nsanje Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "226",
+      "name": "Nsanje Lalanje",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "225",
+      "name": "Nsanje North",
       "isLegacy": false,
       "candidates": [
         {

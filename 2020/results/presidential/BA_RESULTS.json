@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Balaka Central East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Balaka North",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "999",
+      "name": "Balaka West",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "999",
+      "name": "Balaka South",
       "isLegacy": false,
       "candidates": [
         {

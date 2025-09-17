@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "071",
+      "name": "Mchinji North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "070",
+      "name": "Mchinji North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "072",
+      "name": "Mchinji East",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "999",
+      "name": "Mchinji Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "076",
+      "name": "Mchinji South",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "076",
+      "name": "Mchinji South",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "075",
+      "name": "Mchinji South West",
       "isLegacy": false,
       "candidates": [
         {

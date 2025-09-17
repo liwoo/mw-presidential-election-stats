@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "044",
+      "name": "Kasungu North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "047",
+      "name": "Kasungu North North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "046",
+      "name": "Kasungu West",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "045",
+      "name": "Kasungu North West",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "053",
+      "name": "Kasungu South",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "051",
+      "name": "Kasungu South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "048",
+      "name": "Kasungu East",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "050",
+      "name": "Kasungu Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "049",
+      "name": "Kasungu North East",
       "isLegacy": false,
       "candidates": [
         {

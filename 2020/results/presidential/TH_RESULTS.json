@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Thyolo North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Thyolo West",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "220",
+      "name": "Thyolo Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "999",
+      "name": "Thyolo South (Thekerani)",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "999",
+      "name": "Thyolo East",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "999",
+      "name": "Thyolo South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "221",
+      "name": "Thyolo Thava",
       "isLegacy": false,
       "candidates": [
         {

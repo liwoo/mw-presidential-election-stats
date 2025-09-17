@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "014",
+      "name": "Rumphi East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "015",
+      "name": "Rumphi Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "013",
+      "name": "Rumphi West",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "012",
+      "name": "Rumphi North",
       "isLegacy": false,
       "candidates": [
         {

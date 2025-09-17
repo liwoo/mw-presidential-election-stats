@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "058",
+      "name": "Ntchisi East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "059",
+      "name": "Ntchisi South",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "055",
+      "name": "Ntchisi North",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "999",
+      "name": "Ntchisi North East",
       "isLegacy": false,
       "candidates": [
         {

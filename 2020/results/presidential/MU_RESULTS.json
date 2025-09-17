@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "197",
+      "name": "Mulanje South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "195",
+      "name": "Mulanje South",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "196",
+      "name": "Mulanje Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "196",
+      "name": "Mulanje Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "194",
+      "name": "Mulanje Limbuli",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "198",
+      "name": "Mulanje Bale",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "193",
+      "name": "Mulanje South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "192",
+      "name": "Mulanje Pasani",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "191",
+      "name": "Mulanje West",
       "isLegacy": false,
       "candidates": [
         {

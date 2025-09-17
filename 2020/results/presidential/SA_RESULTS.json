@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "077",
+      "name": "Salima North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "077",
+      "name": "Salima North",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "080",
+      "name": "Salima Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "082",
+      "name": "Salima South",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "999",
+      "name": "Salima South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "999",
+      "name": "Salima North West",
       "isLegacy": false,
       "candidates": [
         {

@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "069",
+      "name": "Dowa South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "065",
+      "name": "Dowa North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "060",
+      "name": "Dowa Ngala",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "063",
+      "name": "Dowa Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "066",
+      "name": "Dowa West",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "999",
+      "name": "Dowa North",
       "isLegacy": false,
       "candidates": [
         {

@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Karonga North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "999",
+      "name": "Karonga North West",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "008",
+      "name": "Karonga Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "009",
+      "name": "Karonga Nyungwe",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "010",
+      "name": "Karonga South",
       "isLegacy": false,
       "candidates": [
         {

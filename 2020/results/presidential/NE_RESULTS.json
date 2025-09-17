@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "169",
+      "name": "Neno South",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "167",
+      "name": "Neno North",
       "isLegacy": false,
       "candidates": [
         {

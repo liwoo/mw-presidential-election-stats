@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "145",
+      "name": "Machinga North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "147",
+      "name": "Machinga Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "150",
+      "name": "Machinga Central East",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "148",
+      "name": "Machinga East",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "152",
+      "name": "Machinga South",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "151",
+      "name": "Machinga Likwenu",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "146",
+      "name": "Machinga South East",
       "isLegacy": false,
       "candidates": [
         {

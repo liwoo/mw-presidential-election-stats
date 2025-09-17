@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "178",
+      "name": "Mwanza Central",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "179",
+      "name": "Mwanza West",
       "isLegacy": false,
       "candidates": [
         {

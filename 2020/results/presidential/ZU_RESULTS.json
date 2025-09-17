@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "999",
+      "name": "Zomba Urban",
       "isLegacy": false,
       "candidates": [
         {

@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "170",
+      "name": "Blantyre North",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "173",
+      "name": "Blantyre North East",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre Rural East",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "174",
+      "name": "Blantyre South West",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre City Centre",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre Malabada",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre City South",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre City East",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre Bangwe",
       "isLegacy": false,
       "candidates": [
         {
@@ -194,6 +203,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre City South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -215,6 +225,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre City West",
       "isLegacy": false,
       "candidates": [
         {
@@ -236,6 +247,7 @@
     },
     {
       "code": "999",
+      "name": "Blantyre Kabula",
       "isLegacy": false,
       "candidates": [
         {
@@ -257,6 +269,7 @@
     },
     {
       "code": "172",
+      "name": "Blantyre West",
       "isLegacy": false,
       "candidates": [
         {

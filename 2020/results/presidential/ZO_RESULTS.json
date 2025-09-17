@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "159",
+      "name": "Zomba Nsondole",
       "isLegacy": false,
       "candidates": [
         {
@@ -26,6 +27,7 @@
     },
     {
       "code": "165",
+      "name": "Zomba Thondwe",
       "isLegacy": false,
       "candidates": [
         {
@@ -47,6 +49,7 @@
     },
     {
       "code": "160",
+      "name": "Zomba Chingale",
       "isLegacy": false,
       "candidates": [
         {
@@ -68,6 +71,7 @@
     },
     {
       "code": "162",
+      "name": "Zomba Changalume",
       "isLegacy": false,
       "candidates": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "code": "999",
+      "name": "Zomba Lisanjala",
       "isLegacy": false,
       "candidates": [
         {
@@ -110,6 +115,7 @@
     },
     {
       "code": "158",
+      "name": "Zomba Malosa",
       "isLegacy": false,
       "candidates": [
         {
@@ -131,6 +137,7 @@
     },
     {
       "code": "163",
+      "name": "Zomba Ntonya",
       "isLegacy": false,
       "candidates": [
         {
@@ -152,6 +159,7 @@
     },
     {
       "code": "999",
+      "name": "Zomba Central/City",
       "isLegacy": false,
       "candidates": [
         {
@@ -173,6 +181,7 @@
     },
     {
       "code": "161",
+      "name": "Zomba Likangala",
       "isLegacy": false,
       "candidates": [
         {
@@ -194,6 +203,7 @@
     },
     {
       "code": "999",
+      "name": "Zomba Chisi",
       "isLegacy": false,
       "candidates": [
         {
