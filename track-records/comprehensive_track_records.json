@@ -1,3 +1,4 @@
+
 {
   "year": "2025",
   "description": "Comprehensive track records for Malawi presidential candidates",
@@ -11,15 +12,8 @@
       "trackRecords": [
         {
           "year": 2014,
-          "position": 2,
-          "totalVotes": 1000,
-          "percentage": 25
-        },
-        {
-          "year": 2019,
-          "position": 3,
-          "totalVotes": 1000,
-          "percentage": 25
+          "totalVotes": 1056236,
+          "percentage": 20.2
         }
       ]
     },
@@ -31,21 +25,18 @@
       "trackRecords": [
         {
           "year": 2014,
-          "position": 2,
           "totalVotes": 1455880,
           "percentage": 27.8
         },
         {
           "year": 2019,
-          "position": 2,
           "totalVotes": 1781740,
-          "percentage": 35.4
+          "percentage": 35.41
         },
         {
           "year": 2020,
-          "position": 1,
           "totalVotes": 2604043,
-          "percentage": 59.3
+          "percentage": 59.34
         }
       ]
     },
@@ -56,10 +47,14 @@
       "gender": "Male",
       "trackRecords": [
         {
+          "year": 2014,
+          "totalVotes": 717224,
+          "percentage": 13.7
+        },
+        {
           "year": 2019,
-          "position": 3,
-          "totalVotes": 476765,
-          "percentage": 10.5
+          "totalVotes": 235164,
+          "percentage": 4.67
         }
       ]
     },
@@ -71,21 +66,171 @@
       "trackRecords": [
         {
           "year": 2014,
-          "position": 1,
           "totalVotes": 1904399,
           "percentage": 36.4
         },
         {
           "year": 2019,
-          "position": 1,
-          "totalVotes": 1751877,
-          "percentage": 38.6
+          "totalVotes": 1945907,
+          "percentage": 38.57
         },
         {
           "year": 2020,
-          "position": 2,
-          "totalVotes": 1781682,
-          "percentage": 39.9
+          "totalVotes": 1751877,
+          "percentage": 39.92
+        }
+      ]
+    },
+    "KAMCHI": {
+      "fullname": "Kamuzu Walter Chibambo",
+      "firstname": "Kamuzu",
+      "lastname": "Chibambo",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 19360,
+          "percentage": 0.4
+        }
+      ]
+    },
+    "JOHCHI": {
+      "fullname": "Prof. John Chisi",
+      "firstname": "John",
+      "lastname": "Chisi",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 12048,
+          "percentage": 0.2
+        },
+        {
+          "year": 2019,
+          "totalVotes": 19187,
+          "percentage": 0.38
+        }
+      ]
+    },
+    "FRIJUM": {
+      "fullname": "Friday Anderson Jumbe",
+      "firstname": "Friday",
+      "lastname": "Jumbe",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 8819,
+          "percentage": 0.2
+        }
+      ]
+    },
+    "AARKAT": {
+      "fullname": "Aaron Davies Chester Katsonga",
+      "firstname": "Aaron",
+      "lastname": "Katsonga",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 7454,
+          "percentage": 0.1
+        }
+      ]
+    },
+    "MARPHI": {
+      "fullname": "Mark Katsonga Phiri",
+      "firstname": "Mark",
+      "lastname": "Phiri",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 15830,
+          "percentage": 0.3
+        }
+      ]
+    },
+    "GEONNE": {
+      "fullname": "George Nnensa",
+      "firstname": "George",
+      "lastname": "Nnensa",
+      "gender": "",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 11042,
+          "percentage": 0.2
+        }
+      ]
+    },
+    "JAMNYO": {
+      "fullname": "James Mbowe Nyondo",
+      "firstname": "James",
+      "lastname": "Nyondo",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 10623,
+          "percentage": 0.2
+        }
+      ]
+    },
+    "ABUSIN": {
+      "fullname": "Abusa Helen Singh",
+      "firstname": "Abusa",
+      "lastname": "Singh",
+      "gender": "Female",
+      "trackRecords": [
+        {
+          "year": 2014,
+          "totalVotes": 9668,
+          "percentage": 0.2
+        }
+      ]
+    },
+    "SAUCHI": {
+      "fullname": "Dr. Saulos Klaus Chilima",
+      "firstname": "Saulos",
+      "lastname": "Chilima",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2019,
+          "totalVotes": 1018369,
+          "percentage": 20.24
+        }
+      ]
+    },
+    "HADKAL": {
+      "fullname": "Reverend Hadwick Kaliya",
+      "firstname": "Hadwick",
+      "lastname": "Kaliya",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2019,
+          "totalVotes": 15728,
+          "percentage": 0.31
+        }
+      ]
+    },
+    "PETKUW": {
+      "fullname": "Peter Dsd Kuwani",
+      "firstname": "Peter",
+      "lastname": "Kuwani",
+      "gender": "Male",
+      "trackRecords": [
+        {
+          "year": 2019,
+          "totalVotes": 20369,
+          "percentage": 0.4
+        },
+        {
+          "year": 2020,
+          "totalVotes": 32458,
+          "percentage": 0.74
         }
       ]
     }

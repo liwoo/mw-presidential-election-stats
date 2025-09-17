@@ -7,23 +7,19 @@
       "constituencies": [
         {
           "code": "153",
-          "name": "Balaka Ulongwe"
+          "name": "Balaka Central East"
         },
         {
           "code": "154",
-          "name": "Balaka Bwaila"
+          "name": "Balaka North"
         },
         {
           "code": "155",
-          "name": "Balaka Ngwangwa"
+          "name": "Balaka West"
         },
         {
           "code": "156",
-          "name": "Balaka Rivirivi"
-        },
-        {
-          "code": "157",
-          "name": "Balaka Mulunguzi"
+          "name": "Balaka South"
         }
       ]
     },
@@ -38,63 +34,51 @@
         },
         {
           "code": "171",
-          "name": "Blantyre Central"
-        },
-        {
-          "code": "172",
-          "name": "Blantyre West"
-        },
-        {
-          "code": "173",
           "name": "Blantyre North East"
         },
         {
-          "code": "174",
+          "code": "172",
+          "name": "Blantyre Rural East"
+        },
+        {
+          "code": "173",
           "name": "Blantyre South West"
         },
         {
+          "code": "174",
+          "name": "Blantyre City Centre"
+        },
+        {
           "code": "175",
-          "name": "Blantyre South East"
+          "name": "Blantyre Malabada"
         },
         {
           "code": "199",
-          "name": "Blantyre City South Lunzu"
+          "name": "Blantyre City South"
         },
         {
           "code": "200",
-          "name": "Blantyre City Michiru-Chirimba"
+          "name": "Blantyre City East"
         },
         {
           "code": "201",
-          "name": "Blantyre City Mapanga-Mpingwe-Mzedi"
+          "name": "Blantyre Bangwe"
         },
         {
           "code": "202",
-          "name": "Blantyre City Ndirande Malabada Nyambadwe"
+          "name": "Blantyre City South East"
         },
         {
           "code": "203",
-          "name": "Blantyre City Chilomoni Kabula Nancholi"
+          "name": "Blantyre City West"
         },
         {
           "code": "204",
-          "name": "Blantyre City Mbayani-Mussa Magasa"
+          "name": "Blantyre Kabula"
         },
         {
           "code": "205",
-          "name": "Blantyre City Nkolokoti-Ndirande Matope"
-        },
-        {
-          "code": "206",
-          "name": "Blantyre City Chichiri-Misesa"
-        },
-        {
-          "code": "207",
-          "name": "Blantyre City Soche-Zingwangwa"
-        },
-        {
-          "code": "208",
-          "name": "Blantyre City Chigumula Bca-Club Banana"
+          "name": "Blantyre West"
         }
       ]
     },
@@ -105,19 +89,19 @@
       "constituencies": [
         {
           "code": "209",
-          "name": "Chikwawa West"
+          "name": "Chikwawa South"
         },
         {
           "code": "210",
-          "name": "Chikwawa North"
+          "name": "Chikwawa Mkombezi"
         },
         {
           "code": "211",
-          "name": "Chikwawa Central West"
+          "name": "Chikwawa Central"
         },
         {
           "code": "212",
-          "name": "Chikwawa Central"
+          "name": "Chikwawa North"
         },
         {
           "code": "213",
@@ -125,11 +109,7 @@
         },
         {
           "code": "214",
-          "name": "Chikwawa Mkombedzi"
-        },
-        {
-          "code": "215",
-          "name": "Chikwawa South"
+          "name": "Chikwawa West"
         }
       ]
     },
@@ -140,23 +120,23 @@
       "constituencies": [
         {
           "code": "185",
-          "name": "Chiradzulu Nyungwe"
+          "name": "Chiradzulu South"
         },
         {
           "code": "186",
-          "name": "Chiradzulu Masanjala"
+          "name": "Chiradzulu Central"
         },
         {
           "code": "187",
-          "name": "Chiradzulu Thumbwe"
+          "name": "Chiradzulu North"
         },
         {
           "code": "188",
-          "name": "Chiradzulu Nguludi"
+          "name": "Chiradzulu East"
         },
         {
           "code": "189",
-          "name": "Chiradzulu Midima"
+          "name": "Chiradzulu West"
         }
       ]
     },
@@ -167,23 +147,23 @@
       "constituencies": [
         {
           "code": "001",
-          "name": "Chitipa North"
-        },
-        {
-          "code": "002",
-          "name": "Chitipa Central"
-        },
-        {
-          "code": "003",
           "name": "Chitipa East"
         },
         {
+          "code": "002",
+          "name": "Chitipa South"
+        },
+        {
+          "code": "003",
+          "name": "Chitipa Central"
+        },
+        {
           "code": "004",
-          "name": "Chitipa Chendo"
+          "name": "Chitipa North"
         },
         {
           "code": "005",
-          "name": "Chitipa South"
+          "name": "Chitipa Wenya"
         }
       ]
     },
@@ -194,43 +174,35 @@
       "constituencies": [
         {
           "code": "114",
-          "name": "Dedza Mayani"
+          "name": "Dedza North"
         },
         {
           "code": "115",
-          "name": "Dedza Mlunduni"
+          "name": "Dedza Central"
         },
         {
           "code": "116",
-          "name": "Dedza Kasina"
+          "name": "Dedza South West"
         },
         {
           "code": "117",
-          "name": "Dedza Mtakataka"
+          "name": "Dedza North West"
         },
         {
           "code": "118",
-          "name": "Dedza Linthipe"
+          "name": "Dedza East"
         },
         {
           "code": "119",
-          "name": "Dedza Boma"
+          "name": "Dedza South"
         },
         {
           "code": "120",
-          "name": "Dedza Golomoti"
+          "name": "Dedza West"
         },
         {
           "code": "121",
-          "name": "Dedza Chikoma"
-        },
-        {
-          "code": "122",
-          "name": "Dedza Mphunzi"
-        },
-        {
-          "code": "123",
-          "name": "Dedza Dzalanyama"
+          "name": "Dedza Central East"
         }
       ]
     },
@@ -241,43 +213,31 @@
       "constituencies": [
         {
           "code": "060",
-          "name": "Dowa Ngala"
-        },
-        {
-          "code": "061",
-          "name": "Dowa Kasangadzi"
-        },
-        {
-          "code": "062",
-          "name": "Dowa Mphudzu"
-        },
-        {
-          "code": "063",
-          "name": "Dowa Central"
-        },
-        {
-          "code": "064",
-          "name": "Dowa Mndolera"
-        },
-        {
-          "code": "065",
-          "name": "Dowa North East"
-        },
-        {
-          "code": "066",
-          "name": "Dowa West"
-        },
-        {
-          "code": "067",
           "name": "Dowa East"
         },
         {
-          "code": "068",
-          "name": "Dowa Central East"
+          "code": "061",
+          "name": "Dowa South East"
         },
         {
-          "code": "069",
-          "name": "Dowa South East"
+          "code": "062",
+          "name": "Dowa North East"
+        },
+        {
+          "code": "063",
+          "name": "Dowa Ngala"
+        },
+        {
+          "code": "064",
+          "name": "Dowa Central"
+        },
+        {
+          "code": "065",
+          "name": "Dowa West"
+        },
+        {
+          "code": "066",
+          "name": "Dowa North"
         }
       ]
     },
@@ -288,11 +248,11 @@
       "constituencies": [
         {
           "code": "006",
-          "name": "Karonga Songwe"
+          "name": "Karonga North"
         },
         {
           "code": "007",
-          "name": "Karonga Lufilya"
+          "name": "Karonga North West"
         },
         {
           "code": "008",
@@ -305,10 +265,6 @@
         {
           "code": "010",
           "name": "Karonga South"
-        },
-        {
-          "code": "011",
-          "name": "Karonga Town"
         }
       ]
     },
@@ -323,7 +279,7 @@
         },
         {
           "code": "045",
-          "name": "Kasungu North West"
+          "name": "Kasungu North North East"
         },
         {
           "code": "046",
@@ -331,35 +287,27 @@
         },
         {
           "code": "047",
-          "name": "Kasungu North North East"
+          "name": "Kasungu North West"
         },
         {
           "code": "048",
-          "name": "Kasungu East"
-        },
-        {
-          "code": "049",
-          "name": "Kasungu North East"
-        },
-        {
-          "code": "050",
-          "name": "Kasungu Central"
-        },
-        {
-          "code": "051",
-          "name": "Kasungu South East"
-        },
-        {
-          "code": "052",
-          "name": "Kasungu South West"
-        },
-        {
-          "code": "053",
           "name": "Kasungu South"
         },
         {
-          "code": "054",
-          "name": "Kasungu Municipality"
+          "code": "049",
+          "name": "Kasungu South East"
+        },
+        {
+          "code": "050",
+          "name": "Kasungu East"
+        },
+        {
+          "code": "051",
+          "name": "Kasungu Central"
+        },
+        {
+          "code": "052",
+          "name": "Kasungu North East"
         }
       ]
     },
@@ -370,123 +318,91 @@
       "constituencies": [
         {
           "code": "084",
-          "name": "Lilongwe Mphande"
-        },
-        {
-          "code": "085",
-          "name": "Lilongwe Mude"
-        },
-        {
-          "code": "086",
-          "name": "Lilongwe Demera"
-        },
-        {
-          "code": "087",
-          "name": "Lilongwe Chiwamba"
-        },
-        {
-          "code": "088",
-          "name": "Lilongwe East"
-        },
-        {
-          "code": "089",
           "name": "Lilongwe Mapuyu North"
         },
         {
-          "code": "090",
-          "name": "Lilongwe Machenga"
-        },
-        {
-          "code": "091",
-          "name": "Lilongwe Nkhoma"
-        },
-        {
-          "code": "092",
-          "name": "Lilongwe Likuni"
-        },
-        {
-          "code": "093",
-          "name": "Lilongwe Central"
-        },
-        {
-          "code": "094",
-          "name": "Lilongwe Mpenu"
-        },
-        {
-          "code": "095",
+          "code": "085",
           "name": "Lilongwe Mapuyu South"
         },
         {
+          "code": "086",
+          "name": "Lilongwe North"
+        },
+        {
+          "code": "087",
+          "name": "Lilongwe Msozi South"
+        },
+        {
+          "code": "088",
+          "name": "Lilongwe Msozi North"
+        },
+        {
+          "code": "089",
+          "name": "Lilongwe Kumachenga"
+        },
+        {
+          "code": "090",
+          "name": "Lilongwe North East"
+        },
+        {
+          "code": "091",
+          "name": "Lilongwe City West"
+        },
+        {
+          "code": "092",
+          "name": "Lilongwe Mpenu Nkhoma"
+        },
+        {
+          "code": "093",
+          "name": "Lilongwe Mpenu"
+        },
+        {
+          "code": "094",
+          "name": "Lilongwe South East"
+        },
+        {
+          "code": "095",
+          "name": "Lilongwe East"
+        },
+        {
           "code": "096",
-          "name": "Lilongwe Nyanja"
+          "name": "Lilongwe Central"
         },
         {
           "code": "097",
-          "name": "Lilongwe Msozi"
-        },
-        {
-          "code": "098",
-          "name": "Lilongwe Bunda"
-        },
-        {
-          "code": "099",
-          "name": "Lilongwe Phirilanjuzi"
-        },
-        {
-          "code": "100",
-          "name": "Lilongwe Msinja South"
-        },
-        {
-          "code": "101",
-          "name": "Lilongwe Msinja North"
-        },
-        {
-          "code": "102",
-          "name": "Lilongwe City Lumbadzi"
-        },
-        {
-          "code": "103",
-          "name": "Lilongwe City Dzenza"
-        },
-        {
-          "code": "104",
           "name": "Lilongwe City Centre"
         },
         {
+          "code": "098",
+          "name": "Lilongwe North West"
+        },
+        {
+          "code": "099",
+          "name": "Lilongwe City North"
+        },
+        {
+          "code": "100",
+          "name": "Lilongwe South West"
+        },
+        {
+          "code": "101",
+          "name": "Lilongwe City South East"
+        },
+        {
+          "code": "102",
+          "name": "Lilongwe City South West"
+        },
+        {
+          "code": "103",
+          "name": "Lilongwe Msinja North"
+        },
+        {
+          "code": "104",
+          "name": "Lilongwe Msinja South"
+        },
+        {
           "code": "105",
-          "name": "Lilongwe City Chipala-Nafisi"
-        },
-        {
-          "code": "106",
-          "name": "Lilongwe City Nankhaka"
-        },
-        {
-          "code": "107",
-          "name": "Lilongwe City Mtandire-Mtsiriza"
-        },
-        {
-          "code": "108",
-          "name": "Lilongwe City Bwaila"
-        },
-        {
-          "code": "109",
-          "name": "Lilongwe City Masintha"
-        },
-        {
-          "code": "110",
-          "name": "Lilongwe City M'buka"
-        },
-        {
-          "code": "111",
-          "name": "Lilongwe City Mlodza"
-        },
-        {
-          "code": "112",
-          "name": "Lilongwe City Kamphuno"
-        },
-        {
-          "code": "113",
-          "name": "Lilongwe City Ngwenya"
+          "name": "Lilongwe South"
         }
       ]
     },
@@ -508,11 +424,11 @@
       "constituencies": [
         {
           "code": "070",
-          "name": "Mchinji North East"
+          "name": "Mchinji North"
         },
         {
           "code": "071",
-          "name": "Mchinji North"
+          "name": "Mchinji North East"
         },
         {
           "code": "072",
@@ -520,19 +436,15 @@
         },
         {
           "code": "073",
-          "name": "Mchinji West"
+          "name": "Mchinji Central"
         },
         {
           "code": "074",
-          "name": "Mchinji Central East"
+          "name": "Mchinji South"
         },
         {
           "code": "075",
           "name": "Mchinji South West"
-        },
-        {
-          "code": "076",
-          "name": "Mchinji South"
         }
       ]
     },
@@ -547,51 +459,47 @@
         },
         {
           "code": "133",
-          "name": "Mangochi Lutende"
-        },
-        {
-          "code": "134",
-          "name": "Mangochi East"
-        },
-        {
-          "code": "135",
-          "name": "Mangochi Monkey Bay"
-        },
-        {
-          "code": "136",
-          "name": "Mangochi West"
-        },
-        {
-          "code": "137",
-          "name": "Mangochi Central"
-        },
-        {
-          "code": "138",
           "name": "Mangochi North East"
         },
         {
-          "code": "139",
-          "name": "Mangochi Masongola"
-        },
-        {
-          "code": "140",
-          "name": "Mangochi South West"
-        },
-        {
-          "code": "141",
-          "name": "Mangochi South"
-        },
-        {
-          "code": "142",
+          "code": "134",
           "name": "Mangochi Malombe"
         },
         {
-          "code": "143",
+          "code": "135",
+          "name": "Mangochi East"
+        },
+        {
+          "code": "136",
+          "name": "Mangochi South"
+        },
+        {
+          "code": "137",
+          "name": "Mangochi South West"
+        },
+        {
+          "code": "138",
+          "name": "Mangochi Central"
+        },
+        {
+          "code": "139",
           "name": "Mangochi Nkungulu"
         },
         {
-          "code": "144",
-          "name": "Mangochi Municipality"
+          "code": "140",
+          "name": "Mangochi West"
+        },
+        {
+          "code": "141",
+          "name": "Mangochi Monkey Bay"
+        },
+        {
+          "code": "142",
+          "name": "Mangochi Lutende"
+        },
+        {
+          "code": "143",
+          "name": "Mangochi Masongola"
         }
       ]
     },
@@ -606,11 +514,11 @@
         },
         {
           "code": "146",
-          "name": "Machinga South East"
+          "name": "Machinga Central"
         },
         {
           "code": "147",
-          "name": "Machinga Central"
+          "name": "Machinga Central East"
         },
         {
           "code": "148",
@@ -618,19 +526,15 @@
         },
         {
           "code": "149",
-          "name": "Machinga Mikoko"
+          "name": "Machinga South"
         },
         {
           "code": "150",
-          "name": "Machinga Central East"
-        },
-        {
-          "code": "151",
           "name": "Machinga Likwenu"
         },
         {
-          "code": "152",
-          "name": "Machinga South"
+          "code": "151",
+          "name": "Machinga South East"
         }
       ]
     },
@@ -641,39 +545,39 @@
       "constituencies": [
         {
           "code": "190",
-          "name": "Mulanje North"
-        },
-        {
-          "code": "191",
-          "name": "Mulanje West"
-        },
-        {
-          "code": "192",
-          "name": "Mulanje Pasani"
-        },
-        {
-          "code": "193",
-          "name": "Mulanje South West"
-        },
-        {
-          "code": "194",
-          "name": "Mulanje Limbuli"
-        },
-        {
-          "code": "195",
-          "name": "Mulanje South"
-        },
-        {
-          "code": "196",
-          "name": "Mulanje Central"
-        },
-        {
-          "code": "197",
           "name": "Mulanje South East"
         },
         {
-          "code": "198",
+          "code": "191",
+          "name": "Mulanje South"
+        },
+        {
+          "code": "192",
+          "name": "Mulanje Central"
+        },
+        {
+          "code": "193",
+          "name": "Mulanje Limbuli"
+        },
+        {
+          "code": "194",
           "name": "Mulanje Bale"
+        },
+        {
+          "code": "195",
+          "name": "Mulanje South West"
+        },
+        {
+          "code": "196",
+          "name": "Mulanje Pasani"
+        },
+        {
+          "code": "197",
+          "name": "Mulanje West"
+        },
+        {
+          "code": "198",
+          "name": "Mulanje North"
         }
       ]
     },
@@ -703,15 +607,15 @@
         },
         {
           "code": "017",
-          "name": "Mzimba West"
+          "name": "Mzimba North East"
         },
         {
           "code": "018",
-          "name": "Mzimba Kafukule"
+          "name": "Mzimba West"
         },
         {
           "code": "019",
-          "name": "Mzimba North East"
+          "name": "Mzimba South"
         },
         {
           "code": "020",
@@ -719,35 +623,27 @@
         },
         {
           "code": "021",
-          "name": "Mzimba East"
-        },
-        {
-          "code": "022",
           "name": "Mzimba Hora"
         },
         {
-          "code": "023",
-          "name": "Mzimba South West"
+          "code": "022",
+          "name": "Mzimba Luwerezi"
         },
         {
-          "code": "024",
+          "code": "023",
           "name": "Mzimba Solola"
         },
         {
+          "code": "024",
+          "name": "Mzimba East"
+        },
+        {
           "code": "025",
-          "name": "Mzimba Perekezi"
+          "name": "Mzimba South West"
         },
         {
           "code": "026",
-          "name": "Mzimba South"
-        },
-        {
-          "code": "027",
           "name": "Mzimba South East"
-        },
-        {
-          "code": "028",
-          "name": "Mzimba Luwerezi"
         }
       ]
     },
@@ -762,19 +658,19 @@
         },
         {
           "code": "030",
-          "name": "Nkhata Bay Mpamba"
-        },
-        {
-          "code": "031",
           "name": "Nkhata Bay Central"
         },
         {
-          "code": "032",
+          "code": "031",
           "name": "Nkhata Bay West"
         },
         {
+          "code": "032",
+          "name": "Nkhata Bay North West"
+        },
+        {
           "code": "033",
-          "name": "Nkhata Bay Chintheche"
+          "name": "Nkhata Bay South East"
         },
         {
           "code": "034",
@@ -789,15 +685,11 @@
       "constituencies": [
         {
           "code": "167",
-          "name": "Neno North"
+          "name": "Neno South"
         },
         {
           "code": "168",
-          "name": "Neno East"
-        },
-        {
-          "code": "169",
-          "name": "Neno South"
+          "name": "Neno North"
         }
       ]
     },
@@ -808,23 +700,19 @@
       "constituencies": [
         {
           "code": "055",
-          "name": "Ntchisi North"
-        },
-        {
-          "code": "056",
-          "name": "Ntchisi West"
-        },
-        {
-          "code": "057",
-          "name": "Ntchisi Central East"
-        },
-        {
-          "code": "058",
           "name": "Ntchisi East"
         },
         {
-          "code": "059",
+          "code": "056",
           "name": "Ntchisi South"
+        },
+        {
+          "code": "057",
+          "name": "Ntchisi North"
+        },
+        {
+          "code": "058",
+          "name": "Ntchisi North East"
         }
       ]
     },
@@ -835,11 +723,11 @@
       "constituencies": [
         {
           "code": "039",
-          "name": "Nkhotakota Dwangwa"
+          "name": "Nkhotakota North"
         },
         {
           "code": "040",
-          "name": "Nkhotakota Liwaladzi"
+          "name": "Nkhotakota North East"
         },
         {
           "code": "041",
@@ -847,11 +735,11 @@
         },
         {
           "code": "042",
-          "name": "Nkhotakota Chia"
+          "name": "Nkhotakota South"
         },
         {
           "code": "043",
-          "name": "Nkhotakota Mkhula"
+          "name": "Nkhotakota South East"
         }
       ]
     },
@@ -862,11 +750,11 @@
       "constituencies": [
         {
           "code": "225",
-          "name": "Nsanje North"
+          "name": "Nsanje South"
         },
         {
           "code": "226",
-          "name": "Nsanje Lalanje"
+          "name": "Nsanje South West"
         },
         {
           "code": "227",
@@ -874,7 +762,11 @@
         },
         {
           "code": "228",
-          "name": "Nsanje South West"
+          "name": "Nsanje Lalanje"
+        },
+        {
+          "code": "229",
+          "name": "Nsanje North"
         }
       ]
     },
@@ -885,35 +777,31 @@
       "constituencies": [
         {
           "code": "124",
-          "name": "Ntcheu North"
+          "name": "Ntcheu North East"
         },
         {
           "code": "125",
-          "name": "Ntcheu Bwanje"
+          "name": "Ntcheu Bwanje North"
         },
         {
           "code": "126",
-          "name": "Ntcheu North West"
+          "name": "Ntcheu Bwanje South"
         },
         {
           "code": "127",
-          "name": "Ntcheu Central East"
-        },
-        {
-          "code": "128",
           "name": "Ntcheu Central"
         },
         {
+          "code": "128",
+          "name": "Ntcheu South"
+        },
+        {
           "code": "129",
-          "name": "Ntcheu Dzonzi Mvai"
+          "name": "Ntcheu North"
         },
         {
           "code": "130",
-          "name": "Ntcheu Central Central East"
-        },
-        {
-          "code": "131",
-          "name": "Ntcheu South"
+          "name": "Ntcheu West"
         }
       ]
     },
@@ -924,23 +812,23 @@
       "constituencies": [
         {
           "code": "180",
-          "name": "Phalombe North"
-        },
-        {
-          "code": "181",
-          "name": "Phalombe North East"
-        },
-        {
-          "code": "182",
-          "name": "Phalombe Machemba"
-        },
-        {
-          "code": "183",
           "name": "Phalombe South"
         },
         {
-          "code": "184",
+          "code": "181",
+          "name": "Phalombe Central"
+        },
+        {
+          "code": "182",
+          "name": "Phalombe North"
+        },
+        {
+          "code": "183",
           "name": "Phalombe East"
+        },
+        {
+          "code": "184",
+          "name": "Phalombe North East"
         }
       ]
     },
@@ -951,19 +839,19 @@
       "constituencies": [
         {
           "code": "012",
-          "name": "Rumphi North"
-        },
-        {
-          "code": "013",
-          "name": "Rumphi West"
-        },
-        {
-          "code": "014",
           "name": "Rumphi East"
         },
         {
-          "code": "015",
+          "code": "013",
           "name": "Rumphi Central"
+        },
+        {
+          "code": "014",
+          "name": "Rumphi West"
+        },
+        {
+          "code": "015",
+          "name": "Rumphi North"
         }
       ]
     },
@@ -978,23 +866,19 @@
         },
         {
           "code": "078",
-          "name": "Salima Central West"
-        },
-        {
-          "code": "079",
-          "name": "Salima Central East"
-        },
-        {
-          "code": "080",
           "name": "Salima Central"
         },
         {
-          "code": "081",
-          "name": "Salima South Linthipe"
+          "code": "079",
+          "name": "Salima South"
         },
         {
-          "code": "082",
-          "name": "Salima South"
+          "code": "080",
+          "name": "Salima South East"
+        },
+        {
+          "code": "081",
+          "name": "Salima North West"
         }
       ]
     },
@@ -1005,39 +889,31 @@
       "constituencies": [
         {
           "code": "216",
-          "name": "Thyolo Mikolongwe"
+          "name": "Thyolo North"
         },
         {
           "code": "217",
-          "name": "Thyolo Goliati"
+          "name": "Thyolo West"
         },
         {
           "code": "218",
-          "name": "Thyolo Bvumbwe-Masenjere"
-        },
-        {
-          "code": "219",
-          "name": "Thyolo Khonjeni-Mangunda"
-        },
-        {
-          "code": "220",
           "name": "Thyolo Central"
         },
         {
+          "code": "219",
+          "name": "Thyolo South"
+        },
+        {
+          "code": "220",
+          "name": "Thyolo East"
+        },
+        {
           "code": "221",
-          "name": "Thyolo Thava"
+          "name": "Thyolo South West"
         },
         {
           "code": "222",
-          "name": "Thyolo Masambanjati"
-        },
-        {
-          "code": "223",
-          "name": "Thyolo Thekerani"
-        },
-        {
-          "code": "224",
-          "name": "Luchenza"
+          "name": "Thyolo Thava"
         }
       ]
     },
@@ -1048,11 +924,11 @@
       "constituencies": [
         {
           "code": "158",
-          "name": "Zomba Malosa"
+          "name": "Zomba Nsondole"
         },
         {
           "code": "159",
-          "name": "Zomba Nsondole"
+          "name": "Zomba Thondwe"
         },
         {
           "code": "160",
@@ -1060,35 +936,31 @@
         },
         {
           "code": "161",
-          "name": "Zomba Likangala"
-        },
-        {
-          "code": "162",
           "name": "Zomba Changalume"
         },
         {
+          "code": "162",
+          "name": "Zomba Lisanjala"
+        },
+        {
           "code": "163",
-          "name": "Zomba Ntonya"
+          "name": "Zomba Malosa"
         },
         {
           "code": "164",
-          "name": "Zomba Matiya"
+          "name": "Zomba Ntonya"
         },
         {
           "code": "165",
-          "name": "Zomba Thondwe"
+          "name": "Zomba Central"
         },
         {
           "code": "166",
-          "name": "Zomba Chikomwe"
+          "name": "Zomba Likangala"
         },
         {
           "code": "176",
-          "name": "Zomba City North"
-        },
-        {
-          "code": "177",
-          "name": "Zomba City South"
+          "name": "Zomba Chisi"
         }
       ]
     },
@@ -1098,16 +970,9 @@
       "region": "northern",
       "constituencies": [
         {
-          "code": "035",
-          "name": "Mzuzu City North"
-        },
-        {
-          "code": "036",
-          "name": "Mzuzu City South West"
-        },
-        {
-          "code": "037",
-          "name": "Mzuzu City South East"
+          "code": "000",
+          "name": "Mzuzu City",
+          "isLegacy": true
         }
       ]
     }
