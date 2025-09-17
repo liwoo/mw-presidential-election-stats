@@ -1,10 +1,10 @@
 {
   "districtCode": "ZU",
   "type": "presidential",
-  "nullVotes": 0,
+  "nullVotes": 292,
   "constituencies": [
     {
-      "code": "035",
+      "code": "999",
       "isLegacy": false,
       "candidates": [
         {

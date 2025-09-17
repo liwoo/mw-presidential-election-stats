@@ -1,7 +1,7 @@
 {
   "districtCode": "LK",
   "type": "presidential",
-  "nullVotes": 0,
+  "nullVotes": 22,
   "constituencies": [
     {
       "code": "038",
@@ -9,49 +9,18 @@
       "candidates": [
         {
           "candidateCode": "LAZCHA",
-          "partyCode": "UNKNOWN",
+          "partyCode": "MCP",
           "votes": 2981
         },
         {
           "candidateCode": "PETKUW",
-          "partyCode": "UNKNOWN",
+          "partyCode": "MMD",
           "votes": 37
         },
         {
           "candidateCode": "PETMUT",
-          "partyCode": "UNKNOWN",
+          "partyCode": "DPP",
           "votes": 1690
-        },
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "UNKNOWN",
-          "votes": 6044
-        }
-      ]
-    },
-    {
-      "code": "038",
-      "isLegacy": false,
-      "candidates": [
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "UNKNOWN",
-          "votes": 2981
-        },
-        {
-          "candidateCode": "PETKUW",
-          "partyCode": "UNKNOWN",
-          "votes": 37
-        },
-        {
-          "candidateCode": "PETMUT",
-          "partyCode": "UNKNOWN",
-          "votes": 1690
-        },
-        {
-          "candidateCode": "LAZCHA",
-          "partyCode": "UNKNOWN",
-          "votes": 6044
         }
       ]
     }
