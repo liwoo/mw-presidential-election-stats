@@ -1,0 +1,50 @@
+
+{
+  "districtCode": "LK",
+  "type": "presidential",
+  "nullVotes": 23,
+  "constituencies": [
+    {
+      "code": "038",
+      "name": "Likoma Islands",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 1353
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 2063
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 10
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 6
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 5
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 135
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2225
+        }
+      ]
+    }
+  ]
+}

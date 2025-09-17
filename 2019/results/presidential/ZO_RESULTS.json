@@ -1,0 +1,428 @@
+
+{
+  "districtCode": "ZO",
+  "type": "presidential",
+  "nullVotes": 2134,
+  "constituencies": [
+    {
+      "code": "159",
+      "name": "Zomba Nsondole",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 1391
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 2912
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 105
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 62
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 180
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 2467
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 15512
+        }
+      ]
+    },
+    {
+      "code": "165",
+      "name": "Zomba Thondwe",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 3170
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 4000
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 160
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 154
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 169
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1760
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 22908
+        }
+      ]
+    },
+    {
+      "code": "160",
+      "name": "Zomba Chingale",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 1918
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 3995
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 104
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 77
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 137
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1852
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 9063
+        }
+      ]
+    },
+    {
+      "code": "162",
+      "name": "Zomba Changalume",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 1103
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 2937
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 37
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 31
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 70
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1891
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 13710
+        }
+      ]
+    },
+    {
+      "code": "000",
+      "name": "Zomba Lisanjala",
+      "isLegacy": true,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 594
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 2238
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 65
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 89
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 93
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 2167
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 5960
+        }
+      ]
+    },
+    {
+      "code": "158",
+      "name": "Zomba Malosa",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 6557
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 3782
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 51
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 48
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 55
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 2353
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 7645
+        }
+      ]
+    },
+    {
+      "code": "163",
+      "name": "Zomba Ntonya",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 1937
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 4369
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 83
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 101
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 116
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 3170
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 24271
+        }
+      ]
+    },
+    {
+      "code": "176",
+      "name": "Zomba Central/City",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 4919
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 12729
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 165
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 899
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 83
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 2679
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 15102
+        }
+      ]
+    },
+    {
+      "code": "161",
+      "name": "Zomba Likangala",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 1707
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 3056
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 80
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 84
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 101
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1309
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 22462
+        }
+      ]
+    },
+    {
+      "code": "000",
+      "name": "Zomba Chisi",
+      "isLegacy": true,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 767
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 1847
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 53
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 42
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 40
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 363
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 14390
+        }
+      ]
+    }
+  ]
+}

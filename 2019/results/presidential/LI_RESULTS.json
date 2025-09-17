@@ -1,0 +1,932 @@
+
+{
+  "districtCode": "LI",
+  "type": "presidential",
+  "nullVotes": 10519,
+  "constituencies": [
+    {
+      "code": "089",
+      "name": "Lilongwe Mapuyu North",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 30039
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 1123
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 31
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 23
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 19
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 80
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1009
+        }
+      ]
+    },
+    {
+      "code": "095",
+      "name": "Lilongwe Mapuyu South",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 21608
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 819
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 79
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 72
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 49
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 157
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1096
+        }
+      ]
+    },
+    {
+      "code": "084",
+      "name": "Lilongwe North",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 53347
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 1145
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 97
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 41
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 30
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 173
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1195
+        }
+      ]
+    },
+    {
+      "code": "097",
+      "name": "Lilongwe Msozi South",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 19292
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 1676
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 147
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 72
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 41
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 100
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1243
+        }
+      ]
+    },
+    {
+      "code": "096",
+      "name": "Lilongwe Msozi North",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 14181
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 855
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 24
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 19
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 22
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 98
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1480
+        }
+      ]
+    },
+    {
+      "code": "090",
+      "name": "Lilongwe Kumachenga",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 12845
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 2297
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 25
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 10
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 15
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 83
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1333
+        }
+      ]
+    },
+    {
+      "code": "088",
+      "name": "Lilongwe North East",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 28569
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 2380
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 169
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 108
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 70
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 142
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1821
+        }
+      ]
+    },
+    {
+      "code": "111",
+      "name": "Lilongwe City West",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 29304
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 24773
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 72
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 40
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 54
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 3366
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 16308
+        }
+      ]
+    },
+    {
+      "code": "098",
+      "name": "Lilongwe Mpenu Nkhoma",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 16511
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 1029
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 47
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 45
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 41
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 37
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 727
+        }
+      ]
+    },
+    {
+      "code": "094",
+      "name": "Lilongwe Mpenu",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 14727
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 883
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 68
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 35
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 45
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 65
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1541
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "Lilongwe South East",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 16332
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 806
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 140
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 109
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 65
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 95
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 868
+        }
+      ]
+    },
+    {
+      "code": "088",
+      "name": "Lilongwe East",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 9178
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 540
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 63
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 42
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 35
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 58
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 666
+        }
+      ]
+    },
+    {
+      "code": "093",
+      "name": "Lilongwe Central",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 15483
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 3047
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 51
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 36
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 41
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 411
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2889
+        }
+      ]
+    },
+    {
+      "code": "104",
+      "name": "Lilongwe City Centre",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 39474
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 31179
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 89
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 71
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 51
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1886
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 19181
+        }
+      ]
+    },
+    {
+      "code": "112",
+      "name": "Lilongwe North West",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 42521
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 654
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 36
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 21
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 32
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 92
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1350
+        }
+      ]
+    },
+    {
+      "code": "102",
+      "name": "Lilongwe City North",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 41131
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 3350
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 115
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 48
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 31
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 277
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2235
+        }
+      ]
+    },
+    {
+      "code": "109",
+      "name": "Lilongwe South West",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 30692
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 4849
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 59
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 37
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 57
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 342
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2714
+        }
+      ]
+    },
+    {
+      "code": "110",
+      "name": "Lilongwe City South East",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 16592
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 14625
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 31
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 13
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 18
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 2061
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 8117
+        }
+      ]
+    },
+    {
+      "code": "108",
+      "name": "Lilongwe City South West",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 18085
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 15154
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 38
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 12
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 223
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 3104
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 9105
+        }
+      ]
+    },
+    {
+      "code": "101",
+      "name": "Lilongwe Msinja North",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 21553
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 1426
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 91
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 85
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 87
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 316
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 4353
+        }
+      ]
+    },
+    {
+      "code": "100",
+      "name": "Lilongwe Msinja South",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 20333
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 595
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 38
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 44
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 26
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 46
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1801
+        }
+      ]
+    },
+    {
+      "code": "099",
+      "name": "Lilongwe South",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 19144
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 704
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 65
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 63
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 61
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 75
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 1048
+        }
+      ]
+    }
+  ]
+}
