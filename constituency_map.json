@@ -1,0 +1,770 @@
+{
+  "Blantyre North": {
+    "code": "170",
+    "districtCode": "BL"
+  },
+  "Chitipa East": {
+    "code": "003",
+    "districtCode": "CT"
+  },
+  "Chitipa South": {
+    "code": "005",
+    "districtCode": "CT"
+  },
+  "Chitipa Central": {
+    "code": "002",
+    "districtCode": "CT"
+  },
+  "Karonga North West": {
+    "code": "008",
+    "districtCode": "KR"
+  },
+  "Karonga Central": {
+    "code": "009",
+    "districtCode": "KR"
+  },
+  "Kasungu North": {
+    "code": "048",
+    "districtCode": "KS"
+  },
+  "Kasungu South East": {
+    "code": "050",
+    "districtCode": "KS"
+  },
+  "Kasungu South": {
+    "code": "049",
+    "districtCode": "KS"
+  },
+  "Balaka Central East": {
+    "code": "000",
+    "districtCode": "BA"
+  },
+  "Balaka North": {
+    "code": "000",
+    "districtCode": "BA"
+  },
+  "Balaka West": {
+    "code": "000",
+    "districtCode": "BA"
+  },
+  "Balaka South": {
+    "code": "000",
+    "districtCode": "BA"
+  },
+  "Blantyre North East": {
+    "code": "173",
+    "districtCode": "BL"
+  },
+  "Blantyre Rural East": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre South West": {
+    "code": "174",
+    "districtCode": "BL"
+  },
+  "Blantyre City Centre": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre Malabada": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre City South": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre City East": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre Bangwe": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre City South East": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre City West": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre Kabula": {
+    "code": "000",
+    "districtCode": "BL"
+  },
+  "Blantyre West": {
+    "code": "172",
+    "districtCode": "BL"
+  },
+  "Chikwawa South": {
+    "code": "215",
+    "districtCode": "CK"
+  },
+  "Chikwawa Mkombezi": {
+    "code": "214",
+    "districtCode": "CK"
+  },
+  "Chikwawa Central": {
+    "code": "212",
+    "districtCode": "CK"
+  },
+  "Chikwawa North": {
+    "code": "210",
+    "districtCode": "CK"
+  },
+  "Chikwawa East": {
+    "code": "213",
+    "districtCode": "CK"
+  },
+  "Chikwawa West": {
+    "code": "209",
+    "districtCode": "CK"
+  },
+  "Chiradzulu South": {
+    "code": "000",
+    "districtCode": "CR"
+  },
+  "Chiradzulu Central": {
+    "code": "000",
+    "districtCode": "CR"
+  },
+  "Chiradzulu North": {
+    "code": "000",
+    "districtCode": "CR"
+  },
+  "Chiradzulu East": {
+    "code": "000",
+    "districtCode": "CR"
+  },
+  "Chiradzulu West": {
+    "code": "000",
+    "districtCode": "CR"
+  },
+  "Chitipa North": {
+    "code": "001",
+    "districtCode": "CT"
+  },
+  "Chitipa Chendo": {
+    "code": "004",
+    "districtCode": "CT"
+  },
+  "Dedza North": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza Central": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza South West": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza North West": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza East": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza South": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza West": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dedza Central East": {
+    "code": "000",
+    "districtCode": "DE"
+  },
+  "Dowa East": {
+    "code": "067",
+    "districtCode": "DO"
+  },
+  "Dowa South East": {
+    "code": "069",
+    "districtCode": "DO"
+  },
+  "Dowa North East": {
+    "code": "065",
+    "districtCode": "DO"
+  },
+  "Dowa Ngala": {
+    "code": "060",
+    "districtCode": "DO"
+  },
+  "Dowa Central": {
+    "code": "063",
+    "districtCode": "DO"
+  },
+  "Dowa West": {
+    "code": "066",
+    "districtCode": "DO"
+  },
+  "Dowa North": {
+    "code": "000",
+    "districtCode": "DO"
+  },
+  "Karonga North": {
+    "code": "006",
+    "districtCode": "KR"
+  },
+  "Karonga Nyungwe": {
+    "code": "009",
+    "districtCode": "KR"
+  },
+  "Karonga South": {
+    "code": "010",
+    "districtCode": "KR"
+  },
+  "Kasungu North North East": {
+    "code": "047",
+    "districtCode": "KS"
+  },
+  "Kasungu West": {
+    "code": "046",
+    "districtCode": "KS"
+  },
+  "Kasungu North West": {
+    "code": "045",
+    "districtCode": "KS"
+  },
+  "Kasungu East": {
+    "code": "048",
+    "districtCode": "KS"
+  },
+  "Kasungu Central": {
+    "code": "050",
+    "districtCode": "KS"
+  },
+  "Lilongwe Mapuyu North": {
+    "code": "089",
+    "districtCode": "LI"
+  },
+  "Lilongwe Mapuyu South": {
+    "code": "095",
+    "districtCode": "LI"
+  },
+  "Lilongwe North": {
+    "code": "084",
+    "districtCode": "LI"
+  },
+  "Lilongwe Msozi South": {
+    "code": "097",
+    "districtCode": "LI"
+  },
+  "Lilongwe Msozi North": {
+    "code": "096",
+    "districtCode": "LI"
+  },
+  "Lilongwe Kumachenga": {
+    "code": "090",
+    "districtCode": "LI"
+  },
+  "Lilongwe North East": {
+    "code": "088",
+    "districtCode": "LI"
+  },
+  "Lilongwe City West": {
+    "code": "111",
+    "districtCode": "LI"
+  },
+  "Lilongwe Mpenu Nkhoma": {
+    "code": "098",
+    "districtCode": "LI"
+  },
+  "Lilongwe Mpenu": {
+    "code": "094",
+    "districtCode": "LI"
+  },
+  "Lilongwe South East": {
+    "code": "105",
+    "districtCode": "LI"
+  },
+  "Lilongwe East": {
+    "code": "088",
+    "districtCode": "LI"
+  },
+  "Lilongwe Central": {
+    "code": "093",
+    "districtCode": "LI"
+  },
+  "Lilongwe City Centre": {
+    "code": "104",
+    "districtCode": "LI"
+  },
+  "Lilongwe North West": {
+    "code": "112",
+    "districtCode": "LI"
+  },
+  "Lilongwe City North": {
+    "code": "102",
+    "districtCode": "LI"
+  },
+  "Lilongwe South West": {
+    "code": "109",
+    "districtCode": "LI"
+  },
+  "Lilongwe City South East": {
+    "code": "110",
+    "districtCode": "LI"
+  },
+  "Lilongwe City South West": {
+    "code": "108",
+    "districtCode": "LI"
+  },
+  "Lilongwe Msinja North": {
+    "code": "101",
+    "districtCode": "LI"
+  },
+  "Lilongwe Msinja South": {
+    "code": "100",
+    "districtCode": "LI"
+  },
+  "Lilongwe South": {
+    "code": "099",
+    "districtCode": "LI"
+  },
+  "Likoma Islands": {
+    "code": "038",
+    "districtCode": "LK"
+  },
+  "Mchinji North": {
+    "code": "071",
+    "districtCode": "MC"
+  },
+  "Mchinji North East": {
+    "code": "070",
+    "districtCode": "MC"
+  },
+  "Mchinji East": {
+    "code": "072",
+    "districtCode": "MC"
+  },
+  "Mchinji Central": {
+    "code": "074",
+    "districtCode": "MC"
+  },
+  "Mchinji South": {
+    "code": "076",
+    "districtCode": "MC"
+  },
+  "Mchinji South West": {
+    "code": "075",
+    "districtCode": "MC"
+  },
+  "Mangochi North": {
+    "code": "132",
+    "districtCode": "MG"
+  },
+  "Mangochi North East": {
+    "code": "138",
+    "districtCode": "MG"
+  },
+  "Mangochi Malombe": {
+    "code": "142",
+    "districtCode": "MG"
+  },
+  "Mangochi East": {
+    "code": "134",
+    "districtCode": "MG"
+  },
+  "Mangochi South": {
+    "code": "141",
+    "districtCode": "MG"
+  },
+  "Mangochi South West": {
+    "code": "140",
+    "districtCode": "MG"
+  },
+  "Mangochi Central": {
+    "code": "137",
+    "districtCode": "MG"
+  },
+  "Mangochi Nkungulu": {
+    "code": "143",
+    "districtCode": "MG"
+  },
+  "Mangochi West": {
+    "code": "136",
+    "districtCode": "MG"
+  },
+  "Mangochi Monkey Bay": {
+    "code": "135",
+    "districtCode": "MG"
+  },
+  "Mangochi Lutende": {
+    "code": "133",
+    "districtCode": "MG"
+  },
+  "Mangochi Masongola": {
+    "code": "139",
+    "districtCode": "MG"
+  },
+  "Machinga North East": {
+    "code": "145",
+    "districtCode": "MH"
+  },
+  "Machinga Central": {
+    "code": "147",
+    "districtCode": "MH"
+  },
+  "Machinga Central East": {
+    "code": "150",
+    "districtCode": "MH"
+  },
+  "Machinga East": {
+    "code": "148",
+    "districtCode": "MH"
+  },
+  "Machinga South": {
+    "code": "152",
+    "districtCode": "MH"
+  },
+  "Machinga Likwenu": {
+    "code": "151",
+    "districtCode": "MH"
+  },
+  "Machinga South East": {
+    "code": "146",
+    "districtCode": "MH"
+  },
+  "Mulanje South East": {
+    "code": "197",
+    "districtCode": "MU"
+  },
+  "Mulanje South": {
+    "code": "195",
+    "districtCode": "MU"
+  },
+  "Mulanje Central": {
+    "code": "196",
+    "districtCode": "MU"
+  },
+  "Mulanje Limbuli": {
+    "code": "194",
+    "districtCode": "MU"
+  },
+  "Mulanje Bale": {
+    "code": "198",
+    "districtCode": "MU"
+  },
+  "Mulanje South West": {
+    "code": "193",
+    "districtCode": "MU"
+  },
+  "Mulanje Pasani": {
+    "code": "192",
+    "districtCode": "MU"
+  },
+  "Mulanje West": {
+    "code": "191",
+    "districtCode": "MU"
+  },
+  "Mulanje North": {
+    "code": "190",
+    "districtCode": "MU"
+  },
+  "Mwanza Central": {
+    "code": "178",
+    "districtCode": "MW"
+  },
+  "Mwanza West": {
+    "code": "179",
+    "districtCode": "MW"
+  },
+  "Mzimba North": {
+    "code": "016",
+    "districtCode": "MZ"
+  },
+  "Mzimba North East": {
+    "code": "019",
+    "districtCode": "MZ"
+  },
+  "Mzimba West": {
+    "code": "017",
+    "districtCode": "MZ"
+  },
+  "Mzimba South": {
+    "code": "026",
+    "districtCode": "MZ"
+  },
+  "Mzimba Central": {
+    "code": "020",
+    "districtCode": "MZ"
+  },
+  "Mzimba Hora": {
+    "code": "022",
+    "districtCode": "MZ"
+  },
+  "Mzimba Luwerezi": {
+    "code": "028",
+    "districtCode": "MZ"
+  },
+  "Mzimba Solola": {
+    "code": "024",
+    "districtCode": "MZ"
+  },
+  "Mzimba East": {
+    "code": "021",
+    "districtCode": "MZ"
+  },
+  "Mzimba South West": {
+    "code": "023",
+    "districtCode": "MZ"
+  },
+  "Mzimba South East": {
+    "code": "027",
+    "districtCode": "MZ"
+  },
+  "Mzuzu City": {
+    "code": "018",
+    "districtCode": "MZ"
+  },
+  "Nkhata Bay North": {
+    "code": "029",
+    "districtCode": "NB"
+  },
+  "Nkhata Bay Central": {
+    "code": "031",
+    "districtCode": "NB"
+  },
+  "Nkhata Bay West": {
+    "code": "032",
+    "districtCode": "NB"
+  },
+  "Nkhata Bay North West": {
+    "code": "000",
+    "districtCode": "NB"
+  },
+  "Nkhata Bay South East": {
+    "code": "000",
+    "districtCode": "NB"
+  },
+  "Nkhata Bay South": {
+    "code": "034",
+    "districtCode": "NB"
+  },
+  "Neno South": {
+    "code": "169",
+    "districtCode": "NE"
+  },
+  "Neno North": {
+    "code": "167",
+    "districtCode": "NE"
+  },
+  "Ntchisi East": {
+    "code": "058",
+    "districtCode": "NI"
+  },
+  "Ntchisi South": {
+    "code": "059",
+    "districtCode": "NI"
+  },
+  "Ntchisi North": {
+    "code": "055",
+    "districtCode": "NI"
+  },
+  "Ntchisi North East": {
+    "code": "000",
+    "districtCode": "NI"
+  },
+  "Nkhotakota North": {
+    "code": "039",
+    "districtCode": "NK"
+  },
+  "Nkhotakota North East": {
+    "code": "040",
+    "districtCode": "NK"
+  },
+  "Nkhotakota Central": {
+    "code": "041",
+    "districtCode": "NK"
+  },
+  "Nkhotakota South": {
+    "code": "042",
+    "districtCode": "NK"
+  },
+  "Nkhotakota South East": {
+    "code": "043",
+    "districtCode": "NK"
+  },
+  "Nsanje South": {
+    "code": "000",
+    "districtCode": "NS"
+  },
+  "Nsanje South West": {
+    "code": "228",
+    "districtCode": "NS"
+  },
+  "Nsanje Central": {
+    "code": "227",
+    "districtCode": "NS"
+  },
+  "Nsanje Lalanje": {
+    "code": "226",
+    "districtCode": "NS"
+  },
+  "Nsanje North": {
+    "code": "225",
+    "districtCode": "NS"
+  },
+  "Ntcheu North East": {
+    "code": "000",
+    "districtCode": "NU"
+  },
+  "Ntcheu Bwanje North": {
+    "code": "125",
+    "districtCode": "NU"
+  },
+  "Ntcheu Bwanje South": {
+    "code": "125",
+    "districtCode": "NU"
+  },
+  "Ntcheu Central": {
+    "code": "128",
+    "districtCode": "NU"
+  },
+  "Ntcheu South": {
+    "code": "131",
+    "districtCode": "NU"
+  },
+  "Ntcheu North": {
+    "code": "124",
+    "districtCode": "NU"
+  },
+  "Ntcheu West": {
+    "code": "000",
+    "districtCode": "NU"
+  },
+  "Phalombe South": {
+    "code": "183",
+    "districtCode": "PH"
+  },
+  "Phalombe Central": {
+    "code": "000",
+    "districtCode": "PH"
+  },
+  "Phalombe North": {
+    "code": "180",
+    "districtCode": "PH"
+  },
+  "Phalombe East": {
+    "code": "184",
+    "districtCode": "PH"
+  },
+  "Phalombe North East": {
+    "code": "181",
+    "districtCode": "PH"
+  },
+  "Rumphi East": {
+    "code": "014",
+    "districtCode": "RU"
+  },
+  "Rumphi Central": {
+    "code": "015",
+    "districtCode": "RU"
+  },
+  "Rumphi West": {
+    "code": "013",
+    "districtCode": "RU"
+  },
+  "Rumphi North": {
+    "code": "012",
+    "districtCode": "RU"
+  },
+  "Salima North": {
+    "code": "077",
+    "districtCode": "SA"
+  },
+  "Salima Central": {
+    "code": "080",
+    "districtCode": "SA"
+  },
+  "Salima South": {
+    "code": "082",
+    "districtCode": "SA"
+  },
+  "Salima South East": {
+    "code": "000",
+    "districtCode": "SA"
+  },
+  "Salima North West": {
+    "code": "000",
+    "districtCode": "SA"
+  },
+  "Thyolo North": {
+    "code": "000",
+    "districtCode": "TH"
+  },
+  "Thyolo West": {
+    "code": "000",
+    "districtCode": "TH"
+  },
+  "Thyolo Central": {
+    "code": "220",
+    "districtCode": "TH"
+  },
+  "Thyolo South (Thekerani)": {
+    "code": "223",
+    "districtCode": "TH"
+  },
+  "Thyolo East": {
+    "code": "000",
+    "districtCode": "TH"
+  },
+  "Thyolo South West": {
+    "code": "000",
+    "districtCode": "TH"
+  },
+  "Thyolo Thava": {
+    "code": "221",
+    "districtCode": "TH"
+  },
+  "Zomba Nsondole": {
+    "code": "159",
+    "districtCode": "ZO"
+  },
+  "Zomba Thondwe": {
+    "code": "165",
+    "districtCode": "ZO"
+  },
+  "Zomba Chingale": {
+    "code": "160",
+    "districtCode": "ZO"
+  },
+  "Zomba Changalume": {
+    "code": "162",
+    "districtCode": "ZO"
+  },
+  "Zomba Lisanjala": {
+    "code": "000",
+    "districtCode": "ZO"
+  },
+  "Zomba Malosa": {
+    "code": "158",
+    "districtCode": "ZO"
+  },
+  "Zomba Ntonya": {
+    "code": "163",
+    "districtCode": "ZO"
+  },
+  "Zomba Central/City": {
+    "code": "176",
+    "districtCode": "ZO"
+  },
+  "Zomba Likangala": {
+    "code": "161",
+    "districtCode": "ZO"
+  },
+  "Zomba Chisi": {
+    "code": "000",
+    "districtCode": "ZO"
+  }
+}

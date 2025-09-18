@@ -1,4 +1,3 @@
-
 {
   "districtCode": "MZ",
   "type": "presidential",
@@ -463,6 +462,48 @@
           "candidateCode": "PETMUT",
           "partyCode": "DPP",
           "votes": 3600
+        }
+      ]
+    },
+    {
+      "code": "018",
+      "name": "Mzuzu City",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 18897
+        },
+        {
+          "candidateCode": "SAUCHI",
+          "partyCode": "UTM",
+          "votes": 39531
+        },
+        {
+          "candidateCode": "JOHCHI",
+          "partyCode": "UP",
+          "votes": 111
+        },
+        {
+          "candidateCode": "HADKAL",
+          "partyCode": "IND",
+          "votes": 43
+        },
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 75
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1068
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 9276
         }
       ]
     }

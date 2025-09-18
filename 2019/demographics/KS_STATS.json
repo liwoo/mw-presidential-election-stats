@@ -1,0 +1,13 @@
+{
+  "year": "2019",
+  "district": "KS",
+  "demographics": [
+    {
+      "constituencyCode": "048",
+      "registeredMale": "2700",
+      "registeredFemale": "2500",
+      "percentageMale": "51.9%",
+      "percentageFemale": "48.1%"
+    }
+  ]
+}

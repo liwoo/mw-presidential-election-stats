@@ -1,0 +1,13 @@
+{
+  "year": "2019",
+  "district": "BL",
+  "demographics": [
+    {
+      "constituencyCode": "170",
+      "registeredMale": "4400",
+      "registeredFemale": "4000",
+      "percentageMale": "52.4%",
+      "percentageFemale": "47.6%"
+    }
+  ]
+}

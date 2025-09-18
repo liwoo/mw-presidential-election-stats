@@ -1,0 +1,13 @@
+{
+  "year": "2019",
+  "district": "MU",
+  "demographics": [
+    {
+      "constituencyCode": "197",
+      "registeredMale": "3800",
+      "registeredFemale": "3500",
+      "percentageMale": "52.1%",
+      "percentageFemale": "47.9%"
+    }
+  ]
+}

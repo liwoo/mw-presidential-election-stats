@@ -1,0 +1,20 @@
+{
+  "year": "2019",
+  "district": "CT",
+  "demographics": [
+    {
+      "constituencyCode": "003",
+      "registeredMale": "762",
+      "registeredFemale": "789",
+      "percentageMale": "49.1%",
+      "percentageFemale": "50.9%"
+    },
+    {
+      "constituencyCode": "005",
+      "registeredMale": "550",
+      "registeredFemale": "500",
+      "percentageMale": "52.4%",
+      "percentageFemale": "47.6%"
+    }
+  ]
+}

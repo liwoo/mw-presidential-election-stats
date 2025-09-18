@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "048",
+      "name": "Kasungu North",
       "isLegacy": false,
       "candidates": [
         {
@@ -66,6 +67,7 @@
     },
     {
       "code": "050",
+      "name": "Kasungu South East",
       "isLegacy": false,
       "candidates": [
         {
@@ -142,6 +144,7 @@
     },
     {
       "code": "049",
+      "name": "Kasungu South",
       "isLegacy": false,
       "candidates": [
         {

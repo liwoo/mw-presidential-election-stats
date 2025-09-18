@@ -5,6 +5,7 @@
   "constituencies": [
     {
       "code": "170",
+      "name": "Blantyre North",
       "isLegacy": false,
       "candidates": [
         {

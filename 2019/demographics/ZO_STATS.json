@@ -1,0 +1,13 @@
+{
+  "year": "2019",
+  "district": "ZO",
+  "demographics": [
+    {
+      "constituencyCode": "165",
+      "registeredMale": "3300",
+      "registeredFemale": "3000",
+      "percentageMale": "52.4%",
+      "percentageFemale": "47.6%"
+    }
+  ]
+}

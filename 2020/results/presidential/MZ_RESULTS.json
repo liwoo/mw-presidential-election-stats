@@ -244,6 +244,34 @@
           "votes": 2034
         }
       ]
+    },
+    {
+      "code": "018",
+      "name": "Mzuzu City",
+      "isLegacy": false,
+      "candidates": [
+        {
+          "candidateCode": "LAZCHA",
+          "partyCode": "MCP",
+          "votes": 11419
+        },
+    
+        {
+          "candidateCode": "PETKUW",
+          "partyCode": "MMD",
+          "votes": 152
+        },
+        {
+          "candidateCode": "ATUMUL",
+          "partyCode": "UDF",
+          "votes": 1068
+        },
+        {
+          "candidateCode": "PETMUT",
+          "partyCode": "DPP",
+          "votes": 2034
+        }
+      ]
     }
   ]
 }

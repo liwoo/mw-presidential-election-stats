@@ -1,0 +1,13 @@
+{
+  "year": "2019",
+  "district": "KR",
+  "demographics": [
+    {
+      "constituencyCode": "008",
+      "registeredMale": "1100",
+      "registeredFemale": "1000",
+      "percentageMale": "52.4%",
+      "percentageFemale": "47.6%"
+    }
+  ]
+}

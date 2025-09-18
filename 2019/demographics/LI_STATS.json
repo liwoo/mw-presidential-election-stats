@@ -1,0 +1,13 @@
+{
+  "year": "2019",
+  "district": "LI",
+  "demographics": [
+    {
+      "constituencyCode": "104",
+      "registeredMale": "-4905",
+      "registeredFemale": "15500",
+      "percentageMale": "-46.3%",
+      "percentageFemale": "146.3%"
+    }
+  ]
+}
